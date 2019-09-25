@@ -2,9 +2,10 @@
 Awesome List of ETC Projects, Mining Pools and Guides
 
 ## Teams
-1. ETC Labs
-2. IOHK
-3. ETC Cooperative
+1. [ETC Labs](https://etclabs.org/)
+2. [IOHK](https://iohk.io/)
+3. [ETC Cooperative](https://etccooperative.org/)
+4. [ChainSafe](https://chainsafe.io/)
 
 ## Clients
 1. Parity
