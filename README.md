@@ -14,8 +14,12 @@ Awesome List of ETC Projects, Mining Pools and Guides
 4. Hyperledger Besu (Coming Soon)
 5. Mantis (No Longer Supported)
 
+## Network Monitoring
+1. https://etcstatus.live/
+2. http://etcstats.net/
+
 ## Dapps
-1. OriginalMy 
+1. https://originalmy.com/
 2. https://www.saturn.network/
 3.
 
@@ -27,7 +31,6 @@ Awesome List of ETC Projects, Mining Pools and Guides
 1. Open-RPC
 2. Jade Suite
 3. Truffle Suite
-
 
 ## Mining Pools
 1. https://etc.ethermine.org/
@@ -48,6 +51,11 @@ Awesome List of ETC Projects, Mining Pools and Guides
 16. http://tpool.io/smartdashboard
 17. https://etc.matpool.io/
 18. https://beepool.org/coindetail/etc
+19. https://uupool.cn/etc/
+20. http://etc.altpool.pro/#/
+21. https://etc.clona.ru/#/
+22. https://etc.fairpool.xyz/
+23. https://etc.zet-tech.eu/#/
 
 ## Exchanges
 1. https://trade.kraken.com/markets/kraken/etc/usd
@@ -74,14 +82,34 @@ Awesome List of ETC Projects, Mining Pools and Guides
 22. https://www.55.com/exchange?symbol=ETCBTC&site=B
 23. https://www.okex.com/market?product=etc_usdt
 24. https://www.saturn.network/
-25. 
+25. https://www.bit-z.com/exchange/etc_btc
+26. https://www.coinsuper.com/trade?symbol=ETC%2FUSD
+27. https://www.exx.com/tradeCoding/etc_usdt
+28. https://sg.upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC
+29. https://www.bcex.ca/trade/etc_usdt
+30. https://en.bithumb.com/trade/order/ETC
+31. https://bisq.network/markets/?currency=etc_btc
+32. https://www.baobi.com/en/trade?c=ETC%2FUSDT
+33. https://coinone.co.kr/exchange/trade/etc/krw
+34. https://www.coinex.com/exchange?currency=usdt&dest=etc
+35. https://www.korbit.co.kr/markets/?market=etc-krw
+36. https://www.lbank.info/exchange.html#/etc/btc
+37. https://www.hbg.com/en-us/exchange/etc_usdt/
+38. https://shapeshift.io/#/coins
+39. https://www.zb.com/trade/kline/etc_qc
+40. 
 
 ## Instant Exchanges
 1. https://fixedfloat.com/
 2. https://changenow.io/
 3. https://exolix.com/
 4. https://www.switchain.com
-5. 
+5. https://coinmerce.io/
+6. https://www.bitladon.com/
+7. https://godex.io/
+8. https://changelly.com/
+9. https://www.coindirect.com/
+10. 
 
 ## Block Explorers
 1. https://blockscout.com/etc/mainnet
@@ -89,7 +117,10 @@ Awesome List of ETC Projects, Mining Pools and Guides
 3. https://etcblockexplorer.com/home
 4. https://etherhub.io/home
 5. https://0xeth.com/
-6. 
+6. https://anycoindirect.eu/en
+7. https://minergate.com/blockchain/etc/blocks
+8. https://etcplanet.org/
+9. 
 
 ## Hardware, Software Wallets
 1. https://www.saturn.network/blog/saturn-wallet-user-manual/
