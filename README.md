@@ -1,5 +1,6 @@
 # Awesome ETC List
 Awesome List of ETC Projects, Mining Pools and Guides
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Teams
 1. [ETC Labs](https://etclabs.org/)
@@ -21,7 +22,6 @@ Awesome List of ETC Projects, Mining Pools and Guides
 ## Dapps
 1. https://originalmy.com/
 2. https://www.saturn.network/
-3.
 
 ## Infrastructure
 1. Ethernode
@@ -97,7 +97,6 @@ Awesome List of ETC Projects, Mining Pools and Guides
 37. https://www.hbg.com/en-us/exchange/etc_usdt/
 38. https://shapeshift.io/#/coins
 39. https://www.zb.com/trade/kline/etc_qc
-40. 
 
 ## Instant Exchanges
 1. https://fixedfloat.com/
@@ -109,7 +108,6 @@ Awesome List of ETC Projects, Mining Pools and Guides
 7. https://godex.io/
 8. https://changelly.com/
 9. https://www.coindirect.com/
-10. 
 
 ## Block Explorers
 1. https://blockscout.com/etc/mainnet
@@ -120,7 +118,6 @@ Awesome List of ETC Projects, Mining Pools and Guides
 6. https://anycoindirect.eu/en
 7. https://minergate.com/blockchain/etc/blocks
 8. https://etcplanet.org/
-9. 
 
 ## Hardware, Software Wallets
 1. https://www.saturn.network/blog/saturn-wallet-user-manual/
@@ -129,4 +126,3 @@ Awesome List of ETC Projects, Mining Pools and Guides
 4. https://trustwallet.com/
 5. https://www.ledger.com/
 6. https://poa.network/dapps?category=wallets
-7. 
