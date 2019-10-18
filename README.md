@@ -1,5 +1,6 @@
 # Awesome ETC List
 Awesome List of ETC Projects, Mining Pools and Guides
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Teams
