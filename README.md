@@ -5,9 +5,10 @@ Awesome List of ETC Projects, Mining Pools and Guides
 
 ## Teams
 1. [ETC Labs](https://etclabs.org/)
-2. [IOHK](https://iohk.io/)
-3. [ETC Cooperative](https://etccooperative.org/)
-4. [ChainSafe](https://chainsafe.io/)
+2. [ETC Core](https://etccore.io/)
+3. [IOHK](https://iohk.io/)
+4. [ETC Cooperative](https://etccooperative.org/)
+5. [ChainSafe](https://chainsafe.io/)
 
 ## Clients
 1. Parity
@@ -23,15 +24,19 @@ Awesome List of ETC Projects, Mining Pools and Guides
 ## Dapps
 1. https://originalmy.com/
 2. https://www.saturn.network/
+3. https://metronome.io/
+4. https://www.coingame.com/index
+5. https://slips.io/
 
 ## Infrastructure
-1. Ethernode
-2. Ethercluster
+1. [Ethernode](https://ethernode.io/)
+2. [Ethercluster](https://www.ethercluster.com/)
+3. [Jade Service Runner](https://github.com/etclabscore/jade-service-runner)
 
 ## Developer Tools
-1. Open-RPC
-2. Jade Suite
-3. Truffle Suite
+1. [Open-RPC](https://open-rpc.org/)
+2. [Jade Suite](https://jade.builders/)
+3. [Truffle Suite](https://www.trufflesuite.com/)
 
 ## Mining Pools
 1. https://etc.ethermine.org/
@@ -113,12 +118,13 @@ Awesome List of ETC Projects, Mining Pools and Guides
 ## Block Explorers
 1. https://blockscout.com/etc/mainnet
 2. https://gastracker.io/
-3. https://etcblockexplorer.com/home
-4. https://etherhub.io/home
-5. https://0xeth.com/
-6. https://anycoindirect.eu/en
-7. https://minergate.com/blockchain/etc/blocks
-8. https://etcplanet.org/
+3. https://explorer.jade.builders/
+4. https://etcblockexplorer.com/home
+5. https://etherhub.io/home
+6. https://0xeth.com/
+7. https://anycoindirect.eu/en
+8. https://minergate.com/blockchain/etc/blocks
+9. https://etcplanet.org/
 
 ## Hardware, Software Wallets
 1. https://www.saturn.network/blog/saturn-wallet-user-manual/
