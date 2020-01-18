@@ -45,9 +45,19 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 ## Network Monitoring
 
 | Name |
-| --- | ---:|
+| --- |
 | [ETCNodes.org](https://etcnodes.org/) |
 | [ETCStatus.live](https://etcstatus.live/) |
+
+## Block Explorers
+
+| Block Explorer |
+| --- |
+| [BlockScout.com](https://blockscout.com/etc/mainnet/) |
+| [ETCBlockExplorer.com](https://etcblockexplorer.com/home) |
+| [ETCPlanet.org](https://etcplanet.org/) |
+| [Expedition.dev](https://expedition.dev/?network=mainnet) |
+| [MinerGate.com](https://minergate.com/blockchain/etc/blocks) |
 
 ## Notable Dapps
 1. https://originalmy.com/
