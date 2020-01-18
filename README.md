@@ -5,8 +5,7 @@
 | An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic') platform. |
 | [Ethereum Classic](https://github.com/ethereumclassic) is an open-source, blockchain and smart contract computing platform. |
 | ![Ethereum Classic][logo] |
-
-`Note:` Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
+| `Note:` Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product. |
 
 <br/>
 <div align="center">
