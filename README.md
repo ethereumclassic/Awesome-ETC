@@ -1,3 +1,5 @@
+![Ethereum Classic][logo]
+
 [logo]: ./ethereum_classic_logo.png "Ethereum Classic"
 
 
