@@ -18,10 +18,7 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 </div>
 <br/>
 
-<div align="center">
 ## Overview
-</div>
-
 >Ethereum is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETH), which primarily serves as a means of payment for transaction fees and as collateral for borrowing specific ERC-20 tokens within the decentralized finance (DeFi) sector.
 
 <div align="center">
