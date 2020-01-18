@@ -2,19 +2,26 @@
 
 *Updated: January, 2020*
 
-<br>
+
+<br/>
 <div align="center">
   <img width="500px" src="./ethereum_classic_logo_2000x2000.png">
+  </div>
+<br/>
+<div align="center">
 An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> platform.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 <br/>
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </div>
 <br/>
+
 <div align="center">
 ## Overview
 </div>
+
 >Ethereum is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETH), which primarily serves as a means of payment for transaction fees and as collateral for borrowing specific ERC-20 tokens within the decentralized finance (DeFi) sector.
 
 <div align="center">
