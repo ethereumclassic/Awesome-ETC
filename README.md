@@ -1,5 +1,6 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
 *(Updated: January, 2020)*
+
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
 | An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic') platform. |
