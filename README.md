@@ -1,6 +1,7 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 *Updated 2020-01*
 
 
