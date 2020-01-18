@@ -14,7 +14,7 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 
 ## Contributing Teams
 
-| Year | Name | Status |
+| Year | Team Name | Status |
 | --- |:---:| ----:|
 | 2015 | [Ethereum Foundation](https://ethereum.org/) | Active |
 | 2016 | [ETC Consortium](https://etcconsortium.org/) | Active |
@@ -29,19 +29,22 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 
 ## Clients
 
-| Name | Status |
+| Client Name | Status |
 | --- | ---:|
 | [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Active |
 | [Geth Classic](https://github.com/etclabscore/go-ethereum) | Active |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Active |
-| [Mantis](https://github.com/paritytech/parity-ethereum) | *Deprecated* |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Deprecated* |
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
 | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
 
 ## Network Monitoring
-1. https://etcstatus.live/
-2. http://etcstats.net/
+
+| Name |
+| --- | ---:|
+| [ETCNodes.org](https://etcnodes.org/) |
+| [ETCStatus.live](https://etcstatus.live/) |
 
 ## Notable Dapps
 1. https://originalmy.com/
