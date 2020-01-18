@@ -73,15 +73,33 @@ Ethereum Project Documentation.
 
 ## Wallets
 
-| Web3 Wallet | Status |
+**Web3 Wallets** are browser extensions for interacting with DApps built on Ethereum based networks.
+
+| Web3 Wallets | Status |
 | --- | ---:|
 | [MetaMask](https://metamask.io/) | Active |
 | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) | Active |
 | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet/) | Active |
 
-- [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
-- [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
-- [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+**Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet
+
+| Interactive Browser Wallets | Status |
+| --- | ---:|
+| [MyCrypto](https://www.mycrypto.com) | Active |
+| [MyEtherWallet](https://www.myetherwallet.com/) | Active |
+
+**Hardware Wallets** are secure wallets designed for long term storage.
+
+| Hardware Wallets | Status |
+| --- | ---:|
+| [Ledger](https://www.ledger.com/) | Active |
+| [Trezor](https://trezor.io/) | Active |
+
+**Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use
+
+**Mobile Wallets** are downloadable apps for Android and IOS
+
+**Desktop Wallets** are downloadable apps for Android and IOS
 
 ## Blockchain Utilities
 
