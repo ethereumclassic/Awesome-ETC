@@ -2,7 +2,7 @@
 
 *Updated 2020-01*
 
-Ethereum Classic Project Repository: https://github.com/ethereumclassic
+**Ethereum Classic Project Repository:** https://github.com/ethereumclassic
 
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
