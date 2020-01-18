@@ -1,5 +1,5 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
-*(Updated: January, 2020)*
+*Updated 2020-01*
 
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
@@ -12,22 +12,33 @@
 # Ethereum Classic Ecosystem
 A non-exhaustive list of the Ethereum Classic ecosystem.
 
-## Prominent Ethereum Classic Teams
+## Contributing Teams
 
 | Year | Name | Status |
 | --- |:---:| ----:|
 | 2015 | [Ethereum Foundation](https://ethereum.org/) | Active |
 | 2016 | [ETC Consortium](https://etcconsortium.org/) | Active |
-| 2016 | [ETCDEV](https://etcdevteam.com/) | Dissolved  |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Active  |
+| 2016 | [ETCDEV](https://etcdevteam.com/) | Active |
+| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Active |
 | 2017 | [ETC Cooperative](https://etccooperative.org/) | Active |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Dissolved  |
+| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Active |
 | 2018 | [ETC Labs](https://etclabs.org/) | Active |
 | 2019 | [ChainSafe](https://chainsafe.io/) | Active |
 | 2019 | [ETC Core](https://etccore.io/) | Active |
-| 2019 | [Hyperledger](https://besu.hyperledger.org/) | Active |
+| 2019 | [Hyperledger](https://hyperledger.org/) | Active |
 
-## Ethereum Classic Clients
+## Clients
+
+| Name | Binaries | Status |
+| --- |:---:| ----:|
+| Emerald Wallet | [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Active |
+| Geth Classic | [Geth Classic](https://github.com/etclabscore/go-ethereum) | Active |
+| Hyperledger Besu | [Hyperledger Besu](https://besu.hyperledger.org/) | Active |
+| Mantis | [Mantis](https://github.com/paritytech/parity-ethereum) | *Deprecated* |
+| Mist Classic | [Mantis](https://github.com/ethereumproject/mist) | *Deprecated* |
+| Multi-Geth | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
+| Parity Ethereum | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
+
 1. Parity
 2. Classic-Geth
 3. Multi-Geth
