@@ -1,6 +1,8 @@
 **Ethereum Classic Project Repository:** https://github.com/ethereumclassic
+
 *Updated: January, 2020*
 
+<br>
 <div align="center">
   <img width="500px" src="./ethereum_classic_logo_2000x2000.png">
 An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> platform.
