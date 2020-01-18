@@ -1,10 +1,10 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
 
-*Updated 2020-01*
+*Updated 2020-01* [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 **Ethereum Classic Project Repository:** https://github.com/ethereumclassic
 
-| [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
+| # Ethereum Classic |
 |:--:|
 | An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) platform. |
 | [Ethereum Classic](https://ethereumclassic.org/) is an open-source, blockchain and smart contract computing platform. |
