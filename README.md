@@ -29,15 +29,15 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 
 ## Clients
 
-| Name | Binaries | Status |
-| --- |:---:| ----:|
-| Emerald Wallet | [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Active |
-| Geth Classic | [Geth Classic](https://github.com/etclabscore/go-ethereum) | Active |
-| Hyperledger Besu | [Hyperledger Besu](https://besu.hyperledger.org/) | Active |
-| Mantis | [Mantis](https://github.com/paritytech/parity-ethereum) | *Deprecated* |
-| Mist Classic | [Mantis](https://github.com/ethereumproject/mist) | *Deprecated* |
-| Multi-Geth | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
-| Parity Ethereum | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
+| Name | Status |
+| --- | ---:|
+| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Active |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | Active |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Active |
+| [Mantis](https://github.com/paritytech/parity-ethereum) | *Deprecated* |
+| [Mist Classic](https://github.com/ethereumproject/mist) | *Deprecated* |
+| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
+| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
 
 1. Parity
 2. Classic-Geth
