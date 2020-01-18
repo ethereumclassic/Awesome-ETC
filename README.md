@@ -1,5 +1,14 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
 
+# Ethereum Classic
+
+## Overview
+The Ethereum Project
+> Ethereum is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETH), which primarily serves as a means of payment for transaction fees and as collateral for borrowing specific ERC-20 tokens within the decentralized finance (DeFi) sector.
+
+Ethereum Classic
+>ther
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 *Updated 2020-01*
@@ -75,11 +84,9 @@ Ethereum Project Documentation.
 
 **Web3 Wallets** are browser extensions for interacting with DApps built on Ethereum based networks.
 
-| Web3 Wallets | Status |
-| --- | ---:|
-| [MetaMask](https://metamask.io/) | Active |
-| [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) | Active |
-| [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet/) | Active |
+- [MetaMask](https://metamask.io/)
+- [Nifty Wallet](https://github.com/poanetwork/nifty-wallet)
+- [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet/)
 
 **Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet
 
