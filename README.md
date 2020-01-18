@@ -39,25 +39,6 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
 | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
 
-1. Parity
-2. Classic-Geth
-3. Multi-Geth
-4. Hyperledger Besu (Coming Soon)
-5. Mantis (No Longer Supported)
-
-| Name | Version | Status |
-| --- |:---:| ----:|
-| 2015 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
-| 2016 | [ETC Consortium](https://etcconsortium.org/) | Active |
-| 2016 | [ETCDEV](https://etcdevteam.com/) | Dissolved  |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Active  |
-| 2017 | [ETC Cooperative](https://etccooperative.org/) | Active |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Dissolved  |
-| 2018 | [ETC Labs](https://etclabs.org/) | Active |
-| 2019 | [ChainSafe](https://chainsafe.io/) | Active |
-| 2019 | [ETC Core](https://etccore.io/) | Active |
-| 2019 | [Hyperledger](https://besu.hyperledger.org/) | Active |
-
 ## Network Monitoring
 1. https://etcstatus.live/
 2. http://etcstats.net/
