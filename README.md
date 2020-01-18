@@ -1,3 +1,19 @@
+<br/>
+<div align="center">
+  <img width="500px" src="./ethereum_classic_logo_2000x2000.png">
+</div>
+<br/>
+<div align="center">
+An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum'>Ethereum</a> platform.
+<br />
+Ethereum is an open-source, blockchain and smart contract computing platform.
+<br/>
+
+
+
+
+
+
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
 
 # Ethereum Classic
