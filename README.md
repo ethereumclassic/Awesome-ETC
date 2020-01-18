@@ -1,12 +1,20 @@
+![](./ethereum_classic_logo.png)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum_Classic'>Ethereum Classic</a> platform.
+Ethereum Classic is an open-source, blockchain and smart contract computing platform.
+
+
+`Note:` Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
+
 <br/>
 <div align="center">
-  <img width="250px" src="./project_logo.jpg">
+  <img width="250px" src="./ethereum_classic_logo.png">
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum'>Ethereum</a> platform.
+An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum_Classic'>Ethereum Classic</a> platform.
 <br />
-Ethereum is an open-source, blockchain and smart contract computing platform.
+Ethereum Classic is an open-source, blockchain and smart contract computing platform.
 <br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
