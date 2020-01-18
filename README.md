@@ -6,8 +6,8 @@
 
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
-| An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic') platform. |
-| [Ethereum Classic](https://github.com/ethereumclassic) is an open-source, blockchain and smart contract computing platform. |
+| An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) platform. |
+| [Ethereum Classic](https://ethereumclassic.org/) is an open-source, blockchain and smart contract computing platform. |
 | ![Ethereum Classic][logo] |
 | Note: Pull requests are welcome! |
 | In the spirit of decentralized applications however, please ensure your submission is not a paywalled product. |
@@ -19,14 +19,16 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 
 1. [Documentation](#documentation)
 2. [Development Teams](#development-teams)
+3. [Network Clients](#network-clients)
+4. [Wallets](#wallets)
+5. [Blockchain Utilities](#blockchain-utilities)
+
 2. [Programming](#programming)
 3. [Tutorials](#tutorials)
 4. [Code](#code)
 5. [Learning and MOOCs](#learning-and-moocs)
 6. [Philosophy](#philosophy)
 7. [Videos](#videos)
-8. [Wallets](#wallets)
-9. [Blockchain Utilities](#blockchain-utilities)
 10. [Protocols](#protocols)
 11. [Books](#books)
 12. [Misc](#misc)
@@ -34,7 +36,7 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 
 ## Documentation
 
-Official Ethereum Documentation.
+Ethereum Project Documentation.
 
 - [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
@@ -47,32 +49,16 @@ Official Ethereum Documentation.
 | 2015 | [Ethereum Foundation](https://ethereum.org/) | Active |
 | 2016 | [ETC Consortium](https://etcconsortium.org/) | Active |
 | 2016 | [ETCDEV](https://etcdevteam.com/) | Active |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Active |
+| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Inactive |
 | 2017 | [ETC Cooperative](https://etccooperative.org/) | Active |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Active |
+| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Inactive |
 | 2018 | [ETC Labs](https://etclabs.org/) | Active |
+| 2018 | [POA Network](https://www.poa.network/) | Active |
 | 2019 | [ChainSafe](https://chainsafe.io/) | Active |
 | 2019 | [ETC Core](https://etccore.io/) | Active |
 | 2019 | [Hyperledger](https://hyperledger.org/) | Active |
 
-## Blockchain Utilities
-
-| Block Explorer |
-| --- |
-| [BlockScout.com](https://blockscout.com/etc/mainnet/) |
-| [ETCBlockExplorer.com](https://etcblockexplorer.com/home) |
-| [ETCPlanet.org](https://etcplanet.org/) |
-| [Expedition.dev](https://expedition.dev/?network=mainnet) |
-| [MinerGate.com](https://minergate.com/blockchain/etc/blocks) |
-
-- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
-- [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
-- [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
-- [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
-- [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
-- [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
-
-## Clients
+## Network Clients
 
 | Client Name | Status |
 | --- | ---:|
@@ -84,9 +70,29 @@ Official Ethereum Documentation.
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
 | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
 
-## Network Monitoring
+## Wallets
 
-| Name |
+| Web3 Wallet | Status |
+| --- | ---:|
+| [MetaMask](https://metamask.io/) | Active |
+| [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) | Active |
+| [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet/) | Active |
+
+- [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+- [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
+- [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+
+## Blockchain Utilities
+
+| Block Explorer |
+| --- |
+| [BlockScout.com](https://blockscout.com/etc/mainnet/) |
+| [ETCBlockExplorer.com](https://etcblockexplorer.com/home) |
+| [ETCPlanet.org](https://etcplanet.org/) |
+| [Expedition.dev](https://expedition.dev/?network=mainnet) |
+| [MinerGate.com](https://minergate.com/blockchain/etc/blocks) |
+
+| Network Monitoring |
 | --- |
 | [ETCNodes.org](https://etcnodes.org/) |
 | [ETCStatus.live](https://etcstatus.live/) |
@@ -262,15 +268,6 @@ The Ideas behind the Ethereum Project.
 - [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 - [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 - [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
-
-## Blockchain Utilities
-
-- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
-- [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
-- [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
-- [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
-- [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
-- [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
 
 ## Protocols
 
