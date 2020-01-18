@@ -1,41 +1,15 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
-
+*(Updated: January, 2020)*
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
 | An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic') platform. |
 | [Ethereum Classic](https://github.com/ethereumclassic) is an open-source, blockchain and smart contract computing platform. |
 | ![Ethereum Classic][logo] |
-| `Note:` Pull requests are welcome!
-In the spirit of decentralized applications however, please ensure your submission is not a paywalled product. |
+| Note: Pull requests are welcome! |
+| In the spirit of decentralized applications however, please ensure your submission is not a paywalled product. |
 
-<br/>
-<div align="center">
-  <img width="250px" src="./ethereum_classic_logo_2000x2000.png">
-</div>
-<br/>
-<div align="center">
-An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum_Classic'>Ethereum Classic</a> platform.
-<br />
-Ethereum Classic is an open-source, blockchain and smart contract computing platform.
-<br/>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
-<br/>
-
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
-
-
-
-
-
-
-# AwesomeEthereum Classic Ecosystem
+# Ethereum Classic Ecosystem
 A non-exhaustive list of the Ethereum Classic ecosystem.
-(Updated: January, 2020)
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Prominent Ethereum Classic Teams
 
