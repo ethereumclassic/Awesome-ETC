@@ -15,7 +15,32 @@
 # Ethereum Classic Ecosystem
 A non-exhaustive list of the Ethereum Classic ecosystem.
 
-## Contributing Teams
+## Contents
+
+1. [Documentation](#documentation)
+2. [Development Teams](#development-teams)
+2. [Programming](#programming)
+3. [Tutorials](#tutorials)
+4. [Code](#code)
+5. [Learning and MOOCs](#learning-and-moocs)
+6. [Philosophy](#philosophy)
+7. [Videos](#videos)
+8. [Wallets](#wallets)
+9. [Blockchain Utilities](#blockchain-utilities)
+10. [Protocols](#protocols)
+11. [Books](#books)
+12. [Misc](#misc)
+13. [Official](#official)
+
+## Documentation
+
+Official Ethereum Documentation.
+
+- [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
+- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
+- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+
+## Development Teams
 
 | Year | Team Name | Status |
 | --- |:---:| ----:|
@@ -29,6 +54,23 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 | 2019 | [ChainSafe](https://chainsafe.io/) | Active |
 | 2019 | [ETC Core](https://etccore.io/) | Active |
 | 2019 | [Hyperledger](https://hyperledger.org/) | Active |
+
+## Blockchain Utilities
+
+| Block Explorer |
+| --- |
+| [BlockScout.com](https://blockscout.com/etc/mainnet/) |
+| [ETCBlockExplorer.com](https://etcblockexplorer.com/home) |
+| [ETCPlanet.org](https://etcplanet.org/) |
+| [Expedition.dev](https://expedition.dev/?network=mainnet) |
+| [MinerGate.com](https://minergate.com/blockchain/etc/blocks) |
+
+- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
+- [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
+- [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
+- [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
+- [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
+- [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
 
 ## Clients
 
@@ -48,16 +90,6 @@ A non-exhaustive list of the Ethereum Classic ecosystem.
 | --- |
 | [ETCNodes.org](https://etcnodes.org/) |
 | [ETCStatus.live](https://etcstatus.live/) |
-
-## Block Explorers
-
-| Block Explorer |
-| --- |
-| [BlockScout.com](https://blockscout.com/etc/mainnet/) |
-| [ETCBlockExplorer.com](https://etcblockexplorer.com/home) |
-| [ETCPlanet.org](https://etcplanet.org/) |
-| [Expedition.dev](https://expedition.dev/?network=mainnet) |
-| [MinerGate.com](https://minergate.com/blockchain/etc/blocks) |
 
 ## Notable Dapps
 1. https://originalmy.com/
@@ -149,16 +181,7 @@ https://commonwealth.gg
 7. https://godex.io/
 8. https://changelly.com/
 9. https://www.coindirect.com/
-
-## Block Explorers
-1. https://blockscout.com/etc/mainnet
-2. https://gastracker.io/
-3. https://etcblockexplorer.com/home
-4. https://etherhub.io/home
-5. https://0xeth.com/
-6. https://anycoindirect.eu/en
-7. https://minergate.com/blockchain/etc/blocks
-8. https://etcplanet.org/
+10. https://anycoindirect.eu/en
 
 ## Hardware, Software Wallets
 1. https://www.saturn.network/blog/saturn-wallet-user-manual/
@@ -167,52 +190,6 @@ https://commonwealth.gg
 4. https://trustwallet.com/
 5. https://www.ledger.com/
 6. https://poa.network/dapps?category=wallets
-
-
-
-<br/>
-<div align="center">
-  <img width="250px" src="./project_logo.jpg">
-</div>
-<br/>
-<div align="center">
-An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum'>Ethereum</a> platform.
-<br />
-Ethereum is an open-source, blockchain and smart contract computing platform.
-<br/>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
-<br/>
-
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
-
-## Contents
-
-1. [Documentation](#documentation)
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Learning and MOOCs](#learning-and-moocs)
-6. [Philosophy](#philosophy)
-7. [Videos](#videos)
-8. [Wallets](#wallets)
-9. [Blockchain Utilities](#blockchain-utilities)
-10. [Protocols](#protocols)
-11. [Books](#books)
-12. [Misc](#misc)
-13. [Official](#official)
-
-
-## Documentation
-
-Official Ethereum Documentation.
-
-- [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
-- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
-- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
-
 
 ## Programming
 
