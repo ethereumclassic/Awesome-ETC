@@ -24,26 +24,6 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 **Rebranding from Ethereum to Ethereum Classic**
 >On July 20, 2016, an event known as "the DAO hack" resulted in a contentious hard fork. A sister chain with an altered state was born. The rights to the Ethereum project's brand is owned by the Ethereum Foundation and they were proponents of the sister chain. So after the fork, the Ethereum Foundation applied the brand to the new version of the Ethereum network; Ethereum (ETH). The unaltered, original state Ethereum chain adopted the brand identity of Ethereum Classic and the ETC ticker symbol. On July 23, 2016, Poloniex announced that it was the first exchange to list ETC.
 
-## History
-**Conception to token sale**
->Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
-
-**Ethereum Foundation ETC token allocation**
-- 3 million ETC were allocated to a long-term endowment
-- 6 million ETC were distributed among 85 developers who contributed prior to the crowdsale
-- 3 million ETC were designed as a “developer purchase program” that gave Ethereum developers the rights to purchase ETC at crowdsale prices.
-
-
-When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now held both ETC and a new asset ETH.
-
-**The rise of initial coin offerings (ICOs)**
->Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
-
-**The DAO hack**
->Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
-
-**Hard Fork: The Birth of Sister Chains**
-
 ## Contents
 
 1. [Documentation](#documentation)
@@ -105,27 +85,40 @@ Ethereum Project Documentation.
 
 - [MetaMask](https://metamask.io/)
 - [Nifty Wallet](https://github.com/poanetwork/nifty-wallet)
-- [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet/)
+- [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/)
 
 **Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet
 
-| Interactive Browser Wallets | Status |
-| --- | ---:|
-| [MyCrypto](https://www.mycrypto.com) | Active |
-| [MyEtherWallet](https://www.myetherwallet.com/) | Active |
+- [MyCrypto](https://www.mycrypto.com)
+- [MyEtherWallet](https://www.myetherwallet.com/)
 
 **Hardware Wallets** are secure wallets designed for long term storage.
 
-| Hardware Wallets | Status |
-| --- | ---:|
-| [Ledger](https://www.ledger.com/) | Active |
-| [Trezor](https://trezor.io/) | Active |
+- [Ledger](https://www.ledger.com/)
+- [Trezor](https://trezor.io/)
 
-**Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use
+**Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use.
 
-**Mobile Wallets** are downloadable apps for Android and IOS
+- [Portis](https://www.portis.io/)
+- [Squarelink](https://squarelink.com/)
+
+**Software Wallets** for Desktop or Mobile devices.
+
+- [Alpha Wallet](https://alphawallet.com/)
+- [Atomic Wallet](https://atomicwallet.io/)
+- [Citowise](https://citowise.com/)
+- [Coinomi](https://www.coinomi.com/)
+- [Jaxx](https://jaxx.io/)
+- [Trust Wallet](https://trustwallet.com/)
 
 **Desktop Wallets** are downloadable apps for Android and IOS
+
+
+
+## Hardware, Software Wallets
+6. https://poa.network/dapps?category=wallets
+
+
 
 ## Blockchain Utilities
 
@@ -234,13 +227,31 @@ https://commonwealth.gg
 9. https://www.coindirect.com/
 10. https://anycoindirect.eu/en
 
-## Hardware, Software Wallets
-1. https://www.saturn.network/blog/saturn-wallet-user-manual/
-2. https://atomicwallet.io/
-3. https://jaxx.io/
-4. https://trustwallet.com/
-5. https://www.ledger.com/
-6. https://poa.network/dapps?category=wallets
+
+
+## History
+**Conception to token sale**
+>Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
+
+**Ethereum Foundation ETC token allocation**
+- 3 million ETC were allocated to a long-term endowment
+- 6 million ETC were distributed among 85 developers who contributed prior to the crowdsale
+- 3 million ETC were designed as a “developer purchase program” that gave Ethereum developers the rights to purchase ETC at crowdsale prices.
+
+
+When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now held both ETC and a new asset ETH.
+
+**The rise of initial coin offerings (ICOs)**
+>Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
+
+**The DAO hack**
+>Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
+
+**Hard Fork: The Birth of Sister Chains**
+
+
+
+
 
 ## Programming
 
