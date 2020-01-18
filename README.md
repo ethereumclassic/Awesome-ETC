@@ -1,13 +1,23 @@
 # Awesome ETC List
 Awesome List of ETC Projects, Mining Pools and Guides
+(Updated: January, 2020)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Teams
-1. [ETC Labs](https://etclabs.org/)
-2. [IOHK](https://iohk.io/)
-3. [ETC Cooperative](https://etccooperative.org/)
-4. [ChainSafe](https://chainsafe.io/)
+## Prominent Teams
+
+| Year | Team | Status |
+| --- |:---:| ----:|
+| 2015 | [Ethereum Foundation](https://ethereum.org/) | Active |
+| 2016 | [ETC Consortium](https://etcconsortium.org/) | Active |
+| 2016 | [ETCDEV](https://etcdevteam.com/) | Dissolved  |
+| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Active  |
+| 2017 | [ETC Cooperative](https://etccooperative.org/) | Active |
+| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Dissolved  |
+| 2018 | [ETC Labs](https://etclabs.org/) | Active |
+| 2019 | [ChainSafe](https://chainsafe.io/) | Active |
+| 2019 | [ETC Core](https://etccore.io/) | Active |
+| 2019 | [Hyperledger](https://besu.hyperledger.org/) | Active |
 
 ## Clients
 1. Parity
