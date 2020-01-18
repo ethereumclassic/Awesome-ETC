@@ -1,4 +1,5 @@
 [logo]: ./ethereum_classic_logo.png "Ethereum Classic"
+
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
 | An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic') platform. |
