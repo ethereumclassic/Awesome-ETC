@@ -1,5 +1,6 @@
 [logo]: ./ethereum_classic_logo_2000x2000.png "Ethereum Classic"
 *Updated 2020-01*
+Ethereum Classic Project Repository: https://github.com/ethereumclassic
 
 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) |
 |:--:|
