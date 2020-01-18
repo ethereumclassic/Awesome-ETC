@@ -19,10 +19,11 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 <br/>
 
 ## Overview
->Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July 2015.
+>Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July, 2015.
 
-**Rebranding from Ethereum to Ethereum Classic**
->On July 20, 2016, an event known as "the DAO hack" resulted in a contentious hard fork. A sister chain with an altered state was born. The rights to the Ethereum project's brand is owned by the Ethereum Foundation and they were proponents of the sister chain. So after the fork, the Ethereum Foundation applied the brand to the new version of the Ethereum network; Ethereum (ETH). The unaltered, original state Ethereum chain adopted the brand identity of Ethereum Classic and the ETC ticker symbol. On July 23, 2016, Poloniex announced that it was the first exchange to list ETC.
+**Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
+>On July 20, 2016, an event known as "the DAO hack" resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
+Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic" and the "ETC" ticker symbol and issued a [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/). On July 23, 2016, [Poloniex](https://poloniex.com/exchange#btc_etc) recognized and listed ETC opening the first ETC/BTC market.
 
 ## Contents
 
