@@ -1,43 +1,32 @@
-<div align="right">
-  *Updated 2020-01*
-</div>
+**Ethereum Classic Project Repository:** https://github.com/ethereumclassic
+*Updated: January, 2020*
+
 <div align="center">
   <img width="500px" src="./ethereum_classic_logo_2000x2000.png">
+An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> platform.
+<br />
+<a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
+<br/>
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) platform.
-<br />
-[Ethereum Classic](https://ethereumclassic.org/) is an open-source, blockchain and smart contract computing platform.
-<br/>
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-</div>
-<br/>
-
-
 ## Overview
-The Ethereum Project
-> Ethereum is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETH), which primarily serves as a means of payment for transaction fees and as collateral for borrowing specific ERC-20 tokens within the decentralized finance (DeFi) sector.
+</div>
+>Ethereum is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETH), which primarily serves as a means of payment for transaction fees and as collateral for borrowing specific ERC-20 tokens within the decentralized finance (DeFi) sector.
 
-Ethereum Classic
->ther
+<div align="center">
+## History
+</div>
+**Conception to token sale**
+>Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum white paper later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the Ethereum Foundation, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The foundation's first task was to host the Ethereum crowdsale, which raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether, and use the proceeds to fund the network's initial development. The Ethereum Foundation continues to be the primary funding organization, issuing grants to research teams and projects focused on Ethereum.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+**The rise of initial coin offerings (ICOs)**
+>Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
 
-*Updated 2020-01*
+**The DAO hack**
+>Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
 
-
-| **Ethereum Classic Project Repository:** https://github.com/ethereumclassic |
-|:--:|
-| An awesome list about everything related to the [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum_Classic) platform. |
-| [Ethereum Classic](https://ethereumclassic.org/) is an open-source, blockchain and smart contract computing platform. |
-| ![Ethereum Classic][logo] |
-| Note: Pull requests are welcome! |
-| In the spirit of decentralized applications however, please ensure your submission is not a paywalled product. |
-
-# Ethereum Classic Ecosystem
-A non-exhaustive list of the Ethereum Classic ecosystem.
 
 ## Contents
 
