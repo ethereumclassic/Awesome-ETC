@@ -23,15 +23,29 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 >On July 20, 2016, an event known as "the DAO hack" resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
-Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic" and the "ETC" ticker symbol and issued a [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/). On July 23, 2016, [Poloniex](https://poloniex.com/exchange#btc_etc) recognized and listed ETC opening the first ETC/BTC market.
+
+ETH and ETHC?
+*[source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)*
+
+>Initially, Ethereum Classic was only traded publicly on Bitsquare (now called Bisq) and within a forum post on bitcointalk.org. On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack.
+
+<br/>
+<div align="center">
+  <img width="500px" src="./ethereum_classic_phoenix-green-full.png">
+  </div>
+<br/>
 
 ## Contents
 
 1. [Documentation](#documentation)
-2. [Development Teams](#development-teams)
-3. [Network Clients](#network-clients)
+2. [Social Channels](#social-channels)
+3. [Development Teams](#development-teams)
+4. [Networks](#networks)
+5. [Network Clients](#network-clients)
+6. [Infrastructure](#infrastructure)
+7. [Blockchain Utilities](#blockchain-utilities)
+
 4. [Wallets](#wallets)
-5. [Blockchain Utilities](#blockchain-utilities)
 
 2. [Programming](#programming)
 3. [Tutorials](#tutorials)
@@ -52,6 +66,16 @@ Ethereum Project Documentation.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
+## Social Channels
+- [Discord](https://discordapp.com/invite/HW4GckH)
+- [ECIPs](http://ecips.net/)
+- [Github](https://github.com/ethereumclassic)
+- [Reddit](https://www.reddit.com/r/EthereumClassic/)
+- Telegram: [English](https://telegram.me/ethclassic), [Italia](
+https://t.me/ETC_Italia)
+- [Twitter](https://twitter.com/eth_classic)
+- [WeChat](https://weixin.qq.com/g/AkByP4hWL2uFxxPP)
+
 ## Development Teams
 
 | Year | Team Name | Status |
@@ -69,19 +93,37 @@ Ethereum Project Documentation.
 | 2019 | [ETC Core](https://etccore.io/) | Active |
 | 2019 | [Hyperledger](https://hyperledger.org/) | Active |
 
+## Networks
+
+| Network | Consensus Mechanism | Mining Algorithm |
+| --- | :---: | :---:|
+| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash |
+| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 |
+| Testnet: [Görli & Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation |
+| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
+
 ## Network Clients
 
 | Client Name | Status |
-| --- | ---:|
-| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Active |
-| [Geth Classic](https://github.com/etclabscore/go-ethereum) | Active |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Active |
-| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
-| [Mist Classic](https://github.com/ethereumproject/mist) | *Deprecated* |
-| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Active |
-| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Active |
+| :---: | :---:|
+| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Deprecated with Aztlán Upgrade* |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated with Agharta Upgrade* |
+| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
+| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
+| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
 
-## Wallets
+## Blockchain Utilities
+
+| Network | Block Explorers| Monitor | Faucet |
+| :---: | :---: | :---: | :---: |
+| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/) | [Astor Stats](https://stats.astor.host/) | x |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
+| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://mordor.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
+
+## Ethereum Classic Wallets
 
 **Web3 Wallets** are browser extensions for interacting with DApps built on Ethereum based networks.
 
@@ -122,36 +164,39 @@ Ethereum Project Documentation.
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
 
-**Paper Wallets** are private keys printed from an offline computer.
+**Keystores & Paper Wallets** are private keys printed from an offline computer.
 
+- [MyCrypto](https://www.mycrypto.com)
+- [MyEtherWallet](https://www.myetherwallet.com/)
 
+## Ethereum Classic Blockchain Utilities
 
-## Hardware, Software Wallets
-6. https://poa.network/dapps?category=wallets
+| Network | Block Explorers| Monitor | Faucet |
+| :---: | :---: | :---: | :---: |
+| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/) | [Astor Stats](https://stats.astor.host/) | x |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
+| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://mordor.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
 
+## List of Dapps
+Gathered from [DappDirect](https://dappdirect.net/)
 
-
-## Blockchain Utilities
-
-| Block Explorer |
-| --- |
-| [BlockScout.com](https://blockscout.com/etc/mainnet/) |
-| [ETCBlockExplorer.com](https://etcblockexplorer.com/home) |
-| [ETCPlanet.org](https://etcplanet.org/) |
-| [Expedition.dev](https://expedition.dev/?network=mainnet) |
-| [MinerGate.com](https://minergate.com/blockchain/etc/blocks) |
-
-| Network Monitoring |
-| --- |
-| [ETCNodes.org](https://etcnodes.org/) |
-| [ETCStatus.live](https://etcstatus.live/) |
-
-## Notable Dapps
-1. https://originalmy.com/
-2. https://www.saturn.network/
-https://commonwealth.gg
+1. [Saturn Protocol](https://www.saturn.network/)
+2. [Commonwealth](https://commonwealth.gg)
+3. [Arena Racing](https://arena.highlander.network/)
+4. [Alien Farm](https://alienfarm.highlander.network/)
+5. [OriginalMy](https://originalmy.com/)
 
 ## Infrastructure
+
+- [Bloq Cloud](https://bloq.cloud/)
+- [DappDirect](https://dappdirect.net/)
+- [Ethercluster](https://www.ethercluster.com/)
+- [Ethernode](https://ethernode.io/)
+- [QuikNode](https://quiknode.io/)
+
+
+
 1. Ethernode
 2. Ethercluster
 
