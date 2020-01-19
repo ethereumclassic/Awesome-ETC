@@ -62,6 +62,7 @@ Ethereum Project Documentation.
 | 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Inactive |
 | 2017 | [ETC Cooperative](https://etccooperative.org/) | Active |
 | 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Inactive |
+| 2018 | [Commonwealth.gg](https://commonwealth.gg) | Active |
 | 2018 | [ETC Labs](https://etclabs.org/) | Active |
 | 2018 | [POA Network](https://www.poa.network/) | Active |
 | 2019 | [ChainSafe](https://chainsafe.io/) | Active |
@@ -96,6 +97,7 @@ Ethereum Project Documentation.
 **Hardware Wallets** are secure wallets designed for long term storage.
 
 - [Ledger](https://www.ledger.com/)
+- [SafePal](https://www.safepal.io/)
 - [Trezor](https://trezor.io/)
 
 **Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use.
@@ -111,11 +113,13 @@ Ethereum Project Documentation.
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
 - [Cryptonator](https://www.cryptonator.com/)
+- [Emerald Wallet](https://emeraldpay.io/)
 - [Ethos](https://www.ethos.io/universal-wallet/)
 - [Exodus](https://www.exodus.io/)
 - [Guarda](https://guarda.co/)
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [Jaxx](https://jaxx.io/)
+- [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
 
 **Paper Wallets** are private keys printed from an offline computer.
@@ -182,6 +186,7 @@ https://commonwealth.gg
 23. https://etc.zet-tech.eu/#/
 
 ## Exchanges
+https://multiswap.io/
 1. https://trade.kraken.com/markets/kraken/etc/usd
 2. https://poloniex.com/exchange#btc_etc
 3. https://hk.coineal.com/trade_center.html?s=etc-btc#en_US
