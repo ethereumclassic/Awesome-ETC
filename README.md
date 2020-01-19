@@ -108,11 +108,17 @@ Ethereum Project Documentation.
 - [Alpha Wallet](https://alphawallet.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
 - [Citowise](https://citowise.com/)
+- [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
+- [Cryptonator](https://www.cryptonator.com/)
+- [Ethos](https://www.ethos.io/universal-wallet/)
+- [Exodus](https://www.exodus.io/)
+- [Guarda](https://guarda.co/)
+- [Infinito Wallet](https://www.infinitowallet.io/)
 - [Jaxx](https://jaxx.io/)
 - [Trust Wallet](https://trustwallet.com/)
 
-**Desktop Wallets** are downloadable apps for Android and IOS
+**Paper Wallets** are private keys printed from an offline computer.
 
 
 
