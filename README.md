@@ -1,6 +1,6 @@
 **Ethereum Classic Project Repository:** https://github.com/ethereumclassic
 
-*Updated: January, 2020*
+*Updated: January, 2020* [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <br/>
@@ -12,9 +12,6 @@
 An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> platform.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
-<br/>
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </div>
 <br/>
 
@@ -22,16 +19,14 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 >Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July, 2015.
 
 **Ethereum project splits in a hardfork**
->On July 20, 2016, an event known as "the DAO hack" resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
+>On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
 
-**Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
-*[source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)*
+**Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)** *[source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)*
 
 >Initially, Ethereum Classic was only traded publicly on Bitsquare (now called Bisq) and within a forum post on bitcointalk.org. On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack.
 
-<br/>
 <div align="center">
-  <img width="500px" src="./ethereum_classic_phoenix-green-full.png">
+  <img width="250px" src="./ethereum_classic_phoenix-green-full.png">
   </div>
 <br/>
 
