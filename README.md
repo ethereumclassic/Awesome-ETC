@@ -112,6 +112,14 @@ https://t.me/ETC_Italia)
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
 | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
 
+## Infrastructure
+
+- [Bloq Cloud](https://bloq.cloud/)
+- [DappDirect](https://dappdirect.net/)
+- [Ethercluster](https://www.ethercluster.com/)
+- [Ethernode](https://ethernode.io/)
+- [QuikNode](https://quiknode.io/)
+
 ## Blockchain Utilities
 
 | Network | Block Explorers| Monitor | Faucet |
@@ -167,15 +175,6 @@ https://t.me/ETC_Italia)
 - [MyCrypto](https://www.mycrypto.com)
 - [MyEtherWallet](https://www.myetherwallet.com/)
 
-## Ethereum Classic Blockchain Utilities
-
-| Network | Block Explorers| Monitor | Faucet |
-| :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/) | [Astor Stats](https://stats.astor.host/) | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
-| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://mordor.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
-
 ## List of Dapps
 Gathered from [DappDirect](https://dappdirect.net/)
 
@@ -185,18 +184,7 @@ Gathered from [DappDirect](https://dappdirect.net/)
 4. [Alien Farm](https://alienfarm.highlander.network/)
 5. [OriginalMy](https://originalmy.com/)
 
-## Infrastructure
 
-- [Bloq Cloud](https://bloq.cloud/)
-- [DappDirect](https://dappdirect.net/)
-- [Ethercluster](https://www.ethercluster.com/)
-- [Ethernode](https://ethernode.io/)
-- [QuikNode](https://quiknode.io/)
-
-
-
-1. Ethernode
-2. Ethercluster
 
 ## Developer Tools
 1. Open-RPC
