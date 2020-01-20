@@ -5,7 +5,7 @@
 
 <br/>
 <div align="center">
-  <img width="500px" src="./ethereum_classic_logo_2000x2000.png">
+  <img width="750px" src="./ethereum_classic_logo_green_wires.png">
   </div>
 <br/>
 <div align="center">
@@ -23,13 +23,13 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 **Ethereum project splits in a hardfork**
 >On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
 
-**Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)** *[source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)*
+**Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 
->Initially, Ethereum Classic was only traded publicly on Bitsquare (now called Bisq) and within a forum post on bitcointalk.org. On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack.
-
-<img width="150px" src="./ethereum_classic_phoenix-green-full.png">
+>Initially, Ethereum Classic was only traded publicly on Bitsquare (now called Bisq) and within a forum post on bitcointalk.org. On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
 
 # Ethereum Classic
+
+<img width="200px" src="./ethereum_classic_phoenix-green-full.png">
 
 ## Contents
 
@@ -53,6 +53,8 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 11. [Books](#books)
 12. [Misc](#misc)
 13. [Official](#official)
+
+<img width="200px" src="./ethereum_classic_logo_green_full.png">
 
 ## Documentation
 
