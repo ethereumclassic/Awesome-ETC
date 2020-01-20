@@ -1,6 +1,6 @@
 **Ethereum Classic Project Repository:** https://github.com/ethereumclassic
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) **Updated: January, 2020**
+**Updated: January, 2020**
 
 
 <br/>
@@ -9,9 +9,10 @@
   </div>
 <br/>
 <div align="center">
-An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> platform.
+An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </div>
 <br/>
 
@@ -26,7 +27,9 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 >Initially, Ethereum Classic was only traded publicly on Bitsquare (now called Bisq) and within a forum post on bitcointalk.org. On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack.
 
 <img width="150px" src="./ethereum_classic_phoenix-green-full.png">
+
 # Ethereum Classic
+
 ## Contents
 
 1. [Documentation](#documentation)
