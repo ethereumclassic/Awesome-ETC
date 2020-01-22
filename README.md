@@ -138,8 +138,8 @@ https://t.me/ETC_Italia)
 | Interactive | Stand-Alone | Web3 |
 | :---: | :---: | :---: |
 | [MyCrypto](https://www.mycrypto.com) | [Portis](https://www.portis.io/) | [MetaMask](https://metamask.io/) |
-| [MyCrypto](https://www.mycrypto.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
-| [MyCrypto](https://www.mycrypto.com) |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
+| [MyEtherWallet](https://www.myetherwallet.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
+|  |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
 
 **Hardware Wallets** are secure wallets designed for long term storage.
 
