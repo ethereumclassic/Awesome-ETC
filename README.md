@@ -29,7 +29,9 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 
 # Ethereum Classic
 
-<img width="200px" src="./ethereum_classic_phoenix-green-full.png">
+<div align="center">
+  <img width="200px" src="./ethereum_classic_logo_green_full.png">
+  </div>
 
 ## Contents
 
@@ -40,8 +42,7 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 5. [Network Clients](#network-clients)
 6. [Infrastructure](#infrastructure)
 7. [Blockchain Utilities](#blockchain-utilities)
-
-4. [Wallets](#wallets)
+8. [Wallets](#wallets)
 
 2. [Programming](#programming)
 3. [Tutorials](#tutorials)
@@ -53,8 +54,6 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 11. [Books](#books)
 12. [Misc](#misc)
 13. [Official](#official)
-
-<img width="200px" src="./ethereum_classic_logo_green_full.png">
 
 ## Documentation
 
@@ -131,27 +130,22 @@ https://t.me/ETC_Italia)
 
 ## Ethereum Classic Wallets
 
-**Web3 Wallets** are browser extensions for interacting with DApps built on Ethereum based networks.
+**Browser Wallets**
+- Interactive Browser Wallets: can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. *Not Recommended* but Keystores & Paper Wallets can be generated from these interfaces.
+- Stand-alone Browser Wallets: are dedicated browser wallet with no downloads designed for desktop or mobile use.
+- Web3 Wallets: are browser extensions for interacting with DApps built on Ethereum based networks.
 
-- [MetaMask](https://metamask.io/)
-- [Nifty Wallet](https://github.com/poanetwork/nifty-wallet)
-- [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/)
-
-**Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. Not Recommended but **Keystores & Paper Wallets** can be generated from these interfaces.
-
-- [MyCrypto](https://www.mycrypto.com)
-- [MyEtherWallet](https://www.myetherwallet.com/)
+| Interactive | Stand-Alone | Web3 |
+| :---: | :---: | :---: |
+| [MyCrypto](https://www.mycrypto.com) | [Portis](https://www.portis.io/) | [MetaMask](https://metamask.io/) |
+| [MyCrypto](https://www.mycrypto.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
+| [MyCrypto](https://www.mycrypto.com) |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
 
 **Hardware Wallets** are secure wallets designed for long term storage.
 
 - [Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=a59f2fdba3bf)
 - [SafePal](https://www.safepal.io/) *pending affiliate link*
 - [Trezor](https://trezor.io/?offer_id=12&aff_id=1847&source=https://github.com/ethereumclassic)
-
-**Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use.
-
-- [Portis](https://www.portis.io/)
-- [Squarelink](https://squarelink.com/)
 
 **Software Wallets** for Desktop or Mobile devices.
 
@@ -253,42 +247,10 @@ https://multiswap.io/
 38. https://shapeshift.io/#/coins
 39. https://www.zb.com/trade/kline/etc_qc
 
-## Instant Exchanges
-1. https://fixedfloat.com/
-2. https://changenow.io/
-3. https://exolix.com/
-4. https://www.switchain.com
-5. https://coinmerce.io/
-6. https://www.bitladon.com/
-7. https://godex.io/
-8. https://changelly.com/
-9. https://www.coindirect.com/
-10. https://anycoindirect.eu/en
 
-
-
-## History
-**Conception to token sale**
->Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
-
-**Ethereum Foundation ETC token allocation**
-- 3 million ETC were allocated to a long-term endowment
-- 6 million ETC were distributed among 85 developers who contributed prior to the crowdsale
-- 3 million ETC were designed as a “developer purchase program” that gave Ethereum developers the rights to purchase ETC at crowdsale prices.
-
-
-When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now held both ETC and a new asset ETH.
-
-**The rise of initial coin offerings (ICOs)**
->Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
-
-**The DAO hack**
->Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
-
-**Hard Fork: The Birth of Sister Chains**
-
-
-
+<div align="center">
+  <img width="500px" src="./ethereum_classic_phoenix-green-full.png">
+  </div>
 
 
 ## Programming
