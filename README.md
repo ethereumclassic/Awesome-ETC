@@ -137,16 +137,16 @@ https://t.me/ETC_Italia)
 - [Nifty Wallet](https://github.com/poanetwork/nifty-wallet)
 - [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/)
 
-**Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet
+**Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. Not Recommended but **Keystores & Paper Wallets** can be generated from these interfaces.
 
 - [MyCrypto](https://www.mycrypto.com)
 - [MyEtherWallet](https://www.myetherwallet.com/)
 
 **Hardware Wallets** are secure wallets designed for long term storage.
 
-- [Ledger](https://www.ledger.com/)
-- [SafePal](https://www.safepal.io/)
-- [Trezor](https://trezor.io/)
+- [Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=a59f2fdba3bf)
+- [SafePal](https://www.safepal.io/) *pending affiliate link*
+- [Trezor](https://trezor.io/?offer_id=12&aff_id=1847&source=https://github.com/ethereumclassic)
 
 **Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use.
 
@@ -169,11 +169,6 @@ https://t.me/ETC_Italia)
 - [Jaxx](https://jaxx.io/)
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
-
-**Keystores & Paper Wallets** are private keys printed from an offline computer.
-
-- [MyCrypto](https://www.mycrypto.com)
-- [MyEtherWallet](https://www.myetherwallet.com/)
 
 ## List of Dapps
 Gathered from [DappDirect](https://dappdirect.net/)
