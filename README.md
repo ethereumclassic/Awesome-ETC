@@ -1,10 +1,11 @@
 | Ethereum Classic |
+| logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | --- |
+| logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | website: *https://ethereumclassic.org* |
 | code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
 | updated: *2020-01* |
-| logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 
