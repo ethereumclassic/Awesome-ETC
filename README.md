@@ -80,11 +80,13 @@ Ethereum Project Documentation.
 ## Social Channels
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - [Github](https://github.com/ethereumclassic)
-- International Communities: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
+- International Community Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
+- Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
+- Matrix (Dev Chat)[Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
-- [Reddit](https://www.reddit.com/r/EthereumClassic/)
-- Telegram: [China](https://twitter.com/EthereumChina), [English](https://telegram.me/ethclassic), [Italia](https://t.me/ETC_Italia), [Viet Nam](https://t.me/ETCVietnam)
-- Twitter: [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
+- Reddit: [r/EthereumClassic]](https://www.reddit.com/r/EthereumClassic/)
+- Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
+- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Japan](https://twitter.com/ETCJapan), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
 - QQ: ETC Asia-769408114.
 
 
