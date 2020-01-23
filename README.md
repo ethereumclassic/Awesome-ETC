@@ -1,8 +1,9 @@
-| **Project:** |
+| Ethereum Classic |
 | --- |
-| **Ethereum Classic** https://ethereumclassic.org |
-| GitHub Repository: https://github.com/ethereumclassic |
-| Updated: January, 2020 |
+| *website: https://ethereumclassic.org* |
+| *repository: https://github.com/ethereumclassic* |
+| *update: 2020-01* |
+| [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 
 <br/>
