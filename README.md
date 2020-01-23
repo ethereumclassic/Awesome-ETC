@@ -1,8 +1,10 @@
 | Ethereum Classic |
 | --- |
 | website: *https://ethereumclassic.org* |
-| repository: *https://github.com/ethereumclassic* |
+| code repository: *https://github.com/ethereumclassic* |
+| ticker symbol: *ETC* |
 | updated: *2020-01* |
+| logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 
@@ -51,6 +53,9 @@ An awesome non-exhaustive list about things related to the <a href="https://en.w
 7. [Blockchain Utilities](#blockchain-utilities)
 8. [Wallets](#wallets)
 
+
+
+
 2. [Programming](#programming)
 3. [Tutorials](#tutorials)
 4. [Code](#code)
@@ -75,19 +80,13 @@ Ethereum Project Documentation.
 ## Social Channels
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - [Github](https://github.com/ethereumclassic)
-- International Communities: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/)
+- International Communities: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 - Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
 - [Reddit](https://www.reddit.com/r/EthereumClassic/)
-- Telegram: [English](https://telegram.me/ethclassic), [Italia](
-https://t.me/ETC_Italia)
-- [Twitter](https://twitter.com/eth_classic)
+- Telegram: [China](https://twitter.com/EthereumChina), [English](https://telegram.me/ethclassic), [Italia](https://t.me/ETC_Italia), [Viet Nam](https://t.me/ETCVietnam)
+- Twitter: [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
 - QQ: ETC Asia-769408114.
-- [WeChat](https://weixin.qq.com/g/AkByP4hWL2uFxxPP)
 
-
-https://t.me/rados - Saturn Network ETC Token Trading / Dapp Community
-https://t.me/sha3etc - Working group for implementing Keccak256 Proof of Work on ETC. Miner discussion.
-https://t.me/ETCVietnam - Ethereum Classic Vietnam Community.
 
 ## Development Teams
 
@@ -145,17 +144,15 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 - [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
-- [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an implementation of an Ethereum Virtual Machine. It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+- [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
 - [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 
 ## Infrastructure
 
-- [Bloq Cloud](https://bloq.cloud/)
-- [DappDirect](https://dappdirect.net/)
+- [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
 - [Ethercluster](https://www.ethercluster.com/) - Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
-- [Ethernode](https://ethernode.io/)
-- [QuikNode](https://quiknode.io/)
+- [QuikNode](https://quiknode.io/) - QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
 
 ## Blockchain Utilities
 
@@ -166,7 +163,9 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](https://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
 | [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](https://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
 
-- [DappDirect](https://dappdirect.net/) - Live stats and rankings of ETC applications! Submit your Dapp (here) to be listed, free of charge.
+Dapp Aggregators: [CryptoGround](https://www.cryptoground.com/dapp), [Dapp](https://www.dapp.com/), [DappDirect](https://dappdirect.net/), [DappRadar](https://dappradar.com/), [Dapp Review](https://dapp.review/), [DappStatus](https://dappstatus.com/)
+
+Gas Fee Estimators: [ETCGas](https://etcgas.com), [EtherGas](https://ethergas.net),[Expedition](https://expedition.dev/?network=mainnet), [GasGauge](https://gasgauge.com)
 
 ## Ethereum Classic Wallets
 
@@ -220,6 +219,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
 - [Flux](https://flux.arcadium.network/flux.html) - Flux is a customised Pure interface for Commonwealth.gg, designed to bring simplicity and clarity to managing your Points and Dividends.
 - [Portal Network](https://www.portal.network/) - Portal Network is a platform that builds decentralized domains and decentralized tech stack, KAIZEN. In a nutshell, Portal Network builds decentralized domains on multiple blockchains, such as Ethereum Classic, Tron, Bitcoin Cash, NKN, TomoChain, and more.
+- [Prorata](https://prorata.io ) - Prorata is a one-stop management solution for decentralized finance protocols on top of EVM-based blockchains like Ethereum Classic.
 - [Saturn Network](https://www.saturn.network/) - Saturn Network is a decentralized exchange for trading Ethereum or Ethereum Classic tokens, this means all trading happens on chain wallet to wallet in one transaction.
 - [Sidekick](https://github.com/ETCDEVTeam/sidekick-poc) - An overview and exploration of Ethereum Classic sidechains and the possibilities of lowest-possible-impact implementations. Serving as documentation and exposition.
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
