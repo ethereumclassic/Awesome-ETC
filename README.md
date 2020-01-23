@@ -1,8 +1,8 @@
 | Ethereum Classic |
 | --- |
-| *website: https://ethereumclassic.org* |
-| *repository: https://github.com/ethereumclassic* |
-| *update: 2020-01* |
+| website: *https://ethereumclassic.org* |
+| repository: *https://github.com/ethereumclassic* |
+| updated: *2020-01* |
 | [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 
@@ -16,7 +16,6 @@ An awesome non-exhaustive list about things related to the <a href="https://en.w
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </div>
 <br/>
 
