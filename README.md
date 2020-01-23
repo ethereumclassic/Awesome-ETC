@@ -1,6 +1,8 @@
-**Ethereum Classic Project Repository:** https://github.com/ethereumclassic
+**Ethereum Classic** https://ethereumclassic.org
 
-**Updated: January, 2020**
+GitHub Repository: https://github.com/ethereumclassic
+
+Updated: January, 2020
 
 
 <br/>
