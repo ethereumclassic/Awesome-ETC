@@ -1,6 +1,6 @@
 | Ethereum Classic |
 | --- |
-| logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
+| <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | website: *https://ethereumclassic.org* |
 | code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
