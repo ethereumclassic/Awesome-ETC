@@ -40,6 +40,7 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 3. [Development Teams](#development-teams)
 4. [Networks](#networks)
 5. [Network Clients](#network-clients)
+5. [Developer Tools](#developer-tools)
 6. [Infrastructure](#infrastructure)
 7. [Blockchain Utilities](#blockchain-utilities)
 8. [Wallets](#wallets)
@@ -62,16 +63,25 @@ Ethereum Project Documentation.
 - [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+- [Ethereum Classic Improvement Proposals](https://ecips.ethereumclassic.org/) - Ethereum Classic Improvement Proposals (ECIPs), are technical write-ups that describe suggested changes to the Ethereum Classic Protocol.
+- [Ethereum Classic Documentation](https://docs.ethereumclassic.org/)
 
 ## Social Channels
 - [Discord](https://discordapp.com/invite/HW4GckH)
-- [ECIPs](http://ecips.net/)
 - [Github](https://github.com/ethereumclassic)
+- International Communities: [China](http://ethereumclassic.cn/)
+- Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
 - [Reddit](https://www.reddit.com/r/EthereumClassic/)
 - Telegram: [English](https://telegram.me/ethclassic), [Italia](
 https://t.me/ETC_Italia)
 - [Twitter](https://twitter.com/eth_classic)
 - [WeChat](https://weixin.qq.com/g/AkByP4hWL2uFxxPP)
+
+
+
+https://t.me/rados - Saturn Network ETC Token Trading / Dapp Community
+https://t.me/sha3etc - Working group for implementing Keccak256 Proof of Work on ETC. Miner discussion.
+https://t.me/ETCVietnam - Ethereum Classic Vietnam Community.
 
 ## Development Teams
 
@@ -89,6 +99,7 @@ https://t.me/ETC_Italia)
 | 2019 | [ChainSafe](https://chainsafe.io/) | Active |
 | 2019 | [ETC Core](https://etccore.io/) | Active |
 | 2019 | [Hyperledger](https://hyperledger.org/) | Active |
+| 2019 | [Second State](https://www.secondstate.io/) | Active |
 
 ## Networks
 
@@ -99,23 +110,36 @@ https://t.me/ETC_Italia)
 | Testnet: [Görli & Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation |
 | Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
+Ethereum Classic Mainnet Public API Endpoints: [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc)
+Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com/kotti)
+
 ## Network Clients
 
 | Client Name | Status |
 | :---: | :---:|
 | [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
-| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Deprecated with Aztlán Upgrade* |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Deprecated* |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
-| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated with Agharta Upgrade* |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
 | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
+
+## Developer Tools
+- [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+- [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
+- [EVM-LLVM]() - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+- [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+- [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+- [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+- [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an implementation of an Ethereum Virtual Machine. It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+- [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 ## Infrastructure
 
 - [Bloq Cloud](https://bloq.cloud/)
 - [DappDirect](https://dappdirect.net/)
-- [Ethercluster](https://www.ethercluster.com/)
+- [Ethercluster](https://www.ethercluster.com/) - Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
 - [Ethernode](https://ethernode.io/)
 - [QuikNode](https://quiknode.io/)
 
@@ -123,10 +147,10 @@ https://t.me/ETC_Italia)
 
 | Network | Block Explorers| Monitor | Faucet |
 | :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/) | [Astor Stats](https://stats.astor.host/) | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
-| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://mordor.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
+| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](https://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](https://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/) | x |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](https://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](https://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
 
 ## Ethereum Classic Wallets
 
@@ -143,6 +167,7 @@ https://t.me/ETC_Italia)
 
 **Hardware Wallets** are secure wallets designed for long term storage.
 
+- [Bitski](https://www.bitski.com/)
 - [Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=a59f2fdba3bf)
 - [SafePal](https://www.safepal.io/) *pending affiliate link*
 - [Trezor](https://trezor.io/?offer_id=12&aff_id=1847&source=https://github.com/ethereumclassic)
@@ -164,21 +189,31 @@ https://t.me/ETC_Italia)
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
 
-## List of Dapps
-Gathered from [DappDirect](https://dappdirect.net/)
 
-1. [Saturn Protocol](https://www.saturn.network/)
-2. [Commonwealth](https://commonwealth.gg)
-3. [Arena Racing](https://arena.highlander.network/)
-4. [Alien Farm](https://alienfarm.highlander.network/)
-5. [OriginalMy](https://originalmy.com/)
+## List of Dapps running on the Ethereum Classic EVM
+
+- [Arcadium Network](https://flux.arcadium.network/) - Arcadium Network is a Project Platform building on the Ethereum Classic network, helping push widespread global adoption of cryptocurrency.
+- [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. We are the Largest #DeFi dApp on Ethereum Classic #ETC. Built 2018.
+- [ETC Odyssey](https://etcodyssey.com/) - an Ethereum Classic (ETC) Idle/RPG airdrop game dApp experience.
+- [DappDirect](https://dappdirect.net/) - Live stats and rankings of ETC applications! Submit your Dapp (here) to be listed, free of charge.
+- [Metronome](https://metronome.io/) -
+- [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
+- [Flux](https://flux.arcadium.network/flux.html) - Flux is a customised Pure interface for Commonwealth.gg, designed to bring simplicity and clarity to managing your Points and Dividends.
+- [Portal Network](https://www.portal.network/) - Portal Network is a platform that builds decentralized domains and decentralized tech stack, KAIZEN. In a nutshell, Portal Network builds decentralized domains on multiple blockchains, such as Ethereum Classic, Tron, Bitcoin Cash, NKN, TomoChain, and more.
+- [Saturn Network](https://www.saturn.network/) - Saturn Network is a decentralized exchange for trading Ethereum or Ethereum Classic tokens, this means all trading happens on chain wallet to wallet in one transaction.
+- [Sidekick](https://github.com/ETCDEVTeam/sidekick-poc) - An overview and exploration of Ethereum Classic sidechains and the possibilities of lowest-possible-impact implementations. Serving as documentation and exposition.
+- [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
+- [Vault](https://flux.arcadium.network/vault.html) - Time-Locked Wallets on Ethereum Classic.
+
+## Games
+- [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
+- [Dyverse](https://dyver.se/) - Through the Dyverse, you can collect and trade 3D characters that you can use to create VR/AR and social content creation.
+- [Power Inc](https://flux.arcadium.network/powerinc.html) - Power Inc is a game which is based on Supply and Demand - the Buy and Sell price of Watts dictated only by player's trading, this is a high-energy thriller with a chance to earn ETC!
+- [Race Arena](https://flux.arcadium.network/racearena.html) - Race Arena is an alternate spin of "Sacrific3D" - a game where 5 players put in ETC, and only 4 walk away with ETC. The loser gets Dividends, which earn you ETC with Commonwealth.gg Pure!
 
 
 
-## Developer Tools
-1. Open-RPC
-2. Jade Suite
-3. Truffle Suite
+
 
 ## Mining Pools
 1. https://etc.ethermine.org/
