@@ -5,11 +5,11 @@
 
 <br/>
 <div align="center">
-  <img width="750px" src="./ethereum_classic_logo_green_wires.png">
+  <img width="750px" src="./images/ethereum_classic_logo_green_wires.png">
   </div>
 <br/>
 <div align="center">
-An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
+An awesome non-exhaustive list about things related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 
@@ -20,8 +20,14 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 ## Overview
 >Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July, 2015.
 
-**Ethereum project splits in a hardfork**
+**Ethereum project splits in a contentious hard fork**
 >On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
+
+ethereum_contentious_hard_fork.png
+<div align="center">
+  <img width="200px" src="./images/ethereum_contentious_hard_fork.png">
+  </div>
+
 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 
@@ -30,7 +36,7 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 # Ethereum Classic
 
 <div align="center">
-  <img width="200px" src="./ethereum_classic_logo_green_full.png">
+  <img width="200px" src="./images/ethereum_classic_logo_green_full.png">
   </div>
 
 ## Contents
@@ -289,7 +295,7 @@ https://multiswap.io/
 
 
 <div align="center">
-  <img width="500px" src="./ethereum_classic_phoenix-green-full.png">
+  <img width="500px" src="./images/ethereum_classic_phoenix_green_full.png">
   </div>
 
 
