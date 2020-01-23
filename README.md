@@ -84,7 +84,7 @@ Ethereum Project Documentation.
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Matrix (Dev Chat)[Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
-- Reddit: [r/EthereumClassic]](https://www.reddit.com/r/EthereumClassic/)
+- Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
 - Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Japan](https://twitter.com/ETCJapan), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
 - QQ: ETC Asia-769408114.
@@ -117,9 +117,6 @@ Ethereum Project Documentation.
 | Testnet: [Görli & Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation |
 | Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
-|Public API Endpoints: [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc)
-
-Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com/kotti)
 
 ## Network Clients
 
@@ -162,12 +159,13 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 ## Blockchain Utilities
 
-| Network | Block Explorers| Monitor | Faucet |
-| :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/) | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [Expedition](https://expedition.dev/?network=mordor) | [Yes](http://mordor.canhaz.net/) |
+| Network | Block Explorers| Monitor | Faucet | Public API Endpoints |
+| :---: | :---: | :---: | :---: | :---: |
+| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/) | x | x |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) | [Ethercluster - Kotti](https://www.ethercluster.com/kotti) |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/) | x |
+
 
 Dapp Aggregators: [CryptoGround](https://www.cryptoground.com/dapp), [Dapp](https://www.dapp.com/), [DappDirect](https://dappdirect.net/), [DappRadar](https://dappradar.com/), [Dapp Review](https://dapp.review/), [DappStatus](https://dappstatus.com/)
 
@@ -190,9 +188,9 @@ Gas Fee Estimators: [ETCGas](https://etcgas.com), [EtherGas](https://ethergas.ne
 **Hardware Wallets** are secure wallets designed for long term storage.
 
 - [Bitski](https://www.bitski.com/)
-- [Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=a59f2fdba3bf)
-- [SafePal](https://www.safepal.io/) *pending affiliate link*
-- [Trezor](https://trezor.io/?offer_id=12&aff_id=1847&source=https://github.com/ethereumclassic)
+- [Ledger](https://shop.ledger.com/)
+- [SafePal](https://www.safepal.io/)
+- [Trezor](https://trezor.io/)
 
 **Software Wallets** for Desktop or Mobile devices.
 
