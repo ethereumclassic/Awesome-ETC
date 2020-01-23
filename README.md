@@ -161,9 +161,9 @@ Ethereum Project Documentation.
 
 | Network | Block Explorers| Monitor | Faucet | Public API Endpoints |
 | :---: | :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
+| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org) | x | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCStats](http://kotti.etcstats.org), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip) | [Ethercluster](https://www.ethercluster.com/kotti) |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip) | [Ethercluster](https://www.ethercluster.com/kotti) |
 | [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip) | x |
 
 
@@ -239,12 +239,14 @@ Gas Fee Estimators: [ETCGas](https://etcgas.com), [EtherGas](https://ethergas.ne
 - [Idle Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is a idle farming game built on top of Ethereum Classic blockchain.
 - [Power Inc](https://flux.arcadium.network/powerinc.html) - Power Inc is a game which is based on Supply and Demand - the Buy and Sell price of Watts dictated only by player's trading, this is a high-energy thriller with a chance to earn ETC!
 - [Race Arena](https://flux.arcadium.network/racearena.html) - Race Arena is an alternate spin of "Sacrific3D" - a game where 5 players put in ETC, and only 4 walk away with ETC. The loser gets Dividends, which earn you ETC with Commonwealth.gg Pure!
+- [Token Game](https://saturn.tools/app/tokengame)
 
 ## Mining
 - [2Miners](https://etc.2miners.com/en)
 - [AltPool](http://etc.altpool.pro/)
 
 - [Clona](https://clona.ru/)
+- [CoolPool](https://coolpool.top/pool?coin=etc&type=pplns)
 - [Comining](https://comining.io/)
 
 - [Ethermine](https://etc.ethermine.org/)
@@ -254,6 +256,7 @@ Gas Fee Estimators: [ETCGas](https://etcgas.com), [EtherGas](https://ethergas.ne
 
 - [MaxHash](https://etcpool.maxhash.org/)
 - [MinerGate](https://minergate.com/)
+- [Mole-Pool](http://mole-pool.net/)
 - [Nanopool](https://nanopool.org/)
 
 - [uuPool](https://uupool.cn/)
