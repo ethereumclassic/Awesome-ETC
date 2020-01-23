@@ -24,7 +24,7 @@ An awesome non-exhaustive list about things related to the <a href="https://en.w
 >On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
 
 <div align="center">
-  <img width="700px" src="./images/ethereum_contentious_hard_fork.png">
+  <img width="900px" src="./images/ethereum_contentious_hard_fork.png">
   </div>
 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
