@@ -110,12 +110,12 @@ Ethereum Project Documentation.
 
 ## Networks
 
-| Network | Consensus Mechanism | Mining Algorithm |
-| --- | :---: | :---:|
-| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash |
-| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 |
-| Testnet: [Görli & Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation |
-| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
+| Network | Consensus Mechanism | Mining Algorithm | code repository |
+| --- | :---: | :---:| :---: |
+| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash | [Ethereum Classic](https://github.com/ethereumclassic) |
+| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 | [Astor](https://astor.host/) |
+| Testnet: [Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation | [Kotti](https://github.com/goerli/testnet) |
+| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash | [Mordor](https://github.com/eth-classic/mordor) |
 
 
 ## Network Clients
@@ -164,7 +164,7 @@ Ethereum Project Documentation.
 | [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org) | x | x |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCStats](http://kotti.etcstats.org), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [Expedition](https://expedition.dev/?network=mordor), [ETCStats](http://mordor.etcstats.org) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip) | x |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip) | x |
 
 
 Dapp Aggregators: [CryptoGround](https://www.cryptoground.com/dapp), [Dapp](https://www.dapp.com/), [DappDirect](https://dappdirect.net/), [DappRadar](https://dappradar.com/), [Dapp Review](https://dapp.review/), [DappStatus](https://dappstatus.com/)
