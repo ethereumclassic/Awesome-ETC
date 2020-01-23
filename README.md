@@ -1,5 +1,4 @@
 | Ethereum Classic |
-| logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | --- |
 | logo: <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
 | website: *https://ethereumclassic.org* |
