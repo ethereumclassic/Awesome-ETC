@@ -115,7 +115,8 @@ Ethereum Project Documentation.
 | Testnet: [Görli & Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation |
 | Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
-Ethereum Classic Mainnet Public API Endpoints: [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc)
+|Public API Endpoints: [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc)
+
 Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com/kotti)
 
 ## Network Clients
@@ -132,6 +133,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 ## Developer Tools
 - [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+- [Dappkit](https://dappkit.io/) - A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
 - [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
@@ -140,8 +142,10 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 - [EVM-LLVM](https://github.com/etclabscore/evm_llvm) - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
 - [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
 - [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+- [Mythx](https://mythx.io/) - MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
 - [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
 - [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
+- [Quorum](https://www.goquorum.com/) - Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
 - [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
@@ -158,10 +162,10 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 | Network | Block Explorers| Monitor | Faucet |
 | :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](https://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](https://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/) | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](https://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](https://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
+| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/) | x |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [Expedition](https://expedition.dev/?network=mordor) | [Yes](http://mordor.canhaz.net/) |
 
 Dapp Aggregators: [CryptoGround](https://www.cryptoground.com/dapp), [Dapp](https://www.dapp.com/), [DappDirect](https://dappdirect.net/), [DappRadar](https://dappradar.com/), [Dapp Review](https://dapp.review/), [DappStatus](https://dappstatus.com/)
 
@@ -224,6 +228,7 @@ Gas Fee Estimators: [ETCGas](https://etcgas.com), [EtherGas](https://ethergas.ne
 - [Sidekick](https://github.com/ETCDEVTeam/sidekick-poc) - An overview and exploration of Ethereum Classic sidechains and the possibilities of lowest-possible-impact implementations. Serving as documentation and exposition.
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
 - [Statwig](https://statwig.com/) - We are a blockchain start-up that uses IoT to record journey of the products from manufacturer to customer to create an extra layer of visibility and authenticity.
+- [uPort](https://www.uport.me/) - uPort’s trusted data and identity management platform solution in your own mobile app. Let your customers securely store their private data with confidence and peace of mind.
 - [Vault](https://flux.arcadium.network/vault.html) - Time-Locked Wallets on Ethereum Classic.
 
 ## Games
