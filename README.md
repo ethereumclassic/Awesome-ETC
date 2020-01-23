@@ -128,9 +128,11 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 ## Developer Tools
 - [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
 - [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
-- [EVM-LLVM]() - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+- [Ethereum JSON-RPC API](https://github.com/etclabscore/ethereum-json-rpc-specification) - A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
+- [EVM-LLVM](https://github.com/etclabscore/evm_llvm) - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
 - [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
 - [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+- [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
 - [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
 - [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an implementation of an Ethereum Virtual Machine. It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
 - [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
@@ -176,6 +178,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 - [Alpha Wallet](https://alphawallet.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
+- [Button Wallet](https://buttonwallet.com/) - A safe and convenient way to store and exchange digital assets within your Telegram account.
 - [Citowise](https://citowise.com/)
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
@@ -192,6 +195,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 ## List of Dapps running on the Ethereum Classic EVM
 
+- [AnyLog](https://anylog.co/) - Our technology connects IoT Data Owners with Service Provides worldwide allowing Data Owners to manage their data in real time without the need to build and maintain expensive databases and software platforms.
 - [Arcadium Network](https://flux.arcadium.network/) - Arcadium Network is a Project Platform building on the Ethereum Classic network, helping push widespread global adoption of cryptocurrency.
 - [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. We are the Largest #DeFi dApp on Ethereum Classic #ETC. Built 2018.
 - [ETC Odyssey](https://etcodyssey.com/) - an Ethereum Classic (ETC) Idle/RPG airdrop game dApp experience.
@@ -203,6 +207,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 - [Saturn Network](https://www.saturn.network/) - Saturn Network is a decentralized exchange for trading Ethereum or Ethereum Classic tokens, this means all trading happens on chain wallet to wallet in one transaction.
 - [Sidekick](https://github.com/ETCDEVTeam/sidekick-poc) - An overview and exploration of Ethereum Classic sidechains and the possibilities of lowest-possible-impact implementations. Serving as documentation and exposition.
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
+- [Statwig](https://statwig.com/) - We are a blockchain start-up that uses IoT to record journey of the products from manufacturer to customer to create an extra layer of visibility and authenticity.
 - [Vault](https://flux.arcadium.network/vault.html) - Time-Locked Wallets on Ethereum Classic.
 
 ## Games
