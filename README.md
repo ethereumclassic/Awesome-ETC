@@ -75,14 +75,14 @@ Ethereum Project Documentation.
 ## Social Channels
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - [Github](https://github.com/ethereumclassic)
-- International Communities: [China](http://ethereumclassic.cn/)
+- International Communities: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/)
 - Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
 - [Reddit](https://www.reddit.com/r/EthereumClassic/)
 - Telegram: [English](https://telegram.me/ethclassic), [Italia](
 https://t.me/ETC_Italia)
 - [Twitter](https://twitter.com/eth_classic)
+- QQ: ETC Asia-769408114.
 - [WeChat](https://weixin.qq.com/g/AkByP4hWL2uFxxPP)
-
 
 
 https://t.me/rados - Saturn Network ETC Token Trading / Dapp Community
@@ -133,15 +133,21 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 ## Developer Tools
 - [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+- [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
+- [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
 - [Ethereum JSON-RPC API](https://github.com/etclabscore/ethereum-json-rpc-specification) - A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
+- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 - [EVM-LLVM](https://github.com/etclabscore/evm_llvm) - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+- [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
 - [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
 - [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
-- [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
+- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
+- [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
 - [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an implementation of an Ethereum Virtual Machine. It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
 - [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+
 
 ## Infrastructure
 
@@ -160,6 +166,8 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](https://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
 | [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](https://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
 
+- [DappDirect](https://dappdirect.net/) - Live stats and rankings of ETC applications! Submit your Dapp (here) to be listed, free of charge.
+
 ## Ethereum Classic Wallets
 
 **Browser Wallets**
@@ -172,6 +180,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 | [MyCrypto](https://www.mycrypto.com) | [Portis](https://www.portis.io/) | [MetaMask](https://metamask.io/) |
 | [MyEtherWallet](https://www.myetherwallet.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
 |  |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
+|  |  | [Opera](https://www.opera.com/crypto) |
 
 **Hardware Wallets** are secure wallets designed for long term storage.
 
@@ -182,6 +191,7 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 
 **Software Wallets** for Desktop or Mobile devices.
 
+- [AToken](https://www.atoken.com/) - Supports 19 blockchain systems including BTC, ETH, ETC, EOS, Cosmos, Polkadot and TRX.
 - [Alpha Wallet](https://alphawallet.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
 - [Button Wallet](https://buttonwallet.com/) - A safe and convenient way to store and exchange digital assets within your Telegram account.
@@ -202,11 +212,11 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 ## List of Dapps running on the Ethereum Classic EVM
 
 - [AnyLog](https://anylog.co/) - Our technology connects IoT Data Owners with Service Provides worldwide allowing Data Owners to manage their data in real time without the need to build and maintain expensive databases and software platforms.
-- [Arcadium Network](https://flux.arcadium.network/) - Arcadium Network is a Project Platform building on the Ethereum Classic network, helping push widespread global adoption of cryptocurrency.
+- [Arcadium Network](https://flux.arcadium.network/) - Arcadium Network is a Project Platform building on the Ethereum. Classic network, helping push widespread global adoption of cryptocurrency.
 - [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. We are the Largest #DeFi dApp on Ethereum Classic #ETC. Built 2018.
-- [ETC Odyssey](https://etcodyssey.com/) - an Ethereum Classic (ETC) Idle/RPG airdrop game dApp experience.
 - [DappDirect](https://dappdirect.net/) - Live stats and rankings of ETC applications! Submit your Dapp (here) to be listed, free of charge.
-- [Metronome](https://metronome.io/) -
+- [Highlander Network](https://highlander.network/) - Highlander Network is a Project Platform building on the Ethereum.
+- [Metronome](https://metronome.io/) - Metronome is the world’s first autonomous cryptocurrency utilizing chainhops for interoperability.
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
 - [Flux](https://flux.arcadium.network/flux.html) - Flux is a customised Pure interface for Commonwealth.gg, designed to bring simplicity and clarity to managing your Points and Dividends.
 - [Portal Network](https://www.portal.network/) - Portal Network is a platform that builds decentralized domains and decentralized tech stack, KAIZEN. In a nutshell, Portal Network builds decentralized domains on multiple blockchains, such as Ethereum Classic, Tron, Bitcoin Cash, NKN, TomoChain, and more.
@@ -217,13 +227,33 @@ Testnet Public API Endpoints:[Ethercluster - Kotti](https://www.ethercluster.com
 - [Vault](https://flux.arcadium.network/vault.html) - Time-Locked Wallets on Ethereum Classic.
 
 ## Games
-- [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
+- [Arena](https://arena.highlander.network/) - Five players each round pay to race in the Arena, One of them loses everything, the others are rewarded.
 - [Dyverse](https://dyver.se/) - Through the Dyverse, you can collect and trade 3D characters that you can use to create VR/AR and social content creation.
+- [ETC Odyssey](https://etcodyssey.com/) - ETC style RPG/Idle Game - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust.
+- [ETC Shout](https://etcshout.space/) - ETC Shout Space is a categorized list of Top 10 messages for Humanity.
+- [Idle Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is a idle farming game built on top of Ethereum Classic blockchain.
 - [Power Inc](https://flux.arcadium.network/powerinc.html) - Power Inc is a game which is based on Supply and Demand - the Buy and Sell price of Watts dictated only by player's trading, this is a high-energy thriller with a chance to earn ETC!
 - [Race Arena](https://flux.arcadium.network/racearena.html) - Race Arena is an alternate spin of "Sacrific3D" - a game where 5 players put in ETC, and only 4 walk away with ETC. The loser gets Dividends, which earn you ETC with Commonwealth.gg Pure!
 
+## Mining
+- [2Miners](https://etc.2miners.com/en)
+- [AltPool](http://etc.altpool.pro/)
 
+- [Clona](https://clona.ru/)
+- [Comining](https://comining.io/)
 
+- [Ethermine](https://etc.ethermine.org/)
+
+- [f2pool](https://www.f2pool.com/)
+- [FairPool](https://etc.fairpool.xyz/)
+
+- [MaxHash](https://etcpool.maxhash.org/)
+- [MinerGate](https://minergate.com/)
+- [Nanopool](https://nanopool.org/)
+
+- [uuPool](https://uupool.cn/)
+
+- [ŻET](https://etc.zet-tech.eu/)
 
 
 ## Mining Pools
@@ -294,19 +324,18 @@ https://multiswap.io/
 39. https://www.zb.com/trade/kline/etc_qc
 
 
+## Instant Swaps
+
+
+## Payment Processors
+- [CoinPayments](https://www.coinpayments.net/)
+- [utrust](https://utrust.com/)
+
+
+
 <div align="center">
   <img width="500px" src="./images/ethereum_classic_phoenix_green_full.png">
   </div>
-
-
-## Programming
-
-- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
-- [Truffle Framework](https://www.truffleframework.com/) - Development environment for blockchain applications.
-- [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
-- [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
-- [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
-- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 
 
 ## Tutorials
@@ -330,7 +359,7 @@ Step by step guides on using Ethereum.
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
 - [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
-
+- [Ethereumco.de](https://ethereumco.de) - an aggregator for Ethereum code.
 
 ## Learning and MOOCs
 
@@ -369,7 +398,6 @@ The Ideas behind the Ethereum Project.
 - [MetaMask](https://metamask.io/) - Browser extension that can interact with Remix IDE and send transactions to different testnets.
 - [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 - [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
-- [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 
 ## Protocols
 
@@ -419,22 +447,15 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum Wiki Page](https://eth.wiki/en/home)
 
 
-## Official
-
-- [Ethereum Website](https://www.ethereum.org/)
-- [Ethereum Foundation](https://ethereum.foundation/)
-- [Ethereum GitHub](https://github.com/ethereum/)
-
-
-
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, @ttumiel has waived all copyright and
+To the extent possible under law, @gitr0n1n has waived all copyright and
 related or neighboring rights to this work. For the full license see `license.md`.
