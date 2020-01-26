@@ -28,9 +28,10 @@ TBD - pending final organization
 1. [Overview](#overview)
 2. [Ethereum Virtual Machine Networks](#ethereum-virtual-machine-networks)
 3. [Network Clients](#network-clients)
-4. [Developer Teams](#developer-teams)
-5. [Developer Tools](#developer-tools)
-6. [Infrastructure Tools](#infrastructure-tools)
+4. [Node Deployment Tools & API End Points](#node-deployment-tools)
+5. [Developer Teams](#developer-teams)
+6. [Developer Tools](#developer-tools)
+7. [Infrastructure Tools](#infrastructure-tools)
 
 
 ## Overview
@@ -75,6 +76,14 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* | [source code](https://github.com/ethereumproject/mist) |
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current | [source code](https://github.com/multi-geth/multi-geth) |
 | [Parity-Ethereum](https://github.com/paritytech/parity-ethereum) | Current | [source code](https://github.com/paritytech/parity-ethereum) |
+
+## Node Deployment Tools & API End Points
+
+- [Bloq Cloud](https://bloq.cloud/)
+- [DappNode](https://dappnode.io/)
+- [Ethercluster](https://www.ethercluster.com/)
+- [Ethernode](https://ethernode.io/)
+- [QuikNode](https://quiknode.io/)
 
 
 ## Development Teams
