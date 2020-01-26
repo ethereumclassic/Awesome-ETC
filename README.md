@@ -14,15 +14,27 @@
   </div>
 <br/>
 <div align="center">
-An awesome non-exhaustive list about things related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
+A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethereum Classic</a> network.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 
 </div>
 <br/>
 
+
+## Contents
+
+TBD - pending final organization
+1. [Overview](#overview)
+2. [Ethereum Virtual Machine Networks](#ethereum-virtual-machine-networks)
+3. [Network Clients](#network-clients)
+4. [Developer Teams](#developer-teams)
+5. [Developer Tools](#developer-tools)
+6. [Infrastructure Tools](#infrastructure-tools)
+
+
 ## Overview
->Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July, 2015.
+>Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
 
 **Ethereum project splits in a contentious hard fork**
 >On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
@@ -41,31 +53,85 @@ An awesome non-exhaustive list about things related to the <a href="https://en.w
   <img width="200px" src="./images/ethereum_classic_logo_green_full.png">
   </div>
 
-## Contents
+## Ethereum Virtual Machine Networks
 
-1. [Documentation](#documentation)
-2. [Social Channels](#social-channels)
-3. [Development Teams](#development-teams)
-4. [Networks](#networks)
-5. [Network Clients](#network-clients)
-5. [Developer Tools](#developer-tools)
-6. [Infrastructure](#infrastructure)
-7. [Blockchain Utilities](#blockchain-utilities)
-8. [Wallets](#wallets)
+| Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [source code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
+| Astor | x | ETC | x | testnet | x | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
+| Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
+| Testnet Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
+source: [EthereumVM.net](https://ethereumvm.net/)
 
 
+## Network Clients
 
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Learning and MOOCs](#learning-and-moocs)
-6. [Philosophy](#philosophy)
-7. [Videos](#videos)
-10. [Protocols](#protocols)
-11. [Books](#books)
-12. [Misc](#misc)
-13. [Official](#official)
+| Client Name | Status |
+| :---: | :---:|
+| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Obsolete* |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
+| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
+| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
+| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
+
+
+## Development Teams
+
+| Year | Team Name | Status | Repository |
+| --- |:---:| :---:| --- |
+| 2015 | [Ethereum Foundation](https://ethereum.org/) | Active | [source code](https://github.com/ethereum/) |
+| 2016 | [ETC Consortium](https://etcconsortium.org/) | Active | |
+| 2016 | [ETCDEV](https://etcdevteam.com/) | Active | [source code](https://github.com/ETCDEVTeam/) |
+| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
+| 2017 | [ETC Cooperative](https://etccooperative.org/) | Active | [source code](https://github.com/ETCCooperative) |
+| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
+| 2018 | [Commonwealth.gg](https://commonwealth.gg) | Active | [source code](https://github.com/p3c-bot) |
+| 2018 | [ETC Labs](https://etclabs.org/) | Active | [source code](https://github.com/etclabscore) |
+| 2018 | [POA Network](https://www.poa.network/) | Active | [source code](https://github.com/poanetwork) |
+| 2019 | [ChainSafe](https://chainsafe.io/) | Active | [source code](https://github.com/ChainSafe) |
+| 2019 | [ETC Core](https://etccore.io/) | Active | [source code](https://github.com/etclabscore) |
+| 2019 | [Hyperledger](https://hyperledger.org/) | Active | [source code](https://github.com/ChainSafe/besu) |
+| 2019 | [Second State](https://www.secondstate.io/) | Active | [source code](https://github.com/second-state) |
+
+
+## Developer Tools
+
+- [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+- [Dappkit](https://dappkit.io/) - A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
+- [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
+- [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
+- [Ethereum JSON-RPC API](https://github.com/etclabscore/ethereum-json-rpc-specification) - A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
+- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
+- [EVM-LLVM](https://github.com/etclabscore/evm_llvm) - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+- [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
+- [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+- [Mythx](https://mythx.io/) - MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
+- [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
+- [Quorum](https://www.goquorum.com/) - Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
+- [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
+- [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+- [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+- [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+
+
+## Infrastructure Tools
+
+- [Bloq Cloud](https://bloq.cloud/)
+- [DappDirect](https://dappdirect.net/)
+- [Ethercluster](https://www.ethercluster.com/)
+- [Ethernode](https://ethernode.io/)
+- [QuikNode](https://quiknode.io/)
+
+
+
+
+
+
 
 ## Documentation
 
@@ -90,45 +156,11 @@ Ethereum Project Documentation.
 - QQ: ETC Asia-769408114.
 
 
-## Development Teams
-
-| Year | Team Name | Status |
-| --- |:---:| ----:|
-| 2015 | [Ethereum Foundation](https://ethereum.org/) | Active |
-| 2016 | [ETC Consortium](https://etcconsortium.org/) | Active |
-| 2016 | [ETCDEV](https://etcdevteam.com/) | Active |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Inactive |
-| 2017 | [ETC Cooperative](https://etccooperative.org/) | Active |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Inactive |
-| 2018 | [Commonwealth.gg](https://commonwealth.gg) | Active |
-| 2018 | [ETC Labs](https://etclabs.org/) | Active |
-| 2018 | [POA Network](https://www.poa.network/) | Active |
-| 2019 | [ChainSafe](https://chainsafe.io/) | Active |
-| 2019 | [ETC Core](https://etccore.io/) | Active |
-| 2019 | [Hyperledger](https://hyperledger.org/) | Active |
-| 2019 | [Second State](https://www.secondstate.io/) | Active |
-
-## Networks
-
-| Network | Consensus Mechanism | Mining Algorithm | code repository |
-| --- | :---: | :---:| :---: |
-| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash | [Ethereum Classic](https://github.com/ethereumclassic) |
-| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 | [Astor](https://astor.host/) |
-| Testnet: [Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation | [Kotti](https://github.com/goerli/testnet) |
-| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash | [Mordor](https://github.com/eth-classic/mordor) |
 
 
-## Network Clients
 
-| Client Name | Status |
-| :---: | :---:|
-| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
-| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Deprecated* |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
-| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
-| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
-| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
-| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
+
+
 
 ## Developer Tools
 - [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
