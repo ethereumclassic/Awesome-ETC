@@ -67,15 +67,14 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 
 ## Network Clients
 
-| Client Name | Status |
-| :---: | :---:|
-| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
-| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Obsolete* |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
-| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
-| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
-| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
-| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
+| Client Name | Status | Repository |
+| :---: | :---:| --- |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Obsolete* | [source code](https://github.com/etclabscore/go-ethereum) |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Current | [source code](https://github.com/ChainSafe/besu) |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* | [source code](https://github.com/input-output-hk/mantis) |
+| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* | [source code](https://github.com/ethereumproject/mist) |
+| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current | [source code](https://github.com/multi-geth/multi-geth) |
+| [Parity-Ethereum](https://github.com/paritytech/parity-ethereum) | Current | [source code](https://github.com/paritytech/parity-ethereum) |
 
 
 ## Development Teams
