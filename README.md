@@ -80,21 +80,21 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 
 ## Development Teams
 
-| Year | Team Name | Status | Repository |
-| --- |:---:| :---:| --- |
-| 2015 | [Ethereum Foundation](https://ethereum.org/) | Active | [source code](https://github.com/ethereum/) |
-| 2016 | [ETC Consortium](https://etcconsortium.org/) | Active | |
-| 2016 | [ETCDEV](https://etcdevteam.com/) | Active | [source code](https://github.com/ETCDEVTeam/) |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
-| 2017 | [ETC Cooperative](https://etccooperative.org/) | Active | [source code](https://github.com/ETCCooperative) |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
-| 2018 | [Commonwealth.gg](https://commonwealth.gg) | Active | [source code](https://github.com/p3c-bot) |
-| 2018 | [ETC Labs](https://etclabs.org/) | Active | [source code](https://github.com/etclabscore) |
-| 2018 | [POA Network](https://www.poa.network/) | Active | [source code](https://github.com/poanetwork) |
-| 2019 | [ChainSafe](https://chainsafe.io/) | Active | [source code](https://github.com/ChainSafe) |
-| 2019 | [ETC Core](https://etccore.io/) | Active | [source code](https://github.com/etclabscore) |
-| 2019 | [Hyperledger](https://hyperledger.org/) | Active | [source code](https://github.com/ChainSafe/besu) |
-| 2019 | [Second State](https://www.secondstate.io/) | Active | [source code](https://github.com/second-state) |
+| Year | Team Name | Twitter | Status | Repository |
+| --- |:---:| :---:| :---:| --- |
+| 2015 | [Ethereum Foundation](https://ethereum.org/) | [@ethereum](https://twitter.com/ethereum) | Active | [source code](https://github.com/ethereum/) |
+| 2016 | [ETC Consortium](https://etcconsortium.org/) | [@ETCConsortium](https://twitter.com/ETCConsortium) | Active | |
+| 2016 | [ETCDEV](https://etcdevteam.com/) | [@getemerald](https://twitter.com/getemerald) | Active | [source code](https://github.com/ETCDEVTeam/) |
+| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | [@InputOutputHK](https://twitter.com/InputOutputHK) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
+| 2017 | [ETC Cooperative](https://etccooperative.org/) | [@ETCCooperative](https://twitter.com/ETCCooperative) | Active | [source code](https://github.com/ETCCooperative) |
+| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
+| 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
+| 2018 | [ETC Labs](https://etclabs.org/) | [@etclabs](https://twitter.com/etclabs) | Active | [source code](https://github.com/etclabscore) |
+| 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
+| 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
+| 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
+| 2019 | [Hyperledger](https://hyperledger.org/) | [@Hyperledger](https://twitter.com/Hyperledger) | Active | [source code](https://github.com/ChainSafe/besu) |
+| 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
 
 
 ## Developer Tools
