@@ -24,59 +24,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Awesome List
 
-## Contents
-
-**Network Information**
-
-1. [Overview](#overview)
-2. [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
-
-**Network Resources**
-
-3. [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
-4. [Node Deployment Tools](#node-deployment-tools)
-5. [Network Public Utilities](#network-public-utilities)
-
-**Ethereum Classic Ecosystem**
-
-6. [Dapps](#dapps)
-7. [Exchanges](#exchanges)
-8. [Wallets](#wallets)
-
-**Ethereum Classic Participants**
-
-9. [Community Channels](#community-channels)
-10. [Developer Teams](#developer-teams)
-11. [Miner Software](#miner-software)
-12. [Mining Pools](#mining-pools)
-
-**Development Resources**
-
-13. [Development Tools](#development-tools)
-14. [Tutorials](#tutorials)
-
-**Technical Documentation**
-
-15. [Technical Papers](#technical-papers)
-16. [Detailed History](#detailed-history)
-17. [Wiki](#wiki)
-18. [Code Documentation](#code-documentation)
-
-**Educational Material**
-
-19. [Learning and MOOCs](#learning-and-moocs)
-20. [Philosophy](#philosophy)
-21. [Videos](#videos)
-22. [Protocols](#protocols)
-23. [Books](#books)
-
-**Other Material**
-
-24. [Miscellaneous](#miscellaneous)
-25. [Contribute](#contribute)
-26. [License](#license)
-
-
 ## Overview
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
 
@@ -114,10 +61,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 | Client Name | Status | Repository |
 | :---: | :---:| --- |
-| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Obsolete* | [source code](https://github.com/etclabscore/go-ethereum) |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
-| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* | [source code](https://github.com/input-output-hk/mantis) |
-| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* | [source code](https://github.com/ethereumproject/mist) |
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
 | [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
 
@@ -127,18 +71,17 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
 - [DappNode](https://dappnode.io/) - DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
 - [Ethercluster](https://www.ethercluster.com/) - Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
-- [NodeHelp](https://node.help/) - Our easy to use platform & API provides you with access to public blockchains or private distributed ledger technology networks in three clicks. We focus on providing secure, reliable, and scalable node infrastructure.
 - [QuikNode](https://quiknode.io/) - QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
 
 
 ## Network Public Utilities
 
-| Network | Block Explorers| Monitors | Faucets | Public API Endpoints |
+| Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
 | [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | x |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | x |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
 
 ### Gas Fee Estimators:
 
@@ -148,7 +91,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Expedition](https://expedition.dev/?network=mainnet)
 - [GasGauge](http://etc.gasgauge.org)
 
-### Dapp Lists:
+### Dapp Aggregators:
 
 - [CryptoGround](https://www.cryptoground.com/dapp)
 - [CoinCodex](https://coincodex.com/dapp-list/)
@@ -158,7 +101,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [DappStatus](https://dappstatus.com/)
 - [State of the Dapps](https://www.stateofthedapps.com/)
 
-### Open Finance (DeFi) Monitors:
+### Open Finance Analytics (DeFi):
 
 - [0xTracker](https://0xtracker.com/)
 - [CoinInterestRates](https://coininterestrates.com/)
@@ -172,84 +115,56 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 # Ethereum Classic Ecosystem
 
-## Dapps
+## Active Dapps
 
 - [Alien Farm](https://alienfarm.highlander.network/)
 - [Arena Racing](https://arena.highlander.network/)
-- [GitCoin](https://gitcoin.co/) *coming soon*
+- [Commonwealth](https://commonwealth.gg)
+- [GitCoin](https://gitcoin.co/)
+- [ONEX Network](https://onex.network/)
 - [OriginalMy](https://originalmy.com/)
 - [Stampery](https://stampery.com/)
+- [ePOC](https://etc.poc35.co/)
 - [Portal.Network](https://www.portal.network/)
 - [wETC](https://wetc.app/)
-- many more planned for 2020...
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 
-## DeFi Dashboards and Protocols
-
-- [Commonwealth](https://commonwealth.gg)
-- [Saturn Protocol](https://www.saturn.network/)
-- [Uniswap](https://uniswap.io) *coming soon*
-- many more planned for 2020...
-
 ## Centralized Exchanges
 
-- [55](https://www.55.com/exchange?symbol=ETCBTC&site=B)
-- [Baobi](https://www.baobi.com/en/trade?c=ETC%2FUSDT)
-- [BCex](https://www.bcex.ca/trade/etc_usdt)
-- [Bibox](https://www.bibox.com/exchange?coinPair=ETC_USDT)
 - [Binance](https://www.binance.com/en/trade/ETC_USDT)
-- [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [Bit-Z](https://www.bit-z.com/exchange/etc_btc)
-- [Bitfinex](https://www.bitfinex.com/t/ETCUSD)
-- [Bitforex](https://www.bitforex.com/en/spot/etc_usdt)
-- [Bithumb](https://en.bithumb.com/trade/order/ETC)
-- [Bittrex](https://international.bittrex.com/Market/Index?MarketName=USD-ETC)
-- [Catex](https://www.catex.io/trading/ETC/BTC)
+- [Binance US](https://www.binance.us/en/trade/ETC_USD)
+- [Bitfinex](https://www.bitfinex.com/t/ETC:USD)
+- [Bithumb](https://www.bithumb.com/trade/order/ETCKRW)
+- [Bittrex](https://bittrex.com/Market/Index?MarketName=USD-ETC)
 - [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
-- [Coinbene](https://www.coinbene.com/exchange/en_US/ETCUSDT)
-- [Coineal](https://hk.coineal.com/trade_center.html?s=etc-btc#en_US)
-- [CoinEgg](https://trade.coinegg.com/trade/etc_btc)
-- [CoinEx](https://www.coinex.com/exchange?currency=usdt&dest=etc)
-- [CoinOne](https://coinone.co.kr/exchange/trade/etc/krw)
-- [Coinsbit](https://coinsbit.io/trade/ETC_BTC)
-- [CoinSuper](https://www.coinsuper.com/trade?symbol=ETC%2FUSD)
-- [CoinTiger](https://www.cointiger.com/en-us/#/trade_pro?coin=etc_btc)
-- [Digifinex](https://www.digifinex.com/en-ww/trade/USDT/ETC)
-- [EXX](https://www.exx.com/tradeCoding/etc_usdt)
-- [HBG](https://www.hbg.com/en-us/exchange/etc_usdt/)
-- [HitBTC](https://hitbtc.com/ETC-to-BTC)
-- [IDAX](https://www.idax.pro/exchange?pairname=ETC_USDT)
-- [IDCM](https://www.idcm.io/trading/ETC_USDT)
-- [Korbit](https://www.korbit.co.kr/markets/?market=etc-krw)
+- [Gate.io](https://gate.io/trade/etc_usdt)
+- [HitBTC](https://hitbtc.com/ETC-to-USDT)
+- [Huobi Global](https://www.hbg.com/en-us/exchange/etc_usdt/)
+- [Huobi Korea](https://www.huobi.co.kr/en-US/exchange/etc_usdt/)
 - [Kraken](https://trade.kraken.com/markets/kraken/etc/usd)
-- [LBank](https://www.lbank.info/exchange.html#/etc/btc)
-- [Multiswap](https://multiswap.io/)
-- [OKex](https://www.okex.com/market?product=etc_usdt)
-- [P2PB2B](https://p2pb2b.io/trade/ETC_BTC)
-- [Poloniex](https://poloniex.com/exchange#btc_etc)
-- [Upbit](https://sg.upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC)
-- [ZB](https://trans.zb.com/markets/etcbtc)
+- [Kucoin](https://www.kucoin.com/trade/ETC-USDT)
+- [OKCoin](https://www.okcoin.com/spot/trade#product=etc_usd)
+- [OKEx](https://www.okex.com/market?product=etc_usdt)
+- [OKEx Korea](https://okex.co.kr/kr/view/trade/order)
+- [Poloniex](https://poloniex.com/exchange#usdt_etc)
+- [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETC)
+- [Yobit](https://yobit.net/en/trade/ETC/BTC)
 
 
 ## Decentralized Exchanges
 
+- [Bisq](https://bisq.network/markets/?currency=etc_btc)
+- [exnce](https://exnce.com/)
 - [Saturn](https://www.saturn.network/)
 
 
 ## Instant Exchanges
+*Note:* These have worse rates than Centralized Exchanges.
 
-- [AnyCoinDirect](https://anycoindirect.eu/en)
-- [Bitladon](https://www.bitladon.com/)
 - [Changelly](https://changelly.com/)
 - [ChangeNow](https://changenow.io/)
-- [CoinDirect](https://www.coindirect.com/)
-- [Coinmerce](https://coinmerce.io/)
-- [Exolix](https://exolix.com/)
-- [FixedFloat](https://fixedfloat.com/)
-- [GoDex](https://godex.io/)
-- [Switchain](https://www.switchain.com)
 
 Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -373,72 +288,11 @@ Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 
-- [1stPool](https://etc.1stpool.org/)
-- [2Miners](https://2miners.com/etc-mining-pool)
-- [AltPool](http://etc.altpool.pro/)
-- [AntPool](https://antpool.com/)
-- [ANYHASH](https://anyhash.net/)
-- [BaikalMine](https://baikalmine.com/en/pplns/etc/)
-- [Beepool](https://beepool.org/coindetail/etc)
-- [BoomPool](http://etc.boompool.ru/)
-- [BTC.com](https://pool.btc.com/)
-- [BWPool](https://etc.bwpool.net/pool/i)
-- [CCMPool](http://ccmpool.ro/)
-- [Clona](https://etc.clona.ru)
-- [CoinMine](https://www2.coinmine.pl/etc/)
-- [CoinMiner](http://etc.coinminer.space/)
-- [Coinotron](https://www.coinotron.com/)
-- [CoolPool](https://coolpool.top/pool?coin=etc&type=pplns)
-- [Cominers](https://etc.cominers.org/)
-- [Comining](https://comining.io/)
-- [CrazyPool](https://crazypool.org/)
-- [Cruxpool](https://www.cruxpool.com/etc/)
-- [CRYPIT](https://crypit.net/?pool=ETC)
-- [DigiPools](https://etc.digipools.org/)
-- [ETCTurk](http://etcturk.sytes.net/)
-- [Ethashpool](https://ethashpool.com/etc)
-- [EtherDig](https://etherdig.ru/)
-- [Ethermine](https://etc.ethermine.org/)
-- [EtherTrench](http://etc.ethertrench.com/)
-- [EqualHash](https://equalhash.pt/)
-- [f2pool](https://www.f2pool.com/)
-- [FairPool](https://etc.fairpool.xyz/)
-- [FarMine](http://etc.farmine.net/)
-- [FirePool](https://firepool.com/)
-- [HashCity](https://hashcity.org/)
-- [HashOn](https://hashon.me/etc/home)
-- [Hellominer](https://hellominer.com/ETC/EtcHome.aspx)
-- [HuobiPool](https://www.huobipool.com/pow)
-- [HVPPS](http://etc.hvpps.net/)
-- [ICanMining](https://icanmining.ru/?l=en&d=pool&pool=etc)
-- [KDV-Mining](http://etc.kdv-mining.com/#/)
-- [MATPool](https://matpool.io/)
-- [MaxHash](https://etcpool.maxhash.org/)
-- [Minerall](https://minerall.io/ethereum-classic)
-- [MinerGate](https://minergate.com/etc-mining-pool)
-- [MiningFrance](https://etc.miningfrance.io/)
-- [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
-- [Mole-Pool](http://mole-pool.net/)
-- [Myminers](https://etc.myminers.org/)
-- [MyPool](https://etc.mypool.online/#/)
-- [Nanopool](https://etc.nanopool.org/)
-- [NLpool](http://etc.nlpool.nl/)
-- [Okex](https://www.okex.me/pool)
-- [Prohashing](https://prohashing.com/)
-- [ProtonMine](https://etc.protonmine.com/)
-- [SaturnPool](https://etc.saturnpool.com/)
-- [Smartpool](https://smartpool.by/etc)
-- [SoloMine](http://etc.solomine.org/)
-- [SoloPool](https://etc.solopool.org/)
-- [Spritzee](http://spritzee.ru/)
-- [TheMinersPond](https://theminerspond.com/ethereumclassic/)
-- [uuPool](https://uupool.cn/)
-- [ViaBTC](https://www.viabtc.com/)
-- [Wattpool](https://wattpool.net/pools)
-- [Whalesburg](https://whalesburg.com/)
-- [XNPOOL](https://www.xnpool.com/)
-- [XZRM](https://xzrm.com/pool?coin=etc)
-- [ŻET](https://etc.zet-tech.eu/)
+1. [Ethermine](https://etc.ethermine.org/)
+2. [Nanopool](https://etc.nanopool.org/)
+3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
+4. [2Miners](https://2miners.com/etc-mining-pool)
+5. [Beepool](https://beepool.org/coindetail/etc)
 
 
 # Development Resources
@@ -515,7 +369,7 @@ When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now h
 ## Wiki
 
 - [Ethereum chain's ETH Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things Ethereum (ETH) chain.
-- [Ethereum chain's ETH Community Wiki](https://eth.wiki/)
+- [Ethereum chain's ETH Community Wiki](https://eth.wiki/) - Ethereum's ETH community wiki.
 
 
 ## Code Documentation
@@ -551,10 +405,14 @@ Learn about the theory behind Ethereum.
 - [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
-2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
+2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC). *Note:* There is no leader in Ethereum Classic.
 
-- [Etherplan](https://etherplan.com/)
-
+- [Ethereum Classic Principles](https://etherplan.com/2019/08/14/ethereum-classic-principles/8575/)
+- [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
+- [Ethereum Classic Opportunities](https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/)
+- [How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy](https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/)
+- [The Ethereum Classic vs Ethereum 1.x Dichotomy](https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/)
+- [Ethereum Classic vs Ethereum 2.0, What is the Difference?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
 
 ## Videos
 
@@ -633,8 +491,22 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 ## License
 
-GNU General Public License v3.0
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/gitr0n1n/Awesome-EthereumClassic">
+    <span property="dct:title">@gitr0n1n</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Awesome-EthereumClassic</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="US" about="https://github.com/gitr0n1n/Awesome-EthereumClassic">
+  United States</span>.
+</p>
 
-To the extent possible under law, [@gitr0n1n](https://github.com/gitr0n1n) has waived all copyright and
-related or neighboring rights to this work. For the full license see `LICENSE`.
+ For the full license see `LICENSE`.
