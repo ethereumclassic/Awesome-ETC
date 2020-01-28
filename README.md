@@ -24,8 +24,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Awesome List
 
-- [Ethereum Classic Awesome List](#ethereum-classic-awesome-list)
-  * [Overview](#overview)
+- [Overview](#overview)
 - [Ethereum Classic Network](#ethereum-classic-network)
   * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
   * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
@@ -78,7 +77,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
   * [License](#license)
 
 
-## Overview
+# Overview
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
 
 **Ethereum project splits in a contentious hard fork**
@@ -396,29 +395,6 @@ Step by step guides on using Ethereum.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
-## Detailed History
-
-**Conception to token sale**
->Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
-
-**Ethereum Foundation ETC token allocation**
-
-- 3 million ETC were allocated to a long-term endowment
-- 6 million ETC were distributed among 85 developers who contributed prior to the crowdsale
-- 3 million ETC were designed as a “developer purchase program” that gave Ethereum developers the rights to purchase ETC at crowdsale prices.
-
-
-When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now held both ETC and a new asset ETH.
-
-**The rise of initial coin offerings (ICOs)**
->Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
-
-**The DAO hack**
->Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
-
-**Hard Fork: The Birth of Sister Chains**
->To be continued....
-
 
 ## Wiki
 
@@ -461,12 +437,16 @@ Learn about the theory behind Ethereum.
 
 2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC). *Note:* There is no leader in Ethereum Classic.
 
+- [The Ethereum Classic Declaration of Independence](https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/)
+- [A Crypto-Decentralist Manifesto](https://ethereumclassic.org/blog/2016-07-11-manifesto/)
 - [Ethereum Classic Principles](https://etherplan.com/2019/08/14/ethereum-classic-principles/8575/)
 - [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
 - [Ethereum Classic Opportunities](https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/)
+- [Ethereum Classic vs Ethereum 2.0, What is the Difference?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
+- [Why Proof of Stake is Less Secure Than Proof of Work](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)
+
 - [How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy](https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/)
 - [The Ethereum Classic vs Ethereum 1.x Dichotomy](https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/)
-- [Ethereum Classic vs Ethereum 2.0, What is the Difference?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
 
 ## Videos
 
@@ -528,6 +508,32 @@ Mathematically sound price-supply relationship curves.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
+
+
+# Detailed History
+
+**Conception to token sale**
+>Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
+
+**Ethereum Foundation ETC token allocation**
+
+- 3 million ETC were allocated to a long-term endowment
+- 6 million ETC were distributed among 85 developers who contributed prior to the crowdsale
+- 3 million ETC were designed as a “developer purchase program” that gave Ethereum developers the rights to purchase ETC at crowdsale prices.
+
+
+When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now held both ETC and a new asset ETH.
+
+**The rise of initial coin offerings (ICOs)**
+>Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
+
+**The DAO hack**
+>Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
+
+**Hard Fork: The Birth of Sister Chains**
+>To be continued....
+
+**
 
 
 # Other Material
