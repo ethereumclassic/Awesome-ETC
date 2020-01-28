@@ -30,9 +30,9 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
   * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
   * [Node Deployment Tools](#node-deployment-tools)
   * [Network Public Utilities](#network-public-utilities)
-    + [Gas Fee Estimators:](#gas-fee-estimators-)
-    + [Dapp Aggregators:](#dapp-aggregators-)
-    + [Open Finance Analytics (DeFi):](#open-finance-analytics--defi--)
+    + [Gas Fee Estimators](#gas-fee-estimators)
+    + [Dapp Aggregators](#dapp-aggregators)
+    + [DeFi Open Finance Analytics](#defi-open-finance-analytics)
 - [Ethereum Classic Ecosystem](#ethereum-classic-ecosystem)
   * [Active Dapps](#active-dapps)
   * [Centralized Exchanges](#centralized-exchanges)
@@ -132,11 +132,11 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
 | [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | x |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/),[ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
 
-### Gas Fee Estimators:
+### Gas Fee Estimators
 
 - [ETCGas](http://etcgas.net)
 - [EtherGas](http://etc.ethergas.net)
@@ -144,7 +144,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Expedition](https://expedition.dev/?network=mainnet)
 - [GasGauge](http://etc.gasgauge.org)
 
-### Dapp Aggregators:
+### Dapp Aggregators
 
 - [CryptoGround](https://www.cryptoground.com/dapp)
 - [CoinCodex](https://coincodex.com/dapp-list/)
@@ -154,7 +154,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [DappStatus](https://dappstatus.com/)
 - [State of the Dapps](https://www.stateofthedapps.com/)
 
-### Open Finance Analytics (DeFi):
+### DeFi Open Finance Analytics
 
 - [0xTracker](https://0xtracker.com/)
 - [CoinInterestRates](https://coininterestrates.com/)
@@ -168,17 +168,27 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 # Ethereum Classic Ecosystem
 
-## Active Dapps
+## Active Dapps, Products, Services
+
+### Games
 
 - [Alien Farm](https://alienfarm.highlander.network/)
 - [Arena Racing](https://arena.highlander.network/)
+- [ETCOdyssey](https://etcodyssey.com/)
+- [Luckygames](https://luckygames.cc/)
+
+### Identity Dapps
+- [uPort](https://www.uport.me/)
+
+
 - [Commonwealth](https://commonwealth.gg)
+- [ePOC](https://etc.poc35.co/)
 - [GitCoin](https://gitcoin.co/)
 - [ONEX Network](https://onex.network/)
 - [OriginalMy](https://originalmy.com/)
-- [Stampery](https://stampery.com/)
-- [ePOC](https://etc.poc35.co/)
 - [Portal.Network](https://www.portal.network/)
+- [Stampery](https://stampery.com/)
+- [uPort](https://www.uport.me/)
 - [wETC](https://wetc.app/)
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
@@ -214,7 +224,7 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 
 
 ## Instant Exchanges
-*Note:* These have worse rates than Centralized Exchanges.
+*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
 
 - [Changelly](https://changelly.com/)
 - [ChangeNow](https://changenow.io/)
@@ -265,7 +275,7 @@ for Desktop or Mobile devices.
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [Jaxx](https://jaxx.io/)
 - [Ownbit](https://ownbit.io/)
-- [Trust Wallet](https://trustwallet.com/)
+- [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet)
 
 Note: If your wallet is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
