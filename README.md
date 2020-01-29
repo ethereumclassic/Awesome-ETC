@@ -28,6 +28,8 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 ## Contents
 
+- [Ethereum Classic Awesome List](#ethereum-classic-awesome-list)
+  * [Contents](#contents)
 - [Overview](#overview)
 - [Ethereum Classic Network](#ethereum-classic-network)
   * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
@@ -52,6 +54,9 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
     + [Hardware Wallet](#hardware-wallet)
     + [Software Wallets](#software-wallets)
 - [Ethereum Classic Participants](#ethereum-classic-participants)
+  * [Development Teams](#development-teams)
+  * [Mining Pools](#mining-pools)
+  * [Miner Software](#miner-software)
   * [Community Channels](#community-channels)
     + [Chat](#chat)
     + [Forum](#forum)
@@ -59,29 +64,28 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
     + [Repository](#repository)
     + [Twitter](#twitter)
     + [Websites](#websites)
-  * [Development Teams](#development-teams)
-  * [Miner Software](#miner-software)
-  * [Mining Pools](#mining-pools)
 - [Development Resources](#development-resources)
   * [Tooling](#tooling)
   * [Tutorials](#tutorials)
 - [Educational Material](#educational-material)
-  * [Technical Papers](#technical-papers)
+  * [Ethereum Project Technical Papers](#ethereum-project-technical-papers)
   * [Ethereum Project Wiki](#ethereum-project-wiki)
   * [Code Documentation](#code-documentation)
   * [Ethereum Project Theory](#ethereum-project-theory)
-  * [Ethereum Technology Philosophy](#ethereum-technology-philosophy)
-    + [the Ethereum Project and the greater EVM ecosystem.](#the-ideas-behind-the-ethereum-project-and-the-greater-evm-ecosystem)
-    + [the Ethereum Classic chain (ETC).](#the-ideas-behind-the-continuation-of-the-original-ethereum-project-and-the-ethereum-classic-chain--etc-)
-  * [Proof of Work](#proof-of-work)
-    + [Dagger Hashimoto](#dagger-hashimoto)
-    + [Ethash](#ethash)
-  * [Protocols](#protocols)
+  * [Ethereum Project Philosophy](#ethereum-project-philosophy)
+    + [The Ethereum project and greater EVM ecosystem](#the-ethereum-project-and-greater-evm-ecosystem)
+    + [The Ethereum Classic chain: The continuation of the original Ethereum project](#the-ethereum-classic-chain--the-continuation-of-the-original-ethereum-project)
+  * [Ethereum Classic Consensus Mechanisms](#ethereum-classic-consensus-mechanisms)
+    + [Clique - PoA (Testnet)](#clique---poa--testnet-)
+    + [Dagger Hashimoto - PoW (Obsolete)](#dagger-hashimoto---pow--obsolete-)
+    + [Ethash - Active PoW (Mainnet)](#ethash---active-pow--mainnet-)
+    + [Keccak256 - PoW (Testnet)](#keccak256---pow--testnet-)
+  * [Ethereum Project Protocols](#ethereum-project-protocols)
     + [Swarm](#swarm)
     + [Whisper](#whisper)
     + [zk-SNARKS](#zk-snarks)
   * [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
-- [Media and Other Content](#media-and-other-content)
+- [Ethereum Classic Media and Other Content](#ethereum-classic-media-and-other-content)
   * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
   * [Books](#books)
   * [Videos](#videos)
@@ -321,6 +325,53 @@ Note: If your wallet is not listed, please reach out to the community via the Et
   <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
 </div>
 
+## Development Teams
+
+| Year | Team Name | Twitter | Status | Repository |
+| --- |--- | --- | :---: | --- |
+| 2015 | [Ethereum Foundation](https://ethereum.org/) | [@ethereum](https://twitter.com/ethereum) | Active | [source code](https://github.com/ethereum/) |
+| 2016 | [ETC Consortium](https://etcconsortium.org/) | [@ETCConsortium](https://twitter.com/ETCConsortium) | Active | |
+| 2016 | [ETCDEV](https://etcdevteam.com/) | [@getemerald](https://twitter.com/getemerald) | Active | [source code](https://github.com/ETCDEVTeam/) |
+| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | [@InputOutputHK](https://twitter.com/InputOutputHK) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
+| 2017 | [ETC Cooperative](https://etccooperative.org/) | [@ETCCooperative](https://twitter.com/ETCCooperative) | Active | [source code](https://github.com/ETCCooperative) |
+| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
+| 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
+| 2018 | [ETC Labs](https://etclabs.org/) | [@etclabs](https://twitter.com/etclabs) | Active | [source code](https://github.com/etclabscore) |
+| 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
+| 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
+| 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
+| 2019 | [Hyperledger](https://hyperledger.org/) | [@Hyperledger](https://twitter.com/Hyperledger) | Active | [source code](https://github.com/ChainSafe/besu) |
+| 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
+
+Note: If attribution is missing for your team, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+
+
+## Mining Pools
+
+source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
+
+Top 5 Mining Pools by Hashrate at the time for writing:
+1. [Ethermine](https://etc.ethermine.org/)
+2. [Nanopool](https://etc.nanopool.org/)
+3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
+4. [2Miners](https://2miners.com/etc-mining-pool)
+5. [Beepool](https://beepool.org/coindetail/etc)
+
+## Miner Software
+
+Mining Algorithm: Ethash
+
+| Windows AMD | Windows NVIDIA | Linux AMD | Linux NVIDIA |
+| :---: | :---: | :---: | :---: |
+| [Bminer](https://www.bminer.me/releases/) | | [Bminer](https://www.bminer.me/releases/) | |
+| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
+| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
+| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
+| [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
+
+Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
+
+
 ## Community Channels
 
 ### Chat
@@ -348,54 +399,6 @@ Note: If your wallet is not listed, please reach out to the community via the Et
 - International Community Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 
 Note: If your community channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
-
-
-## Development Teams
-
-| Year | Team Name | Twitter | Status | Repository |
-| --- |--- | --- | :---: | --- |
-| 2015 | [Ethereum Foundation](https://ethereum.org/) | [@ethereum](https://twitter.com/ethereum) | Active | [source code](https://github.com/ethereum/) |
-| 2016 | [ETC Consortium](https://etcconsortium.org/) | [@ETCConsortium](https://twitter.com/ETCConsortium) | Active | |
-| 2016 | [ETCDEV](https://etcdevteam.com/) | [@getemerald](https://twitter.com/getemerald) | Active | [source code](https://github.com/ETCDEVTeam/) |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | [@InputOutputHK](https://twitter.com/InputOutputHK) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
-| 2017 | [ETC Cooperative](https://etccooperative.org/) | [@ETCCooperative](https://twitter.com/ETCCooperative) | Active | [source code](https://github.com/ETCCooperative) |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
-| 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
-| 2018 | [ETC Labs](https://etclabs.org/) | [@etclabs](https://twitter.com/etclabs) | Active | [source code](https://github.com/etclabscore) |
-| 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
-| 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
-| 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
-| 2019 | [Hyperledger](https://hyperledger.org/) | [@Hyperledger](https://twitter.com/Hyperledger) | Active | [source code](https://github.com/ChainSafe/besu) |
-| 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
-
-Note: If attribution is missing for your team, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
-
-
-## Miner Software
-
-Mining Algorithm: Ethash
-
-| Windows AMD | Windows NVIDIA | Linux AMD | Linux NVIDIA |
-| :---: | :---: | :---: | :---: |
-| [Bminer](https://www.bminer.me/releases/) | | [Bminer](https://www.bminer.me/releases/) | |
-| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
-| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
-| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
-| [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
-
-Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
-
-
-## Mining Pools
-
-source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
-
-Top 5 Mining Pools by Hashrate at the time for writing:
-1. [Ethermine](https://etc.ethermine.org/)
-2. [Nanopool](https://etc.nanopool.org/)
-3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
-4. [2Miners](https://2miners.com/etc-mining-pool)
-5. [Beepool](https://beepool.org/coindetail/etc)
 
 
 # Development Resources
@@ -448,7 +451,7 @@ Step by step guides on using Ethereum.
   <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
 </div>
 
-## Technical Papers
+## Ethereum Project Technical Papers
 
 - [Ethereum Project White Paper](https://github.com/ethereumclassic/wiki/ethereum_white_paper.pdf) - Non-technical introductory description of the Ethereum project.
 - [Ethereum Project Yellow Paper](https://github.com/ethereumclassic/wiki/ethereum_yellow_paper.pdf) - Technical description of the Ethereum project. Technically outdated, but interesting.
@@ -485,9 +488,9 @@ Learn about the theory behind the Ethereum project.
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Security related best practices for smart contracts.
 - [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)
 
-## Ethereum Technology Philosophy
+## Ethereum Project Philosophy
 
-### The Ideas behind the Ethereum Project and the greater EVM ecosystem.
+### The Ethereum project and greater EVM ecosystem
 
 - [The idea of Smart Contracts](https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html) - Nick Szabo's idea of smart contracts post from 1997.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper) - Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
@@ -497,8 +500,9 @@ Learn about the theory behind the Ethereum project.
 - [Ethereum (ETH) Wiki Philosophy](https://github.com/ethereum/wiki/Philosophy) - Some of the core philosophies of Ethereum's ETH chain.
 - [Ethereum(ETH) )Improvement Proposals](https://eips.ethereum.org/) - Standards for Ethereum's ETH platform, including core protocol specifications, client APIs, and contract standards (EIPS).
 
-### The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
+### The Ethereum Classic chain: The continuation of the original Ethereum project
 
+The ideas behind the continuation of the original Ethereum project post-DAO bailout fork.
 *Note:* There are no centralized leaders in the Ethereum Classic EVM project.
 
 - [The Ethereum Classic Declaration of Independence](https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/)
@@ -530,7 +534,7 @@ Ethereum Classic is committed to Proof of Work as a consensus mechanism. The cur
 - [Astor Testnet](https://astor.host) - a testnet design for analysis of an algorithm change for the long-term future of Ethereum Classic due to Ethash's failure at ASIC resistance.
 
 
-## Protocols
+## Ethereum Project Protocols
 
 Descriptions and implementations of Ethereum-related protocols.
 
@@ -560,7 +564,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
 
-# Media and Other Content
+# Ethereum Classic Media and Other Content
 
 ## Blogs, Mailing Lists, Newsletters
 
