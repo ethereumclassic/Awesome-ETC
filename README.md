@@ -376,7 +376,7 @@ Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
-- Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
+- Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [France](https://twitter.com/ETC_France), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
 - Tencent QQ: ETC Asia-769408114
 - WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
 
