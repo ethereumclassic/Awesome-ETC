@@ -144,8 +144,8 @@ with the flexibility of an ERC20 token
 
 ### Open Finance Dapps and Protocols
 - [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
-- [ePOC](https://etc.poc35.co/)
-- [ONEX Network](https://onex.network/)
+- [ePOC](https://etc.poc35.co/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
+- [ONEX Network](https://onex.network/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
 
 ### Other Dapps
 - [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
