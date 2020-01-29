@@ -17,6 +17,7 @@
 A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethereum Classic</a> network.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
+<br />
 <b>Disclaimer:</b> There is no guarantee that links are legitimate. Use at your own risk. If a link is broken, malicious, or you want to add a link, then please make a pull request.
 </div>
 <br/>
@@ -24,6 +25,68 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Awesome List
 
+- [Overview](#overview)
+- [Ethereum Classic Network](#ethereum-classic-network)
+  * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
+  * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
+  * [Node Deployment Tools](#node-deployment-tools)
+  * [Network Public Utilities](#network-public-utilities)
+    + [Gas Fee Estimators](#gas-fee-estimators)
+    + [Dapp Aggregators](#dapp-aggregators)
+    + [DeFi Open Finance Analytics](#defi-open-finance-analytics)
+- [Ethereum Classic Ecosystem](#ethereum-classic-ecosystem)
+  * [Dapp Environment](#dapp-environment)
+    + [Games](#games)
+    + [Compatible Decentralized Identity Dapps](#compatible-decentralized-identity-dapps)
+    + [Interoperability Projects](#interoperability-projects)
+    + [Open Finance Dapps and Protocols](#open-finance-dapps-and-protocols)
+    + [Other Projects](#other-projects)
+  * [Centralized Exchanges](#centralized-exchanges)
+  * [Decentralized Exchanges](#decentralized-exchanges)
+  * [Instant Exchanges](#instant-exchanges)
+  * [Ethereum Classic Wallets](#ethereum-classic-wallets)
+    + [Browser Wallets](#browser-wallets)
+    + [Hardware Wallet](#hardware-wallet)
+    + [Software Wallets](#software-wallets)
+- [Ethereum Classic Participants](#ethereum-classic-participants)
+  * [Community Channels](#community-channels)
+    + [Chat](#chat)
+    + [Forum](#forum)
+    + [Media](#media)
+    + [Repository](#repository)
+    + [Twitter](#twitter)
+    + [Websites](#websites)
+  * [Development Teams](#development-teams)
+  * [Miner Software](#miner-software)
+  * [Mining Pools](#mining-pools)
+- [Development Resources](#development-resources)
+  * [Tooling](#tooling)
+  * [Tutorials](#tutorials)
+- [Educational Material](#educational-material)
+  * [Technical Papers](#technical-papers)
+  * [Ethereum Project Wiki](#ethereum-project-wiki)
+  * [Code Documentation](#code-documentation)
+  * [Ethereum Project Theory](#ethereum-project-theory)
+  * [Ethereum Technology Philosophy](#ethereum-technology-philosophy)
+    + [The Ideas behind the Ethereum Project and the greater EVM ecosystem.](#the-ideas-behind-the-ethereum-project-and-the-greater-evm-ecosystem)
+    + [The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).](#the-ideas-behind-the-continuation-of-the-original-ethereum-project-and-the-ethereum-classic-chain--etc-)
+  * [Proof of Work](#proof-of-work)
+    + [[Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.](#-dagger-hashimoto--https---githubcom-ethereum-wiki-wiki-dagger-hashimoto----ethereum-classic-s-previous-proof-of-work-algorithm)
+    + [[Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.](#-ethash--https---githubcom-ethereum-wiki-wiki-ethash----ethereum-classic-s-current-proof-of-work-algorithm)
+  * [Protocols](#protocols)
+    + [Swarm](#swarm)
+    + [Whisper](#whisper)
+    + [zk-SNARKS](#zk-snarks)
+  * [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
+- [Media and Other Content](#media-and-other-content)
+  * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
+  * [Books](#books)
+  * [Videos](#videos)
+- [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
+  * [How to Contribute to the Ethereum Classic Awesome List](#how-to-contribute-to-the-ethereum-classic-awesome-list)
+  * [License](#license)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Overview
