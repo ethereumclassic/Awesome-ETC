@@ -68,11 +68,11 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
   * [Code Documentation](#code-documentation)
   * [Ethereum Project Theory](#ethereum-project-theory)
   * [Ethereum Technology Philosophy](#ethereum-technology-philosophy)
-    + [The Ideas behind the Ethereum Project and the greater EVM ecosystem.](#the-ideas-behind-the-ethereum-project-and-the-greater-evm-ecosystem)
-    + [The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).](#the-ideas-behind-the-continuation-of-the-original-ethereum-project-and-the-ethereum-classic-chain--etc-)
+    + [the Ethereum Project and the greater EVM ecosystem.](#the-ideas-behind-the-ethereum-project-and-the-greater-evm-ecosystem)
+    + [the Ethereum Classic chain (ETC).](#the-ideas-behind-the-continuation-of-the-original-ethereum-project-and-the-ethereum-classic-chain--etc-)
   * [Proof of Work](#proof-of-work)
-    + [[Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.](#-dagger-hashimoto--https---githubcom-ethereum-wiki-wiki-dagger-hashimoto----ethereum-classic-s-previous-proof-of-work-algorithm)
-    + [[Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.](#-ethash--https---githubcom-ethereum-wiki-wiki-ethash----ethereum-classic-s-current-proof-of-work-algorithm)
+    + [Dagger Hashimoto](#dagger-hashimoto)
+    + [Ethash](#ethash)
   * [Protocols](#protocols)
     + [Swarm](#swarm)
     + [Whisper](#whisper)
@@ -513,8 +513,10 @@ Learn about the theory behind the Ethereum project.
 
 Ethereum Classic is committed to Proof of Work as a Consensus mechanism.
 
-### [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
-### [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
+### Dagger Hashimoto
+- [Dagger Hasimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
+### Ethash
+- [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
 - [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an explaination of Ethash's design.
 
 
