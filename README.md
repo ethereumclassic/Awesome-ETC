@@ -313,6 +313,7 @@ for Desktop or Mobile devices.
 - [Jaxx](https://jaxx.io/)
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
+- [Zelcore Wallet](https://zel.network/project/zelcore/)
 
 Note: If your wallet is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
