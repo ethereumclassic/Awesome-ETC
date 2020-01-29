@@ -26,6 +26,8 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 - Use links at your own risk. We try to vet links as best we can, but there is no guarantee that links haven't been tampered with after our initial inspection.
 - This list is curated by the public. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
 
+## Contents
+
 - [Overview](#overview)
 - [Ethereum Classic Network](#ethereum-classic-network)
   * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
