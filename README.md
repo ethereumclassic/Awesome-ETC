@@ -24,7 +24,67 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Awesome List
 
-TOC
+**Contents**
+- [Overview](#overview)
+- [Ethereum Classic Network](#ethereum-classic-network)
+  * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
+  * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
+  * [Node Deployment Tools](#node-deployment-tools)
+  * [Network Public Utilities](#network-public-utilities)
+    + [Gas Fee Estimators](#gas-fee-estimators)
+    + [Dapp Aggregators](#dapp-aggregators)
+    + [DeFi Open Finance Analytics](#defi-open-finance-analytics)
+- [Ethereum Classic Ecosystem](#ethereum-classic-ecosystem)
+  * [Dapp Environment](#dapp-environment)
+    + [Games](#games)
+    + [Compatible Decentralized Identity Dapps](#compatible-decentralized-identity-dapps)
+    + [Interoperability Projects](#interoperability-projects)
+    + [Open Finance Dapps and Protocols](#open-finance-dapps-and-protocols)
+    + [Other Projects](#other-projects)
+  * [Centralized Exchanges](#centralized-exchanges)
+  * [Decentralized Exchanges](#decentralized-exchanges)
+  * [Instant Exchanges](#instant-exchanges)
+  * [Ethereum Classic Wallets](#ethereum-classic-wallets)
+    + [Browser Wallets](#browser-wallets)
+    + [Hardware Wallet](#hardware-wallet)
+    + [Software Wallets](#software-wallets)
+- [Ethereum Classic Participants](#ethereum-classic-participants)
+  * [Community Channels](#community-channels)
+    + [Chat](#chat)
+    + [Forum](#forum)
+    + [Media](#media)
+    + [Repository](#repository)
+    + [Twitter](#twitter)
+    + [Websites](#websites)
+  * [Development Teams](#development-teams)
+  * [Miner Software](#miner-software)
+  * [Mining Pools](#mining-pools)
+- [Development Resources](#development-resources)
+  * [Tooling](#tooling)
+  * [Tutorials](#tutorials)
+- [Educational Material](#educational-material)
+  * [Technical Papers](#technical-papers)
+  * [Ethereum Technology Wiki](#ethereum-technology-wiki)
+  * [Code Documentation](#code-documentation)
+  * [Ethereum Technology Theory](#ethereum-technology-theory)
+  * [Ethereum Technology Philosophy](#ethereum-technology-philosophy)
+  * [Proof of Work](#proof-of-work)
+    + [[Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.](#-dagger-hashimoto--https---githubcom-ethereum-wiki-wiki-dagger-hashimoto----ethereum-classic-s-previous-proof-of-work-algorithm)
+    + [[Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.](#-ethash--https---githubcom-ethereum-wiki-wiki-ethash----ethereum-classic-s-current-proof-of-work-algorithm)
+  * [Protocols](#protocols)
+    + [[Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.](#-swarm--https---swarmethereumorg-----swarm-is-a-distributed-storage-platform-and-content-distribution-service)
+    + [[Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.](#-whisper--https---githubcom-ethereum-wiki-wiki-whisper-pages----a-communication-protocol-for-dapps-to-communicate-with-each-other)
+  * [zk-SNARKS](#zk-snarks)
+  * [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
+- [Media](#media-1)
+  * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
+  * [Books](#books)
+  * [Videos](#videos)
+- [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
+  * [Contribute to this Awesome List](#contribute-to-this-awesome-list)
+  * [License](#license)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Overview
@@ -39,7 +99,7 @@ TOC
 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 
->Initially, Ethereum Classic was only traded publicly on Bitsquare (now called Bisq) and within a forum post on bitcointalk.org. On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
+>Initially, Ethereum Classic was only traded publicly on Bitsquare (now called [Bisq](https://bisq.network/markets/?currency=etc_btc)) and within a forum post on [bitcointalk.org](https://bitcointalk.org). On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
 
 
 # Ethereum Classic Network
@@ -82,9 +142,9 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
 | [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/),[ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [BlockScout](https://blockscout.com/etc/astor/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [BlockScout](https://blockscout.com/etc/astor/) [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](https://faucet.astor.host), [2](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://blockscout.com/etc/kotti/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [BlockScout](https://blockscout.com/etc/kotti/), [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
+| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
 
 ### Gas Fee Estimators
 
@@ -101,6 +161,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Dapp.com](https://www.dapp.com/ja/search)
 - [DappDirect](https://dappdirect.net/)
 - [DappRadar](https://dappradar.com/)
+- [Dapp.Review](https://dapp.review/explore)
 - [DappStatus](https://dappstatus.com/)
 - [State of the Dapps](https://www.stateofthedapps.com/)
 
@@ -118,7 +179,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 # Ethereum Classic Ecosystem
 
-## Active Dapps, Products, Services
+## Dapp Environment
 
 ### Games
 
@@ -127,7 +188,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
 - [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
 
-### Decentralized Identity Dapps
+### Compatible Decentralized Identity Dapps
 - [Bloom](https://bloom.co/) - BloomID eliminates the need for usernames and passwords. Simply scan a BloomID-enabled QR code or click “Log In with Bloom” to securely access apps and websites. Log In with Bloom helps mitigate fraud and prevents you from falling victim to credential stuffing attacks.
 - [Civic](https://www.civic.com/) - Through our decentralized architecture with the blockchain and biometrics on the mobile device, our platform provides multi-factor authentication without a username, password, third-party authenticator, or physical hardware token.
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
@@ -135,7 +196,7 @@ a global public utility for self-sovereign identity
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
 - [uPort](https://www.uport.me/) - At uPort, we build trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.
 
-### Interoperability
+### Interoperability Projects
 - [Binance Chain to Ethereum networks](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The ETH-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
 - [TokenBridge](https://docs.tokenbridge.net/) - The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum networks.
 - [wBTC](https://www.wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin
@@ -145,10 +206,11 @@ with the flexibility of an ERC20 token
 ### Open Finance Dapps and Protocols
 - [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
 - [ePOC](https://etc.poc35.co/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
+- [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
 - [ONEX Network](https://onex.network/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
 
-### Other Dapps
-- [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
+### Other Projects
+- [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
 - [Portal.Network](https://www.portal.network/) - Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
@@ -178,9 +240,10 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 
 ## Decentralized Exchanges
 
-- [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [exnce](https://exnce.com/)
-- [Saturn Network](https://www.saturn.network/)
+- [Bisq](https://bisq.network/markets/?currency=etc_btc) - Bisq is an open-source, peer-to-peer application that allows you to buy and sell cryptocurrencies in exchange for national currencies. No registration required.
+- [exnce](https://exnce.com/) - EXNCE, is an open source hybrid digital asset exchange service which supports new and established digital currencies on a convenient and seamless platform through which anyone can join, distribute airdrop crypto currencies.
+- [Saturn Network](https://www.saturn.network/) - Saturn Protocol is the future of trustless, privacy-preserving, censorship resistant decentralized exchanges for any blockchain that supports smart contracts.
+- [Uniswap](https://uniswap.io/) - Uniswap is a protocol for automated token exchange on Ethereum. Second state is implementing this protocol on Ethereum Classic.
 
 
 ## Instant Exchanges
@@ -312,6 +375,7 @@ Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 
+Top 5 Mining Pools by Hashrate at the time for writing:
 1. [Ethermine](https://etc.ethermine.org/)
 2. [Nanopool](https://etc.nanopool.org/)
 3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
@@ -321,7 +385,7 @@ source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 
 # Development Resources
 
-## Development Tools
+## Tooling
 
 - [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
 - [Dappkit](https://dappkit.io/) - A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
@@ -359,18 +423,19 @@ Step by step guides on using Ethereum.
 - [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
 
 
-# Technical Documentation
+# Educational Material
 
 ## Technical Papers
 
-- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
-- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+- [Ethereum White Paper](https://github.com/ethereumclassic/wiki/ethereum_white_paper.pdf) - Non-technical introductory description of Ethereum.
+- [Ethereum Yellow Paper](https://github.com/ethereumclassic/wiki/ethereum_yellow_paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
 
-## Wiki
+## Ethereum Technology Wiki
 
-- [Ethereum chain's ETH Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things Ethereum (ETH) chain.
-- [Ethereum chain's ETH Community Wiki](https://eth.wiki/) - Ethereum's ETH community wiki.
+- [Ethereum Classic chain's Wiki (ETC)](https://github.com/ethereumclassic/wiki/wiki) - Ethereum Classic wiki covering all things related to Ethereum Classic. The go-to place for all things Ethereum Classic (ETC) chain.
+- [Ethereum chain's Wiki (ETH)](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things Ethereum (ETH) chain.
+- [Ethereum chain's Community Wiki (ETH)](https://eth.wiki/) - Ethereum's ETH community wiki. An alternative wiki for the Ethereum chain (ETH).
 
 
 ## Code Documentation
@@ -378,13 +443,12 @@ Step by step guides on using Ethereum.
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
 - [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
+- [POA Network](https://www.poa.network/) - POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem.
 
 
-# Educational Material
+## Ethereum Technology Theory
 
-## Learning and MOOCs
-
-Learn about the theory behind Ethereum.
+Learn about the theory behind the Ethereum technology.
 
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
 - [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
@@ -398,15 +462,21 @@ Learn about the theory behind Ethereum.
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Security related best practices for smart contracts.
 - [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)
 
-## Philosophy
+## Ethereum Technology Philosophy
 
-1. The Ideas behind the Ethereum Project and the Ethereum chain (ETH).
+1. The Ideas behind the Ethereum Project and the related Ethereum EVM ecosystem.
 
+- [The idea of Smart Contracts](https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html) - Nick Szabo's idea of smart contracts post from 1997.
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper) - Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
 - [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - Smart contract security attacks.
-- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
-- [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
+- [Ethereum Classic (ETC) Wiki Philosophy](https://github.com/ethereumclassic/wiki/Philosophy) - Some of the core philosophies of Ethereum's ETC chain.
+- [Ethereum Classic (ETC) Improvement Proposals](https://ecips.ethereumclassic.org/) - Standards for the Ethereum's ETC platform, including core protocol specifications, client APIs, and contract standards (ECIPs).
+- [Ethereum (ETH) Wiki Philosophy](https://github.com/ethereum/wiki/Philosophy) - Some of the core philosophies of Ethereum's ETH chain.
+- [Ethereum(ETH) )Improvement Proposals](https://eips.ethereum.org/) - Standards for Ethereum's ETH platform, including core protocol specifications, client APIs, and contract standards (EIPS).
 
-2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC). *Note:* There is no leader in Ethereum Classic.
+2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
+
+*Note:* There is no centralized leaders on the Ethereum Classic network.
 
 - [The Ethereum Classic Declaration of Independence](https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/)
 - [A Crypto-Decentralist Manifesto](https://ethereumclassic.org/blog/2016-07-11-manifesto/)
@@ -415,9 +485,62 @@ Learn about the theory behind Ethereum.
 - [Ethereum Classic Opportunities](https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/)
 - [Ethereum Classic vs Ethereum 2.0, What is the Difference?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
 - [Why Proof of Stake is Less Secure Than Proof of Work](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)
-
 - [How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy](https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/)
 - [The Ethereum Classic vs Ethereum 1.x Dichotomy](https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/)
+
+
+## Proof of Work
+
+Ethereum Classic is committed to Proof of Work as a Consensus mechanism.
+
+### [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
+### [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
+- [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an explaination of Ethash's design.
+
+
+## Protocols
+
+Descriptions and implementations of Ethereum-related protocols.
+
+### [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
+### [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
+
+
+## zk-SNARKS
+
+Verify knowledge of a secret without revealing it.
+
+- [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
+- [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
+- [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
+- [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
+- [Practical zk-SNARKs for Ethereum EVM's](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - A short and practical introduction to using zk-SNARKs.
+
+
+## Token Bonding Curves (TBC)
+
+Mathematically sound price-supply relationship curves.
+
+- [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - A thorough introduction to TBCs with code.
+- [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
+- [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
+
+
+# Media
+
+## Blogs, Mailing Lists, Newsletters
+
+- [Etherplan](https://etherplan.com/) - Donald McIntyre's research, articles, & podcast about Ethereum Classic, Bitcoin, and decentralized applications.
+- [Messari](https://messari.io/asset/ethereum-classic) - Messari brings transparency to the cryptoeconomy. We want to help investors, regulators, and the public make sense of this revolutionary new asset class, and are building data tools that will drive informed decision making and investment.
+- [Week in Ethereum News](https://weekinethereumnews.com/) - A summary of everything happening in Ethereum each week.
+- [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
+
+## Books
+
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of the Ethereum.
+- [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
+- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
+
 
 ## Videos
 
@@ -427,94 +550,9 @@ Learn about the theory behind Ethereum.
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
 
 
-## Protocols
+# Ethereum Classic Awesome List Resources
 
-Descriptions and implementations of Ethereum-related protocols.
-
-- [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
-- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
-- [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
-
-### Casper CBC
-
-Correct by Construction for full Proof-of-Stake.
-
-- [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
-- [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
-- [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
-
-### Casper FFG
-
-Friendly Finality Gadget for PoS validation with Proof-of-Work.
-
-- [Code Repository](https://github.com/ethereum/casper) - The FFG contract, related software and tests.
-- [Casper the Friendly Finality Gadget Paper](https://arxiv.org/abs/1710.09437) - Research paper detailing FFG.
-- [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
-- [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
-- [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
-- [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's JavaScript API.
-- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
-
-### zk-SNARKS
-
-Verify knowledge of a secret without revealing it.
-
-- [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
-- [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
-- [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
-- [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
-- [Practical zk-SNARKs for Ethereum](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - A short and practical introduction to using zk-SNARKs.
-
-### Token Bonding Curves (TBC)
-
-Mathematically sound price-supply relationship curves.
-
-- [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - A thorough introduction to TBCs with code.
-- [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
-- [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
-
-
-## Books
-
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
-- [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
-- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
-
-
-# Detailed History
-
-**Conception to token sale**
->Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
-
-**Ethereum Foundation ETC token allocation**
-
-- 3 million ETC were allocated to a long-term endowment
-- 6 million ETC were distributed among 85 developers who contributed prior to the crowdsale
-- 3 million ETC were designed as a “developer purchase program” that gave Ethereum developers the rights to purchase ETC at crowdsale prices.
-
-
-When Ethereum (ETH) forked from ETC on July 20, 2016, anyone who owned ETC now held both ETC and a new asset ETH.
-
-**The rise of initial coin offerings (ICOs)**
->Ethereum's mainnet launched in July 2015, with the first live release known as Frontier. Shortly after, Augur (REP) conducted the first Initial Coin Offering (ICO), in which the startup sold its Ethereum-based REP tokens (created via the ERC-20 standard) to help fund the project. The ability to develop and sell a newly generated token to help raise capital became an attractive method of fundraising because projects could circumvent the legal policies and costs required from traditional companies (until more recently). Ethereum-focused startups created thousands of new tokens since Augur's ICO, raising billions of dollars in the process.
-
-**The DAO hack**
->Of course, raising large sums of money on experimental technology comes with a high level of risk, and The DAO hack is an example of the potential consequences. In April 2016, a decentralized venture fund known as The DAO raised ~$150 million in ETH. A few months later (July 2016), an attacker exploited a bug in one of The DAO's smart contracts, enabling the guilty party to siphon 3.6 million ETH. A significant portion of the Ethereum community opted to reverse the transactions to remove The DAO and its subsequent hack from the network's history. The remaining stakeholders held the preservation of immutability in higher regard and refused to accept a ledger rewrite. The divide in the community led to a contentious hard fork a few weeks post-hack, causing a permanent split in the network. The legacy chain that did not reverse its transaction history is now known as Ethereum Classic ($ETC).
-
-**Hard Fork: The Birth of Sister Chains**
->To be continued....
-
-**
-
-
-# Other Material
-
-## Miscellaneous
-
-- [Week in Ethereum News](https://weekinethereumnews.com/) - A summary of everything happening in Ethereum each week.
-- [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
-
-## Contribute
+## Contribute to this Awesome List
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -541,6 +579,8 @@ This work is published from:
 </p>
 
  For the full license see `LICENSE`.
+
+**Phoenix Rises**
 
 <div align="center">
    <img width="750px" src="./images/ethereum_classic_phoenix_green_full.png">
