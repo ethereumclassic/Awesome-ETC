@@ -390,7 +390,7 @@ Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 - [Github](https://github.com/ethereumclassic)
 
 ### Twitter
-- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
+- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
 
 ### Websites
 - [EthereumClassic.org](https://ethereumclassic.org)
