@@ -45,8 +45,8 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 <div align="center">
   <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full.png"><br/>
-  <b>Ticker Symbol:</b><a href="https://messari.io/asset/ethereum-classic/" alt="Ethereum Classic Ticker">ETC</a></br/>
-  <b>Asset Details:</b><a href="https://messari.io/asset/ethereum-classic/profile" alt="Ethereum Classic">Ethereum Classic Profile</a>
+  <b>Ticker Symbol:</b>  <a href="https://messari.io/asset/ethereum-classic/" alt="Ethereum Classic Ticker">ETC</a></br/>
+  <b>Asset Details:</b>  <a href="https://messari.io/asset/ethereum-classic/profile" alt="Ethereum Classic">Ethereum Classic Profile</a>
 </div>
 
 ## Ethereum Classic Virtual Machine Chains
@@ -250,7 +250,7 @@ Note: If your wallet is not listed, please reach out to the community via the Et
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_full.png">
 </div>
 
 # Ethereum Classic Participants
@@ -333,7 +333,7 @@ Top 5 Mining Pools by Hashrate at the time for writing:
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png>
 </div>
 
 # Development Resources
@@ -377,7 +377,7 @@ Step by step guides on using Ethereum.
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
 </div>
 
 # Educational Material
@@ -486,7 +486,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
 </div>
 
 # Media and Other Content
@@ -515,7 +515,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_full.png">
+  <img alt="Ethereum Classic Logo" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true">
 </div>
 
 # Ethereum Classic Awesome List Resources
