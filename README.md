@@ -118,11 +118,11 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Whois0x](https://whois0x.io/)
 
 
-<div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
-</div>
-
 # Ethereum Classic Ecosystem
+
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
+</div>
 
 ## Dapp Environment
 
