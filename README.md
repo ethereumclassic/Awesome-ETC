@@ -45,7 +45,8 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 <div align="center">
   <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full.png"><br/>
-  <b>Ticker:</b> ETC<b>Details:</b> <a href="https://messari.io/asset/ethereum-classic" alt="Ethereum Classic">Messari</a>
+  <b>Ticker Symbol:</b><a href="https://messari.io/asset/ethereum-classic/" alt="Ethereum Classic Ticker">ETC</a></br/>
+  <b>Asset Details:</b><a href="https://messari.io/asset/ethereum-classic/profile" alt="Ethereum Classic">Ethereum Classic Profile</a>
 </div>
 
 ## Ethereum Classic Virtual Machine Chains
@@ -248,6 +249,10 @@ for Desktop or Mobile devices.
 Note: If your wallet is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
+
 # Ethereum Classic Participants
 
 ## Community Channels
@@ -327,6 +332,10 @@ Top 5 Mining Pools by Hashrate at the time for writing:
 5. [Beepool](https://beepool.org/coindetail/etc)
 
 
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
+
 # Development Resources
 
 ## Tooling
@@ -366,6 +375,10 @@ Step by step guides on using Ethereum.
 - [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
 - [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
 
+
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
 
 # Educational Material
 
@@ -472,6 +485,10 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
 
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
+
 # Media and Other Content
 
 ## Blogs, Mailing Lists, Newsletters
@@ -496,6 +513,10 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
 
+
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_full.png">
+</div>
 
 # Ethereum Classic Awesome List Resources
 
@@ -526,7 +547,3 @@ This work is published from:
 </p>
 
  For the full license see `LICENSE`.
-<div align="center">
-   <img width="750px" src="./images/ethereum_classic_phoenix_green_full.png">
-   <b>Ethereum Classic Phoenix</b>
-</div>
