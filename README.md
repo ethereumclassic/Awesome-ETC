@@ -139,7 +139,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
 a global public utility for self-sovereign identity
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
-- [uPort](https://www.uport.me/) - At uPort, we build trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.
+- [uPort](https://www.uport.me/) - At uPort, we build trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving way.
 
 ### Interoperability Projects
 - [Binance Chain to Ethereum networks](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The ETH-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
@@ -185,10 +185,10 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 
 ## Decentralized Exchanges
 
-- [Bisq](https://bisq.network/markets/?currency=etc_btc) - Bisq is an open-source, peer-to-peer application that allows you to buy and sell cryptocurrencies in exchange for national currencies. No registration required.
-- [exnce](https://exnce.com/) - EXNCE, is an open source hybrid digital asset exchange service which supports new and established digital currencies on a convenient and seamless platform through which anyone can join, distribute airdrop crypto currencies.
-- [Saturn Network](https://www.saturn.network/) - Saturn Protocol is the future of trustless, privacy-preserving, censorship resistant decentralized exchanges for any blockchain that supports smart contracts.
-- [Uniswap](https://uniswap.io/) - Uniswap is a protocol for automated token exchange on Ethereum. Second state is implementing this protocol on Ethereum Classic.
+- [Bisq](https://bisq.network/markets/?currency=etc_btc) - an open-source, peer-to-peer application that allows you to buy and sell cryptocurrencies in exchange for national currencies. No registration required.
+- [EXNCE](https://exnce.com/) - an open source hybrid digital asset exchange service which supports new and established digital currencies on a convenient and seamless platform through which anyone can join, distribute airdrop crypto currencies.
+- [Saturn Network](https://www.saturn.network/) - the future of trustless, privacy-preserving, censorship resistant decentralized exchanges for any blockchain that supports smart contracts.
+- [Uniswap](https://uniswap.io/) - a protocol for automated token exchange on Ethereum. Second state is implementing this protocol on Ethereum Classic.
 
 
 ## Instant Exchanges
@@ -376,11 +376,11 @@ Step by step guides on using Ethereum.
 - [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
 
 
+# Educational Material
+
 <div align="left">
   <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
 </div>
-
-# Educational Material
 
 ## Technical Papers
 
@@ -487,10 +487,6 @@ Descriptions and implementations of Ethereum-related protocols.
 
 # Media and Other Content
 
-<div align="left">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
-</div>
-
 ## Blogs, Mailing Lists, Newsletters
 
 - [Etherplan](https://etherplan.com/) - Donald McIntyre's research, articles, & podcast about Ethereum Classic, Bitcoin, and decentralized applications.
@@ -514,6 +510,9 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
 
+<div align="center">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
 
 <div align="center">
   <img alt="Ethereum Classic Logo" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true">
