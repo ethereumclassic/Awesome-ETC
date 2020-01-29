@@ -252,7 +252,7 @@ Note: If your wallet is not listed, please reach out to the community via the Et
 # Ethereum Classic Participants
 
 <div align="left">
-  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
+  <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
 </div>
 
 ## Community Channels
@@ -335,7 +335,7 @@ Top 5 Mining Pools by Hashrate at the time for writing:
 # Development Resources
 
 <div align="left">
-  <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
+  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
 </div>
 
 ## Tooling
@@ -377,7 +377,7 @@ Step by step guides on using Ethereum.
 
 
 <div align="left">
-  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
+  <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
 </div>
 
 # Educational Material
@@ -498,6 +498,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Messari's Ethereum Classic News and Research](https://messari.io/asset/ethereum-classic/news) - Messari brings transparency to the cryptoeconomy. We want to help investors, regulators, and the public make sense of this revolutionary new asset class, and are building data tools that will drive informed decision making and investment.
 - [Week in Ethereum News](https://weekinethereumnews.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
+- [ETC Gifs](https://github.com/stevanlohja/ETC_Gifs) - Ethereum Classic social media meme repository
 
 ## Books
 
