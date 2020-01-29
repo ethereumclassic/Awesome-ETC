@@ -249,11 +249,11 @@ for Desktop or Mobile devices.
 Note: If your wallet is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 
-<div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
-</div>
-
 # Ethereum Classic Participants
+
+<div align="center">
+  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
+</div>
 
 ## Community Channels
 
