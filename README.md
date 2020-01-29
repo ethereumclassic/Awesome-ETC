@@ -120,8 +120,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 # Ethereum Classic Ecosystem
 
-<div align="center">
-  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
+<div align="right">
+  <img width="200" alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
 </div>
 
 ## Dapp Environment
