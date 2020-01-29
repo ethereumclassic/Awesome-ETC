@@ -28,8 +28,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 ## Contents
 
-- [Ethereum Classic Awesome List](#ethereum-classic-awesome-list)
-  * [Contents](#contents)
 - [Overview](#overview)
 - [Ethereum Classic Network](#ethereum-classic-network)
   * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
@@ -108,7 +106,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 
->Initially, Ethereum Classic was only traded publicly on Bitsquare (now called [Bisq](https://bisq.network/markets/?currency=etc_btc)) and within a forum post on [bitcointalk.org](https://bitcointalk.org). On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://ethereumclassic.org/DeclarationOfIndependence/) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
+>Initially, Ethereum Classic was only traded publicly on Bitsquare (now called [Bisq](https://bisq.network/markets/?currency=etc_btc)) and within a forum post on [bitcointalk.org](https://bitcointalk.org). On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
 
 
 # Ethereum Classic Network
