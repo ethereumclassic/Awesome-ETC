@@ -68,15 +68,17 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
   * [Code Documentation](#code-documentation)
   * [Ethereum Technology Theory](#ethereum-technology-theory)
   * [Ethereum Technology Philosophy](#ethereum-technology-philosophy)
+    + [The Ideas behind the Ethereum Project and the related Ethereum EVM ecosystem.](#the-ideas-behind-the-ethereum-project-and-the-related-ethereum-evm-ecosystem)
+    + [The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).](#the-ideas-behind-the-continuation-of-the-original-ethereum-project-and-the-ethereum-classic-chain--etc-)
   * [Proof of Work](#proof-of-work)
     + [[Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.](#-dagger-hashimoto--https---githubcom-ethereum-wiki-wiki-dagger-hashimoto----ethereum-classic-s-previous-proof-of-work-algorithm)
     + [[Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.](#-ethash--https---githubcom-ethereum-wiki-wiki-ethash----ethereum-classic-s-current-proof-of-work-algorithm)
   * [Protocols](#protocols)
-    + [[Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.](#-swarm--https---swarmethereumorg-----swarm-is-a-distributed-storage-platform-and-content-distribution-service)
-    + [[Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.](#-whisper--https---githubcom-ethereum-wiki-wiki-whisper-pages----a-communication-protocol-for-dapps-to-communicate-with-each-other)
-  * [zk-SNARKS](#zk-snarks)
+    + [Swarm](#swarm)
+    + [Whisper](#whisper)
+    + [zk-SNARKS](#zk-snarks)
   * [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
-- [Media](#media-1)
+- [Media and Other Content](#media-and-other-content)
   * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
   * [Books](#books)
   * [Videos](#videos)
@@ -116,7 +118,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [source code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
 | Testnet Astor |  | ETC |  | testnet |  | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
-| Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
+| Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Clique |
 | Testnet Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
 
@@ -464,7 +466,7 @@ Learn about the theory behind the Ethereum technology.
 
 ## Ethereum Technology Philosophy
 
-1. The Ideas behind the Ethereum Project and the related Ethereum EVM ecosystem.
+### The Ideas behind the Ethereum Project and the related Ethereum EVM ecosystem.
 
 - [The idea of Smart Contracts](https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html) - Nick Szabo's idea of smart contracts post from 1997.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper) - Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
@@ -474,7 +476,7 @@ Learn about the theory behind the Ethereum technology.
 - [Ethereum (ETH) Wiki Philosophy](https://github.com/ethereum/wiki/Philosophy) - Some of the core philosophies of Ethereum's ETH chain.
 - [Ethereum(ETH) )Improvement Proposals](https://eips.ethereum.org/) - Standards for Ethereum's ETH platform, including core protocol specifications, client APIs, and contract standards (EIPS).
 
-2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
+### The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
 
 *Note:* There is no centralized leaders on the Ethereum Classic network.
 
@@ -502,15 +504,19 @@ Ethereum Classic is committed to Proof of Work as a Consensus mechanism.
 
 Descriptions and implementations of Ethereum-related protocols.
 
-### [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
-### [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
+### Swarm
+
+- [Introduction to Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
 
 
-## zk-SNARKS
+### Whisper
 
-Verify knowledge of a secret without revealing it.
+- [Introduction to Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
 
-- [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
+
+### zk-SNARKS
+
+- [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS, verify knowledge of a secret without revealing it.
 - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
 - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
 - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
@@ -519,18 +525,17 @@ Verify knowledge of a secret without revealing it.
 
 ## Token Bonding Curves (TBC)
 
-Mathematically sound price-supply relationship curves.
-
-- [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - A thorough introduction to TBCs with code.
+- [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - Mathematically sound price-supply relationship curves., a thorough introduction to TBCs with code.
 - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
 - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
 
-# Media
+# Media and Other Content
 
 ## Blogs, Mailing Lists, Newsletters
 
 - [Etherplan](https://etherplan.com/) - Donald McIntyre's research, articles, & podcast about Ethereum Classic, Bitcoin, and decentralized applications.
+- [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
 - [Messari](https://messari.io/asset/ethereum-classic) - Messari brings transparency to the cryptoeconomy. We want to help investors, regulators, and the public make sense of this revolutionary new asset class, and are building data tools that will drive informed decision making and investment.
 - [Week in Ethereum News](https://weekinethereumnews.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
