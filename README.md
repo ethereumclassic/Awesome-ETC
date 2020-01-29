@@ -24,69 +24,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Awesome List
 
-**Contents**
-- [Overview](#overview)
-- [Ethereum Classic Network](#ethereum-classic-network)
-  * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
-  * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
-  * [Node Deployment Tools](#node-deployment-tools)
-  * [Network Public Utilities](#network-public-utilities)
-    + [Gas Fee Estimators](#gas-fee-estimators)
-    + [Dapp Aggregators](#dapp-aggregators)
-    + [DeFi Open Finance Analytics](#defi-open-finance-analytics)
-- [Ethereum Classic Ecosystem](#ethereum-classic-ecosystem)
-  * [Dapp Environment](#dapp-environment)
-    + [Games](#games)
-    + [Compatible Decentralized Identity Dapps](#compatible-decentralized-identity-dapps)
-    + [Interoperability Projects](#interoperability-projects)
-    + [Open Finance Dapps and Protocols](#open-finance-dapps-and-protocols)
-    + [Other Projects](#other-projects)
-  * [Centralized Exchanges](#centralized-exchanges)
-  * [Decentralized Exchanges](#decentralized-exchanges)
-  * [Instant Exchanges](#instant-exchanges)
-  * [Ethereum Classic Wallets](#ethereum-classic-wallets)
-    + [Browser Wallets](#browser-wallets)
-    + [Hardware Wallet](#hardware-wallet)
-    + [Software Wallets](#software-wallets)
-- [Ethereum Classic Participants](#ethereum-classic-participants)
-  * [Community Channels](#community-channels)
-    + [Chat](#chat)
-    + [Forum](#forum)
-    + [Media](#media)
-    + [Repository](#repository)
-    + [Twitter](#twitter)
-    + [Websites](#websites)
-  * [Development Teams](#development-teams)
-  * [Miner Software](#miner-software)
-  * [Mining Pools](#mining-pools)
-- [Development Resources](#development-resources)
-  * [Tooling](#tooling)
-  * [Tutorials](#tutorials)
-- [Educational Material](#educational-material)
-  * [Technical Papers](#technical-papers)
-  * [Ethereum Technology Wiki](#ethereum-technology-wiki)
-  * [Code Documentation](#code-documentation)
-  * [Ethereum Technology Theory](#ethereum-technology-theory)
-  * [Ethereum Technology Philosophy](#ethereum-technology-philosophy)
-    + [The Ideas behind the Ethereum Project and the related Ethereum EVM ecosystem.](#the-ideas-behind-the-ethereum-project-and-the-related-ethereum-evm-ecosystem)
-    + [The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).](#the-ideas-behind-the-continuation-of-the-original-ethereum-project-and-the-ethereum-classic-chain--etc-)
-  * [Proof of Work](#proof-of-work)
-    + [[Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.](#-dagger-hashimoto--https---githubcom-ethereum-wiki-wiki-dagger-hashimoto----ethereum-classic-s-previous-proof-of-work-algorithm)
-    + [[Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.](#-ethash--https---githubcom-ethereum-wiki-wiki-ethash----ethereum-classic-s-current-proof-of-work-algorithm)
-  * [Protocols](#protocols)
-    + [Swarm](#swarm)
-    + [Whisper](#whisper)
-    + [zk-SNARKS](#zk-snarks)
-  * [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
-- [Media and Other Content](#media-and-other-content)
-  * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
-  * [Books](#books)
-  * [Videos](#videos)
-- [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
-  * [Contribute to this Awesome List](#contribute-to-this-awesome-list)
-  * [License](#license)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Overview
@@ -107,8 +44,9 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 # Ethereum Classic Network
 
 <div align="center">
-  <img width="200px" src="./images/ethereum_classic_logo_green_full.png">
-  </div>
+  <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full.png"><br/>
+  <b>Ticker:</b> ETC<b>Details:</b> <a href="https://messari.io/asset/ethereum-classic" alt="Ethereum Classic">Messari</a>
+</div>
 
 ## Ethereum Classic Virtual Machine Chains
 
@@ -178,6 +116,10 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [UniswapROI](https://www.uniswaproi.com/)
 - [Whois0x](https://whois0x.io/)
 
+
+<div align="center">
+  <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
 
 # Ethereum Classic Ecosystem
 
@@ -429,11 +371,11 @@ Step by step guides on using Ethereum.
 
 ## Technical Papers
 
-- [Ethereum White Paper](https://github.com/ethereumclassic/wiki/ethereum_white_paper.pdf) - Non-technical introductory description of Ethereum.
-- [Ethereum Yellow Paper](https://github.com/ethereumclassic/wiki/ethereum_yellow_paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+- [Ethereum Project White Paper](https://github.com/ethereumclassic/wiki/ethereum_white_paper.pdf) - Non-technical introductory description of the Ethereum project.
+- [Ethereum Project Yellow Paper](https://github.com/ethereumclassic/wiki/ethereum_yellow_paper.pdf) - Technical description of the Ethereum project. Technically outdated, but interesting.
 
 
-## Ethereum Technology Wiki
+## Ethereum Project Wiki
 
 - [Ethereum Classic chain's Wiki (ETC)](https://github.com/ethereumclassic/wiki/wiki) - Ethereum Classic wiki covering all things related to Ethereum Classic. The go-to place for all things Ethereum Classic (ETC) chain.
 - [Ethereum chain's Wiki (ETH)](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things Ethereum (ETH) chain.
@@ -448,9 +390,9 @@ Step by step guides on using Ethereum.
 - [POA Network](https://www.poa.network/) - POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem.
 
 
-## Ethereum Technology Theory
+## Ethereum Project Theory
 
-Learn about the theory behind the Ethereum technology.
+Learn about the theory behind the Ethereum project.
 
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
 - [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
@@ -466,7 +408,7 @@ Learn about the theory behind the Ethereum technology.
 
 ## Ethereum Technology Philosophy
 
-### The Ideas behind the Ethereum Project and the related Ethereum EVM ecosystem.
+### The Ideas behind the Ethereum Project and the greater EVM ecosystem.
 
 - [The idea of Smart Contracts](https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html) - Nick Szabo's idea of smart contracts post from 1997.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper) - Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
@@ -478,7 +420,7 @@ Learn about the theory behind the Ethereum technology.
 
 ### The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
 
-*Note:* There is no centralized leaders on the Ethereum Classic network.
+*Note:* There are no centralized leaders in the Ethereum Classic EVM project.
 
 - [The Ethereum Classic Declaration of Independence](https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/)
 - [A Crypto-Decentralist Manifesto](https://ethereumclassic.org/blog/2016-07-11-manifesto/)
@@ -557,7 +499,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 # Ethereum Classic Awesome List Resources
 
-## Contribute to this Awesome List
+## How to Contribute to the Ethereum Classic Awesome List
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -584,9 +526,7 @@ This work is published from:
 </p>
 
  For the full license see `LICENSE`.
-
-**Phoenix Rises**
-
 <div align="center">
    <img width="750px" src="./images/ethereum_classic_phoenix_green_full.png">
+   <b>Ethereum Classic Phoenix</b>
 </div>
