@@ -250,7 +250,7 @@ Note: If your wallet is not listed, please reach out to the community via the Et
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_full.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
 </div>
 
 # Ethereum Classic Participants
@@ -377,7 +377,7 @@ Step by step guides on using Ethereum.
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
 </div>
 
 # Educational Material
@@ -486,7 +486,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
 </div>
 
 # Media and Other Content
