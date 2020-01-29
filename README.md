@@ -18,6 +18,8 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 </div>
+
+
 **Disclaimer:**
 - Use links at your own risk. We try to vet links as best we can, but there is no guarantee that links haven't been tampered with after our initial inspection.
 - This list is curated by the public. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
