@@ -118,7 +118,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 
 <div align="center">
-  <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
 </div>
 
 # Ethereum Classic Ecosystem
