@@ -43,7 +43,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Network
 
-<div align="center">
+<div align="left">
   <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full.png"><br/>
   <b>Ticker Symbol:</b>  <a href="https://messari.io/asset/ethereum-classic/" alt="Ethereum Classic Ticker">ETC</a></br/>
   <b>Asset Details:</b>  <a href="https://messari.io/asset/ethereum-classic/profile" alt="Ethereum Classic">Ethereum Classic Profile</a>
@@ -251,7 +251,7 @@ Note: If your wallet is not listed, please reach out to the community via the Et
 
 # Ethereum Classic Participants
 
-<div align="center">
+<div align="left">
   <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
 </div>
 
@@ -376,8 +376,8 @@ Step by step guides on using Ethereum.
 - [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
 
 
-<div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
+<div align="left">
+  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
 </div>
 
 # Educational Material
@@ -485,11 +485,11 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
 
-<div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
-</div>
-
 # Media and Other Content
+
+<div align="left">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
+</div>
 
 ## Blogs, Mailing Lists, Newsletters
 
