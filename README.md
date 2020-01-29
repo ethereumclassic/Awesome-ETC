@@ -332,11 +332,11 @@ Top 5 Mining Pools by Hashrate at the time for writing:
 5. [Beepool](https://beepool.org/coindetail/etc)
 
 
-<div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
-</div>
-
 # Development Resources
+
+<div align="left">
+  <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
+</div>
 
 ## Tooling
 
