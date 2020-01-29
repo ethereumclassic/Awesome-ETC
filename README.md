@@ -17,64 +17,14 @@
 A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethereum Classic</a> network.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
-
+<b>Disclaimer:</b> There is no guarantee that links are legitimate. Use at your own risk. If a link is broken, malicious, or you want to add a link, then please make a pull request.
 </div>
 <br/>
 
 
 # Ethereum Classic Awesome List
 
-- [Overview](#overview)
-- [Ethereum Classic Network](#ethereum-classic-network)
-  * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
-  * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
-  * [Node Deployment Tools](#node-deployment-tools)
-  * [Network Public Utilities](#network-public-utilities)
-    + [Gas Fee Estimators](#gas-fee-estimators)
-    + [Dapp Aggregators](#dapp-aggregators)
-    + [DeFi Open Finance Analytics](#defi-open-finance-analytics)
-- [Ethereum Classic Ecosystem](#ethereum-classic-ecosystem)
-  * [Active Dapps](#active-dapps)
-  * [Centralized Exchanges](#centralized-exchanges)
-  * [Decentralized Exchanges](#decentralized-exchanges)
-  * [Instant Exchanges](#instant-exchanges)
-  * [Ethereum Classic Wallets](#ethereum-classic-wallets)
-    + [Browser Wallets](#browser-wallets)
-    + [Hardware Wallet](#hardware-wallet)
-    + [Software Wallets](#software-wallets)
-- [Ethereum Classic Participants](#ethereum-classic-participants)
-  * [Community Channels](#community-channels)
-    + [Chat](#chat)
-    + [Forum](#forum)
-    + [Media](#media)
-    + [Repository](#repository)
-    + [Twitter](#twitter)
-    + [Websites](#websites)
-  * [Development Teams](#development-teams)
-  * [Miner Software](#miner-software)
-  * [Mining Pools](#mining-pools)
-- [Development Resources](#development-resources)
-  * [Development Tools](#development-tools)
-  * [Tutorials](#tutorials)
-- [Technical Documentation](#technical-documentation)
-  * [Technical Papers](#technical-papers)
-  * [Detailed History](#detailed-history)
-  * [Wiki](#wiki)
-  * [Code Documentation](#code-documentation)
-- [Educational Material](#educational-material)
-  * [Learning and MOOCs](#learning-and-moocs)
-  * [Philosophy](#philosophy)
-  * [Videos](#videos)
-  * [Protocols](#protocols)
-    + [Casper CBC](#casper-cbc)
-    + [Casper FFG](#casper-ffg)
-    + [zk-SNARKS](#zk-snarks)
-    + [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
-  * [Books](#books)
-- [Other Material](#other-material)
-  * [Miscellaneous](#miscellaneous)
-  * [Contribute](#contribute)
-  * [License](#license)
+TOC
 
 
 # Overview
@@ -115,7 +65,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Client Name | Status | Repository |
 | :---: | :---:| --- |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
-| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
+| [Multi-Geth](https://multi-geth.org/) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
 | [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
 
 
@@ -172,24 +122,34 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ### Games
 
-- [Alien Farm](https://alienfarm.highlander.network/)
-- [Arena Racing](https://arena.highlander.network/)
-- [ETCOdyssey](https://etcodyssey.com/)
-- [Luckygames](https://luckygames.cc/)
+- [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
+- [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
+- [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
+- [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
 
-### Identity Dapps
-- [uPort](https://www.uport.me/)
+### Decentralized Identity Dapps
+- [Bloom](https://bloom.co/) - BloomID eliminates the need for usernames and passwords. Simply scan a BloomID-enabled QR code or click “Log In with Bloom” to securely access apps and websites. Log In with Bloom helps mitigate fraud and prevents you from falling victim to credential stuffing attacks.
+- [Civic](https://www.civic.com/) - Through our decentralized architecture with the blockchain and biometrics on the mobile device, our platform provides multi-factor authentication without a username, password, third-party authenticator, or physical hardware token.
+- [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
+a global public utility for self-sovereign identity
+- [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
+- [uPort](https://www.uport.me/) - At uPort, we build trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.
 
+### Interoperability
+- [Binance Chain to Ethereum networks](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The ETH-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
+- [TokenBridge](https://docs.tokenbridge.net/) - The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum networks.
+- [WBTC](https://www.wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin
+with the flexibility of an ERC20 token
+- [wETC](https://wetc.app/) - The Ethereum Classic Bridge connects ETC to ETH, where ETC is available as WETC on the Ethereum (ETH) chain.
 
-- [Commonwealth](https://commonwealth.gg)
+### Open Finance Dapps and Protocols
+- [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
 - [ePOC](https://etc.poc35.co/)
-- [GitCoin](https://gitcoin.co/)
 - [ONEX Network](https://onex.network/)
-- [OriginalMy](https://originalmy.com/)
-- [Portal.Network](https://www.portal.network/)
-- [Stampery](https://stampery.com/)
-- [uPort](https://www.uport.me/)
-- [wETC](https://wetc.app/)
+
+### Other Dapps
+- [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
+- [Portal.Network](https://www.portal.network/) - Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -204,7 +164,7 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 - [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
 - [Gate.io](https://gate.io/trade/etc_usdt)
 - [HitBTC](https://hitbtc.com/ETC-to-USDT)
-- [Huobi Global](https://www.hbg.com/en-us/exchange/etc_usdt/)
+- [Huobi Global](https://www.huobi.com/en-us/exchange/etc_usdt/)
 - [Huobi Korea](https://www.huobi.co.kr/en-US/exchange/etc_usdt/)
 - [Kraken](https://trade.kraken.com/markets/kraken/etc/usd)
 - [Kucoin](https://www.kucoin.com/trade/ETC-USDT)
@@ -220,7 +180,7 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 
 - [Bisq](https://bisq.network/markets/?currency=etc_btc)
 - [exnce](https://exnce.com/)
-- [Saturn](https://www.saturn.network/)
+- [Saturn Network](https://www.saturn.network/)
 
 
 ## Instant Exchanges
@@ -268,6 +228,7 @@ for Desktop or Mobile devices.
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
 - [Cryptonator](https://www.cryptonator.com/)
+- [Edge](https://edge.app/)
 - [Emerald Wallet](https://emeraldpay.io/)
 - [Ethos](https://www.ethos.io/universal-wallet/)
 - [Exodus](https://www.exodus.io/)
@@ -275,7 +236,7 @@ for Desktop or Mobile devices.
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [Jaxx](https://jaxx.io/)
 - [Ownbit](https://ownbit.io/)
-- [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet)
+- [Trust Wallet](https://trustwallet.com/)
 
 Note: If your wallet is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
