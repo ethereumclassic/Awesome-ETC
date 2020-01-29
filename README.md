@@ -512,15 +512,22 @@ Learn about the theory behind the Ethereum project.
 - [The Ethereum Classic vs Ethereum 1.x Dichotomy](https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/)
 
 
-## Proof of Work
+## Ethereum Classic Consensus Mechanisms
 
-Ethereum Classic is committed to Proof of Work as a Consensus mechanism.
+Ethereum Classic is committed to Proof of Work as a consensus mechanism. The current Proof-of-Work (PoW) algorithm is `Ethash`.
 
-### Dagger Hashimoto
-- [Dagger Hasimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
-### Ethash
+### Clique - PoA (Testnet)
+- [Clique: cross-client Proof-of-authority algorithm for Ethereum](https://medium.com/@Destiner/clique-cross-client-proof-of-authority-algorithm-for-ethereum-8b2a135201d)
+
+### Dagger Hashimoto - PoW (Obsolete)
+- [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
+
+### Ethash - Active PoW (Mainnet)
 - [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
-- [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an explaination of Ethash's design.
+- [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an overview of Ethash's design.
+
+### Keccak256 - PoW (Testnet)
+- [Astor Testnet](https://astor.host) - a testnet design for analysis of an algorithm change for the long-term future of Ethereum Classic due to Ethash's failure at ASIC resistance.
 
 
 ## Protocols
