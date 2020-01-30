@@ -134,7 +134,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Client Name | Status | Repository |
 | :---: | :---:| --- |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
-| [Multi-Geth](https://multi-geth.org/) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
+| [Multi-Geth (ETC Core Branch)](https://multi-geth.org/) | Maintained | [releases](https://github.com/etclabscore/multi-geth/releases/) |
+| [Multi-Geth (Sorpass Branch)](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
 | [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
 
 
