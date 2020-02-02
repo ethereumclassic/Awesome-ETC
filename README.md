@@ -202,13 +202,10 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
 - [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
 
-### Compatible Decentralized Identity Dapps
-- [Bloom](https://bloom.co/) - BloomID eliminates the need for usernames and passwords. Simply scan a BloomID-enabled QR code or click “Log In with Bloom” to securely access apps and websites. Log In with Bloom helps mitigate fraud and prevents you from falling victim to credential stuffing attacks.
-- [Civic](https://www.civic.com/) - Through our decentralized architecture with the blockchain and biometrics on the mobile device, our platform provides multi-factor authentication without a username, password, third-party authenticator, or physical hardware token.
+### Decentralized Identity Dapps
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
 a global public utility for self-sovereign identity
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
-- [uPort](https://www.uport.me/) - At uPort, we build trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving way.
 
 ### Interoperability Projects
 - [Binance Chain to Ethereum networks](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The ETH-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
@@ -350,7 +347,7 @@ Note: If attribution is missing for your team, please reach out to the community
 
 source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 
-Top 5 Mining Pools by Hashrate at the time for writing:
+Top 5 Mining Pools by Hashrate at the time of writing:
 1. [Ethermine](https://etc.ethermine.org/)
 2. [Nanopool](https://etc.nanopool.org/)
 3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
@@ -576,6 +573,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [ETC Gifs](https://github.com/stevanlohja/ETC_Gifs) - Ethereum Classic social media meme repository
 - [Coingecko Reports](https://reports.coingecko.com/all-reports) - high quality market reports with graph visuals.
+- [Ethereum Classic Community Art](https://www.flickr.com/photos/ethereumclassic) - a collection of Ethereum Classic art.
 
 ## Books
 
