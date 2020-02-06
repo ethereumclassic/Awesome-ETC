@@ -163,6 +163,7 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [Bithumb](https://www.bithumb.com/trade/order/ETCKRW)
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=USD-ETC)
 - [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
+- [eToro](https://www.etoro.com/discover/markets/cryptocurrencies/coins)
 - [Gate.io](https://gate.io/trade/etc_usdt)
 - [HitBTC](https://hitbtc.com/ETC-to-USDT)
 - [Huobi Global](https://www.huobi.com/en-us/exchange/etc_usdt/)
@@ -195,6 +196,8 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [Utrust](https://utrust.com/)
 
 ## ETC Price Sources
+- [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
+- [Messari](https://messari.io/asset/ethereum-classic)
 - [TradingView](https://www.tradingview.com/symbols/ETCUSD/)
 
 Note: If your business is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
@@ -435,17 +438,21 @@ The ideas behind the continuation of the original Ethereum project post-DAO bail
 ## Ethereum Classic Consensus Mechanisms
 Ethereum Classic is committed to Proof of Work as a consensus mechanism. The current Proof-of-Work (PoW) algorithm is `Ethash`.
 
-### Clique - PoA (Testnet)
+### Clique
+This Proof-of-Authority algorithm (PoA) is active on the Kotti testnet.
 - [Clique: cross-client Proof-of-authority algorithm for Ethereum](https://medium.com/@Destiner/clique-cross-client-proof-of-authority-algorithm-for-ethereum-8b2a135201d)
 
-### Dagger Hashimoto - PoW (Obsolete)
+### Dagger Hashimoto
+This Proof-of-Work algorithm (PoW) was deactivated from the Ethereum Classic network.
 - [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
 
-### Ethash - Active PoW (Mainnet)
+### Ethash
+This Proof-of-Work algorithm (PoW) is active on the Mordor testnet and Ethereum Classic mainnet.
 - [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
 - [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an overview of Ethash's design.
 
-### Keccak256 - PoW (Testnet)
+### Keccak256
+This Proof-of-Work algorithm (PoW) is active on the Astor testnet.
 - [Astor Testnet](https://astor.host) - a testnet design for analysis of an algorithm change for the long-term future of Ethereum Classic due to Ethash's failure at ASIC resistance.
 
 ## Ethereum Project Protocols
@@ -485,7 +492,6 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
 
-
 ## Videos
 - [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
 - [A Guide to Building Your First Decentralized Application (37:00)](https://www.youtube.com/watch?v=gSQXq2_j-mw)
@@ -497,7 +503,7 @@ Descriptions and implementations of Ethereum-related protocols.
 </div>
 
 <div align="center">
-  <img alt="Ethereum Classic Logo" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true">
+  <img alt="Awesome List Logo" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true">
 </div>
 
 # Ethereum Classic Awesome List Resources
