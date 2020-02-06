@@ -135,12 +135,11 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 a global public utility for self-sovereign identity
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
 
-### Interoperability Projects
-- [Binance Chain to Ethereum networks](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The ETH-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
-- [TokenBridge](https://docs.tokenbridge.net/) - The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum networks.
-- [wBTC](https://www.wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin
-with the flexibility of an ERC20 token
-- [wETC](https://wetc.app/) - The Ethereum Classic Bridge connects ETC to ETH, where ETC is available as WETC on the Ethereum (ETH) chain.
+### EVM Interoperability Projects
+- [BTC-to-wBTC](https://wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
+- [ETC-to-wETC](https://wetc.app/) - The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
+- [EVM-to-BNC Bridge](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
+- [Token Bridge](https://docs.tokenbridge.net/) - The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
 
 ### Open Finance Dapps and Protocols
 - [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
