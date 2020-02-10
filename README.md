@@ -19,9 +19,11 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 </div>
 
 # Ethereum Classic Awesome List
-**Disclaimer:**
-- Use links at your own risk. We try to vet links as best we can, but there is no guarantee that links haven't been tampered with after our initial inspection.
-- This list is curated by the public. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
+## Disclaimer
+### Links
+Use links at your own risk. We try to vet links as best we can, but there is no guarantee that links haven't been tampered with after our initial inspection.
+### Public List
+This list is curated by the public. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
 
 ## Contents
 *[need to regenerate]*
@@ -42,7 +44,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 >Initially, Ethereum Classic was only traded publicly on Bitsquare (now called [Bisq](https://bisq.network/markets/?currency=etc_btc)) and within a forum post on [bitcointalk.org](https://bitcointalk.org). On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
 
-
 # Ethereum Classic Network
 
 <div align="left">
@@ -52,7 +53,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 </div>
 
 ## Ethereum Classic Virtual Machine Chains
-
 source: [EthereumVM.net](http://ethereumvm.net/)
 
 | Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
@@ -62,23 +62,20 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Clique |
 | Testnet Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
-
 ## Ethereum Classic Network Clients
 
 | Client Name | Status | Repository |
 | :---: | :---:| --- |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
-| [Multi-Geth (ETC Core Branch)](https://multi-geth.org/) | Maintained | [releases](https://github.com/etclabscore/multi-geth/releases/) |
+| [Hyperledger Besu](https://besu.hyperledger.org/) *Recommended* | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
+| [Multi-Geth (ETC Core Branch)](https://multi-geth.org/) *Recommended* | Maintained | [releases](https://github.com/etclabscore/multi-geth/releases/) |
 | [Multi-Geth (Sorpaas Branch)](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
 | [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
-
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
 - [DappNode](https://dappnode.io/) - DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
 - [Ethercluster](https://www.ethercluster.com/) - Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
 - [QuikNode](https://quiknode.io/) - QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
-
 
 ## Network Public Utilities
 
@@ -96,41 +93,20 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Expedition](https://expedition.dev/?network=mainnet)
 - [GasGauge](http://etc.gasgauge.org)
 
-### Dapp Aggregators
-- [CryptoGround](https://www.cryptoground.com/dapp)
-- [CoinCodex](https://coincodex.com/dapp-list/)
-- [Dapp.com](https://www.dapp.com/ja/search)
-- [DappDirect](https://dappdirect.net/)
-- [DappRadar](https://dappradar.com/)
-- [Dapp.Review](https://dapp.review/explore)
-- [DappStatus](https://dappstatus.com/)
-- [State of the Dapps](https://www.stateofthedapps.com/)
-
-### DeFi Open Finance Analytics
-- [0xTracker](https://0xtracker.com/)
-- [CoinInterestRates](https://coininterestrates.com/)
-- [DeFiScan](https://defiscan.io/)
-- [DeFi Prime](https://defiprime.com/)
-- [DeFi Pulse](https://defipulse.com/)
-- [LoanScan](https://loanscan.io/)
-- [UniswapROI](https://www.uniswaproi.com/)
-- [Whois0x](https://whois0x.io/)
-
-
 # Ethereum Classic Ecosystem
 
 <div align="left">
-  <img width="225" alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
 </div>
 
-## Dapp Environment
+## DApp Environment
 ### Games
 - [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
 - [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
 - [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
 - [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
 
-### Decentralized Identity Dapps
+### Decentralized Identity DApps
 - [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
 a global public utility for self-sovereign identity
 - [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
@@ -151,8 +127,7 @@ a global public utility for self-sovereign identity
 - [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
 - [Portal.Network](https://www.portal.network/) - Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
 
-Note: If your dapp or protocol is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
-
+Note: If your project is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 ## Notable Exchanges
 ### Centralized Exchanges
@@ -210,16 +185,13 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [Switchain](https://www.switchain.com)
 
+Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+
 ## Payment Processors
 - [CoinGate](https://coingate.com/)
 - [CoinPayments](https://www.coinpayments.net/)
 - [NOWPayments](https://nowpayments.io/)
 - [Utrust](https://utrust.com/)
-
-## ETC Price Sources
-- [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
-- [Messari](https://messari.io/asset/ethereum-classic)
-- [TradingView](https://www.tradingview.com/symbols/ETCUSD/)
 
 ## Portfolio Trackers
 - [AltPocket](https://altpocket.io/)
@@ -228,14 +200,41 @@ Note: If your dapp or protocol is not listed, please reach out to the community 
 - [CoinTracking](https://cointracking.info/)
 - [Delta](https://delta.app/)
 
-## News Aggregators
+## Third-Party ETC Price Sources
+- [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
+- [Messari](https://messari.io/asset/ethereum-classic)
+- [TradingView](https://www.tradingview.com/symbols/ETCUSD/)
+
+## Aggregators
+## Crypto News Aggregators
 - [Blockfolio Signal](https://blockfolio.com/signal)
 - [Coinstats News](https://coinstats.app/en/news)
 - [CryptoPanic](https://cryptopanic.com/news/ethereum-classic/)
 - [Delta Direct](https://delta.app/en/direct)
-- [Token Insight](https://tokeninsight.com/tokenDetail?cid=2659)
+- [TokenInsight](https://tokeninsight.com/tokenDetail?cid=2659)
+
+### Dapp Lists
+- [CryptoGround](https://www.cryptoground.com/dapp)
+- [CoinCodex](https://coincodex.com/dapp-list/)
+- [Dapp.com](https://www.dapp.com/ja/search)
+- [DappDirect](https://dappdirect.net/)
+- [DappRadar](https://dappradar.com/)
+- [Dapp.Review](https://dapp.review/explore)
+- [DappStatus](https://dappstatus.com/)
+- [State of the Dapps](https://www.stateofthedapps.com/)
+
+### DeFi Open Finance Analytics
+- [0xTracker](https://0xtracker.com/)
+- [CoinInterestRates](https://coininterestrates.com/)
+- [DeFiScan](https://defiscan.io/)
+- [DeFi Prime](https://defiprime.com/)
+- [DeFi Pulse](https://defipulse.com/)
+- [LoanScan](https://loanscan.io/)
+- [UniswapROI](https://www.uniswaproi.com/)
+- [Whois0x](https://whois0x.io/)
 
 ## Taxation Tools
+- [Accointing](https://www.accointing.com/)
 - [CoinTracker](https://www.cointracker.io/)
 - [CoinTracking](https://cointracking.info/)
 
