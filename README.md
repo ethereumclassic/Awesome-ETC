@@ -68,8 +68,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | --- | ---| --- | --- |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
 | [Multi-Geth (ETC Core Branch)](https://multi-geth.org/) | Maintained | [releases](https://github.com/etclabscore/multi-geth/releases/) | *Recommended* |
-| [Multi-Geth (Sorpaas Branch)](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *Deprecated Branch as of Aztlan Upgrade* |
-| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Continuation Uncertainty* |
+| [Multi-Geth (Sorpaas Branch)](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *Development Continuation Uncertain* |
+| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Continuation Uncertain* |
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
@@ -368,7 +368,7 @@ Mining Algorithm: *Ethash*
 Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 ## Social Channels
-### Public Service Announcement - NO "OFFICIAL" ANYTHING
+### Public Service Announcement
 There is **NO OFFICIAL ANYTHING**.
 >Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
 
