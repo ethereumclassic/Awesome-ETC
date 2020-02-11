@@ -456,7 +456,7 @@ There is **NO OFFICIAL ANYTHING**.
 - WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
 
 ### Forum
-- BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0),
+- BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0)
 - Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
 ### Podcasts
