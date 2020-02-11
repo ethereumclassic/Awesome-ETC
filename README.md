@@ -369,8 +369,7 @@ Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 ## Social Channels
 ### Public Service Announcement - NO "OFFICIAL" ANYTHING
->There is **NO OFFICIAL ANYTHING**.
-
+There is **NO OFFICIAL ANYTHING**.
 >Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
 
 ### Chat
