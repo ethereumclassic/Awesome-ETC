@@ -64,12 +64,12 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ## Ethereum Classic Network Clients
 
-| Client Name | Status | Repository |
-| :---: | :---:| --- |
-| [Hyperledger Besu](https://besu.hyperledger.org/) *Recommended* | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
-| [Multi-Geth (ETC Core Branch)](https://multi-geth.org/) *Recommended* | Maintained | [releases](https://github.com/etclabscore/multi-geth/releases/) |
-| [Multi-Geth (Sorpaas Branch)](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
-| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
+| Client Name | Status | Repository | |
+| --- | ---| --- | --- |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
+| [Multi-Geth (ETC Core Branch)](https://multi-geth.org/) | Maintained | [releases](https://github.com/etclabscore/multi-geth/releases/) | *Recommended* |
+| [Multi-Geth (Sorpaas Branch)](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *Deprecated Branch as of Aztlan Upgrade* |
+| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Continuation Uncertainty* |
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
@@ -81,7 +81,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 | Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
-| [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
+| [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | X | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [BlockScout](https://blockscout.com/etc/astor/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [BlockScout](https://blockscout.com/etc/astor/) [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](https://faucet.astor.host), [2](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://blockscout.com/etc/kotti/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [BlockScout](https://blockscout.com/etc/kotti/), [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
 | [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
@@ -160,54 +160,74 @@ Note: If your project is not listed, please reach out to the community via the E
 ### Instant Exchanges
 *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
 - [ABRA](https://www.abra.com/)
-- [AnyCoinDirect](https://anycoindirect.eu/en/buy-ethereum-classic)
 - [AtomicWallet](https://atomicwallet.io)
-- [Bit4Sale](https://bit4.sale/)
-- [Bitladon](https://www.bitladon.com/ethereum-classic)
 - [ChangeAngel](https://www.changeangel.io/)
 - [Changelly](https://changelly.com/)
 - [ChangeNOW](https://changenow.io/)
-- [CoinDirect](https://www.coindirect.com/)
-- [Coinmerce](https://coinmerce.io/)
 - [CoinSwitch](https://coinswitch.co/)
 - [Coinveer](https://coinveer.com/)
-- [Cryptomate](https://cryptomate.co.uk/buy-ethereum-classic/)
-- [Cryptonator Converter](https://www.cryptonator.com/converter/)
 - [Exodus](https://www.exodus.io/)
 - [Exolix](https://exolix.com/)
-- [Fud Desk](https://fuddesk.com/buy-crypto)
 - [GoDex](https://godex.io/)
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [InstaEx](https://instaex.io/)
-- [LiteBit](https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic)
-- [Paxful](https://paxful.com/sell-bitcoin/ethereum-classic-etc)
-- [RoundlyX](https://www.roundlyx.com/)
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [Switchain](https://www.switchain.com)
 
 Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 ## Payment Processors
+- [AnyCoinDirect](https://anycoindirect.eu/en/buy-ethereum-classic)
+- [Bit4Sale](https://bit4.sale/)
+- [Bitladon](https://www.bitladon.com/ethereum-classic)
+- [CoinDirect](https://www.coindirect.com/)
 - [CoinGate](https://coingate.com/)
+- [Coinmerce](https://coinmerce.io/)
 - [CoinPayments](https://www.coinpayments.net/)
+- [Cryptomate](https://cryptomate.co.uk/buy-ethereum-classic/)
+- [Cryptonator Merchant](https://www.cryptonator.com/merchant/)
+- [Fud Desk](https://fuddesk.com/buy-crypto)
+- [LiteBit](https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic)
 - [NOWPayments](https://nowpayments.io/)
+- [Paxful](https://paxful.com/sell-bitcoin/ethereum-classic-etc)
+- [RoundlyX](https://www.roundlyx.com/)
 - [Utrust](https://utrust.com/)
 
 ## Portfolio Trackers
+### Mobile Apps
 - [AltPocket](https://altpocket.io/)
 - [Blockfolio](https://blockfolio.com/)
+- [Delta](https://delta.app/)
+- [GEM](https://gem.co/)
+### Websites
+- [Coinfolio](https://coin-folio.com/)
+- [CoinFYI](https://coin.fyi/coins/ethereum-classic)
 - [CoinStats](https://coinstats.app/)
 - [CoinTracking](https://cointracking.info/)
-- [Delta](https://delta.app/)
 
-## Third-Party ETC Price Sources
+## Stock Screeners
+- [CNBC](https://www.cnbc.com/quotes/?symbol=ETCG&qsearchterm=ethereum)
+- [CoinCodex](https://coincodex.com/crypto/ethereum-classic/)
 - [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
+- [CoinLib](https://coinlib.io/coin/ETC/Ethereum+Classic)
+- [CoinRanking](https://coinranking.com/coin/hnfQfsYfeIGUQ+ethereumclassic-etc)
+- [CryptoRating](https://www.crypto-rating.com/price-prediction/etc/)
+- [CryptoReport](https://cryptoreport.com/ethereum-classic/ETC)
+- [CryptoCompare](https://www.cryptocompare.com/coins/etc/overview/BTC)
+- [CryptocurrencyChart](https://www.cryptocurrencychart.com/coin/ETC)
+- [CryptocurrencyLivePrices](https://cryptocurrencyliveprices.com/coin.php?id=Ethereum-Classic)
+- [LiveCoinWatch](https://www.livecoinwatch.com/price/EthereumClassic-ETC)
+- [MarketWatch](https://www.marketwatch.com/investing/cryptocurrency/etcusd?iso=kraken)
 - [Messari](https://messari.io/asset/ethereum-classic)
+- [Prices.org](https://prices.org/ethereumclassic/)
 - [TradingView](https://www.tradingview.com/symbols/ETCUSD/)
+- [WorldCoinIndex](https://www.worldcoinindex.com/coin/ethereumclassic)
+- [Yahoo Finance](https://finance.yahoo.com/quote/ETC-USD?p=ETC-USD)
 
 ## Aggregators
 ## Crypto News Aggregators
 - [Blockfolio Signal](https://blockfolio.com/signal)
+- [Bloomberg Crypto](https://www.bloomberg.com/topics/ethereum-classic)
 - [Coinstats News](https://coinstats.app/en/news)
 - [CryptoPanic](https://cryptopanic.com/news/ethereum-classic/)
 - [Delta Direct](https://delta.app/en/direct)
