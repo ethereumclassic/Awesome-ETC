@@ -225,7 +225,7 @@ Note: If your exchange is not listed, please reach out to the community via the 
 - [Yahoo Finance](https://finance.yahoo.com/quote/ETC-USD?p=ETC-USD)
 
 ## Aggregators
-## Crypto News Aggregators
+### Crypto News Aggregators
 - [Blockfolio Signal](https://blockfolio.com/signal)
 - [Bloomberg Crypto](https://www.bloomberg.com/topics/ethereum-classic)
 - [Coinstats News](https://coinstats.app/en/news)
@@ -365,17 +365,13 @@ Mining Algorithm: *Ethash*
 | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
 | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
 
-Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
+Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
 ## Social Channels
 ### Public Service Announcement - NO "OFFICIAL" ANYTHING
-- Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem.
-- This PSA is to prevent attempts at misleading marketing by various organizations that attempt "Corporate capture".
-- There is **NO OFFICIAL ANYTHING**.
-
-Ethereum Classic's history is checkered with attempts at social attacks of on the Ethereum Classic network and it's asset `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
-
-Due to the *permissionless* nature of the network, the only defense to these social attacks is awareness and educational content. Good acting ETC participants do their best to provide accurate content, but decentralized networks require the end users to do their own due diligence. The following social channels were inspected at the time of addition to this list, but there is no guarantee the links have not been tampered with or motives of the admins have changed.
+> There is **NO OFFICIAL ANYTHING**.
+> Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem.
+> Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
@@ -404,8 +400,7 @@ Due to the *permissionless* nature of the network, the only defense to these soc
 - [EthereumClassic.org](https://ethereumclassic.org)
 - International Community Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 
-Note: If your community channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
-
+Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 # Development Resources
 
