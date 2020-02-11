@@ -154,7 +154,6 @@ Note: If your project is not listed, please reach out to the community via the E
 ### Decentralized Exchanges
 - [Bisq](https://bisq.network/markets/?currency=etc_btc)
 - [EXNCE](https://exnce.com/)
-- [OpenLedger](https://dex.openledger.io/)
 - [Saturn Network](https://www.saturn.network/)
 
 ### Instant Exchanges
@@ -166,6 +165,7 @@ Note: If your project is not listed, please reach out to the community via the E
 - [ChangeNOW](https://changenow.io/)
 - [CoinSwitch](https://coinswitch.co/)
 - [Coinveer](https://coinveer.com/)
+- [Edge](https://edge.app/)
 - [Exodus](https://www.exodus.io/)
 - [Exolix](https://exolix.com/)
 - [GoDex](https://godex.io/)
