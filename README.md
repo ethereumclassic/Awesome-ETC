@@ -140,8 +140,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 | Client Name | Status | Repository | |
 | --- | ---| --- | --- |
+| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
-| [Core Geth)](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
 | [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *ETC Development Support Uncertain* |
 | [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Licensing Uncertain* |
 
