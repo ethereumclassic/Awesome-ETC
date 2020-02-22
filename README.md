@@ -9,7 +9,7 @@
 | [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 <div align="center">
-  <img width="750px" src="./images/ethereum_classic_logo_green_wires.png">
+  <img src="./images/ethereum_classic_logo_green_wires.png">
   </div>
 <br />
 <div align="center">
@@ -395,7 +395,7 @@ Note: If your product is not listed, please reach out to the community via the E
 # Ethereum Classic Participants
 
 <div align="left">
-  <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
 </div>
 
 ## Development Teams
@@ -482,7 +482,7 @@ Note: If your social channel is not listed, please reach out to the community vi
 # Development Resources
 
 <div align="left">
-  <img width="300" alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
 </div>
 
 ## Tooling
@@ -522,7 +522,7 @@ Step by step guides on using the Ethereum tech stack.
 # Educational Material
 
 <div align="left">
-  <img width="400" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
+  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
 </div>
 
 ## Ethereum Project Technical Papers
