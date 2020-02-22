@@ -411,7 +411,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
 | 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
 | 2018 | [ETC Labs](https://etclabs.org/) | [@etclabs](https://twitter.com/etclabs) | Active | [source code](https://github.com/etclabscore) |
-| 2018 | [Fission](https://fission.codes/) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | Active | |
+| 2018 | [Fission](https://fission.codes/) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | Active | [source code](https://ecips.ethereumclassic.org/ECIPs/ecip-1050) |
 | 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
 | 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
 | 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
