@@ -310,8 +310,8 @@ Note: If your exchange is not listed, please reach out to the community via the 
 - [TokenInsight](https://tokeninsight.com/tokenDetail?cid=2659)
 
 ### Dapp Lists
-- [CryptoGround](https://www.cryptoground.com/dapp)
 - [CoinCodex](https://coincodex.com/dapp-list/)
+- [CryptoGround](https://www.cryptoground.com/dapp)
 - [Dapp.com](https://www.dapp.com/ja/search)
 - [DappDirect](https://dappdirect.net/)
 - [DappRadar](https://dappradar.com/)
@@ -322,9 +322,9 @@ Note: If your exchange is not listed, please reach out to the community via the 
 ### DeFi Open Finance Analytics
 - [0xTracker](https://0xtracker.com/)
 - [CoinInterestRates](https://coininterestrates.com/)
-- [DeFiScan](https://defiscan.io/)
 - [DeFi Prime](https://defiprime.com/)
 - [DeFi Pulse](https://defipulse.com/)
+- [DeFiScan](https://defiscan.io/)
 - [LoanScan](https://loanscan.io/)
 - [UniswapROI](https://www.uniswaproi.com/)
 - [Whois0x](https://whois0x.io/)
@@ -411,6 +411,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
 | 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
 | 2018 | [ETC Labs](https://etclabs.org/) | [@etclabs](https://twitter.com/etclabs) | Active | [source code](https://github.com/etclabscore) |
+| 2018 | [Fission](https://fission.codes/) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | Active | |
 | 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
 | 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
 | 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
@@ -471,11 +472,11 @@ There is **NO OFFICIAL ANYTHING**.
 - [Github](https://github.com/ethereumclassic)
 
 ### Twitter
-- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
+- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Turkey](https://twitter.com/EtcTurkiye), [Viet Nam](https://twitter.com/ETCVietNam)
 
 ### Websites
 - [EthereumClassic.org](https://ethereumclassic.org)
-- International Community Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
+- Region Specific Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
 
 Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -580,7 +581,8 @@ The ideas behind the continuation of the original Ethereum project post-DAO bail
 - [What is Ethereum Classic (ETC)?](https://www.publish0x.com/the-crypto-enthusiast-blog-intro/what-is-ethereum-classic-etc-the-coin-that-got-away-beginner-xkzrzo) - A Beginner's Guide to the `The Coin that Got Away`
 
 ## Ethereum Classic Consensus Mechanisms
-Ethereum Classic is committed to Proof of Work as a consensus mechanism. The current Proof-of-Work (PoW) algorithm is `Ethash`.
+Ethereum Classic is committed to Proof of Work as a consensus mechanism.
+The current Proof-of-Work (PoW) algorithm is `Ethash`.
 
 ### Clique
 This Proof-of-Authority algorithm (PoA) is active on the Kotti testnet.
