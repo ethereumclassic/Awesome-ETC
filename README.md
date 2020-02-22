@@ -375,6 +375,7 @@ Note: If your business is not listed, please reach out to the community via the 
 - [Guarda](https://guarda.co/)
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [Jaxx](https://jaxx.io/)
+- [Midas Protocol](https://midasprotocol.io/)
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
 - [Zelcore Wallet](https://zel.network/project/zelcore/)
