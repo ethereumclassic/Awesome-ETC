@@ -42,8 +42,8 @@ This list is curated by the public. If a link is broken, malicious, or you want 
     + [Other Projects](#other-projects)
   * [Notable Exchanges](#notable-exchanges)
     + [Centralized Exchanges](#centralized-exchanges)
-    + [Decentralized Exchanges](#decentralized-exchanges)
     + [Instant Exchanges](#instant-exchanges)
+    + [Trust Minimizing Exchanges](#trust-minimizing-exchanges)
   * [Payment Processors](#payment-processors)
   * [Portfolio Trackers](#portfolio-trackers)
     + [Mobile Apps](#mobile-apps)
@@ -200,6 +200,7 @@ a global public utility for self-sovereign identity
 ### Other Projects
 - [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
 - [Portal.Network](https://www.portal.network/) - Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
+- [XAR Network](https://xar.network/) - Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
 
 Note: If your project is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -225,11 +226,6 @@ Note: If your project is not listed, please reach out to the community via the E
 - [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETC)
 - [Yobit](https://yobit.net/en/trade/ETC/BTC)
 
-### Decentralized Exchanges
-- [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [EXNCE](https://exnce.com/)
-- [Saturn Network](https://www.saturn.network/)
-
 ### Instant Exchanges
 *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
 - [ABRA](https://www.abra.com/)
@@ -247,6 +243,12 @@ Note: If your project is not listed, please reach out to the community via the E
 - [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [Switchain](https://www.switchain.com)
+- [XChange](https://www.xchange.me/)
+
+### Trust Minimizing Exchanges
+- [Bisq](https://bisq.network/markets/?currency=etc_btc)
+- [EXNCE](https://exnce.com/)
+- [Saturn Network](https://www.saturn.network/)
 
 Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -460,6 +462,7 @@ There is **NO OFFICIAL ANYTHING**.
 - Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
 ### Podcasts
+- [EVM61](https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb)
 - [Explore The Chain](https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf)
 - [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
 
@@ -635,6 +638,7 @@ Descriptions and implementations of Ethereum-related protocols.
 ## Crypto Podcasts
 - [CryptoBasic](https://www.cryptobasicpodcast.com/episodes)
 - [Epicenter](https://www.youtube.com/user/epicenterbtc/playlists)
+- [EVM61](https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb)
 - [Explore The Chain](https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf)
 - [Fintech Legal](https://fintechlegal.fireside.fm/episodes)
 - [Into the Ether](https://podcast.ethhub.io/)
