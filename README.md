@@ -175,7 +175,6 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ## DApp Environment
 ### Games
-- [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
 - [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
 - [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
 - [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
