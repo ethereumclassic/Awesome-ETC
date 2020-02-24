@@ -418,6 +418,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
 | 2019 | [PegaSys](https://pegasys.tech/) | [@PegaSysEng](https://twitter.com/PegaSysEng) | Active | [source code](https://github.com/hyperledger/besu) |
 | 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
+| 2020 | [Gödel Labs 哥德尔实验室](https://www.godel.ai/) | [@Goedellabs](https://twitter.com/Goedellabs) | Active | [source code](https://github.com/multi-geth/multi-geth) |
 
 Note: If attribution is missing for your team, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -662,6 +663,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [A Guide to Building Your First Decentralized Application (37:00)](https://www.youtube.com/watch?v=gSQXq2_j-mw)
 - [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
+- [Unstoppable Code: The Difference Between Can't and Won't](https://youtu.be/Q6euy5W1js4) -  In this talk, Andreas discusses what is interesting about both Bitcoin and Ethereum: unstoppable code. He looks at cryptography and decentralized systems as defensive mechanisms to assert and enforce our human rights, and the effect of the Silk Road on the public's perception of cryptocurrencies. He also warns that the Ethereum community will soon need to reconcile diverse ethical codes and legal jurisdictions, and make a decision about whether they will build "won't" or "can't" governance systems. What is the unstoppable code worth running?
 
 <div align="center">
   <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
