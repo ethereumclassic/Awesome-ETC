@@ -572,6 +572,7 @@ The ideas behind the continuation of the original Ethereum project post-DAO bail
 *Note:* There are no centralized leaders in the Ethereum Classic EVM project.
 - [The Ethereum Classic Declaration of Independence](https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/)
 - [A Crypto-Decentralist Manifesto](https://ethereumclassic.org/blog/2016-07-11-manifesto/)
+- [Phyro's Recap of ETC History](https://phyro.github.io/etc-history/)
 - [Ethereum Classic Principles](https://etherplan.com/2019/08/14/ethereum-classic-principles/8575/)
 - [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
 - [Ethereum Classic Opportunities](https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/)
@@ -640,6 +641,43 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
 
+## Conferences
+- [ETC Summit 2017](https://etcsummit.com/2017-summit/)
+- [ETC Summit 2018](https://etcsummit.com/2018-etc-summit/)
+- [ETC Summit 2019](https://etcsummit.com/)
+  + [Full Day 1 - October 3rd, 2019](https://www.youtube.com/watch?v=Msi6EItbslk&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=6) - ETC Summit 2019
+    + [Opening Address](https://youtu.be/Msi6EItbslk?t=1655) by Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+    + [The State of Ethereum Classic](https://youtu.be/Msi6EItbslk?t=3205) by Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Former Executive Director of [ETC Cooperative](https://etccooperative.org/).
+    + [Ethereum Classic Principles, Vision & Opportunity](https://youtu.be/Msi6EItbslk?t=3790) by Donald McIntyre [@MyEtherPlan](https://twitter.com/MyEtherplan), Researcher, Writer, & Podcaster [Etherplan](https://etherplan.com/).
+    + [Atlantis Protocol Upgrade & The ETC Roadmap](https://youtu.be/Msi6EItbslk?t=5375) by Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
+    + [The Future of JSON-RPC Tooling](https://youtu.be/Msi6EItbslk?t=8290) by Shane Jonas [@shanejonas](https://twitter.com/shanejonas), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
+    + [Bridging the Decentralized Services Gap](https://youtu.be/Msi6EItbslk?t=8795) by Zane Starr [@zanecstarr](https://twitter.com/zanecstarr), Tooling Developer at [ETC Core](https://etccore.io/).
+    + [Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC](Link) by Zac Mitton [@VoltzRoad](https://twitter.com/VoltzRoad), Open Source Software Engineer at [Voltz Road](https://voltzroad.com/).
+    + [Ethereum Classic's ECIP-1050: One Byte of Context](https://youtu.be/Msi6EItbslk?t=11350) by Brooklyn Zelenka [@expede](https://twitter.com/expede), Co-Founder/CTO of [FISSION](https://fission.codes/).
+    + [The Year Ahead for Ethereum Classic Labs](https://youtu.be/Msi6EItbslk?t=15290) by Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/) & [ETC Core](https://etccore.io/).
+    + [Infrastructure for Decentralizing Distributed Networks](https://youtu.be/Msi6EItbslk?t=16455) by Aaron Lowry [@Aaron_Lowry](https://twitter.com/Aaron_Lowry), Co-Founder/CEO of [Ethernode](https://ethernode.io/).
+    + [Radical Ideals: Experiments in Sustaining Open Source Software](https://youtu.be/Msi6EItbslk?t=18250) by Scott Moore [@notscottmoore](https://twitter.com/notscottmoore), Developer Relations Lead at [GitCoin](https://gitcoin.co/).
+    + [POA Network: Development Tools in the ETC Ecosystem](https://youtu.be/Msi6EItbslk?t=21060) by Andrew Gross [@poanetwork](https://twitter.com/poanetwork), Technical Writer for [POA Network](https://www.poa.network/).
+    + [State of the Ethereum Classic Testnets](https://youtu.be/Msi6EItbslk?t=23515) by Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
+    + [Metronome - First Cross-Chain #Cryptocurrency: Chain Hop From ETH to ETC](https://youtu.be/Msi6EItbslk?t=25170) by Manoj Patidar [@manojpatidarr](https://twitter.com/manojpatidarr), Principal Engineer at [Bloq](https://www.bloq.com/).
+    + [Fireside Chat: Improving Investor Access to Ethereum Classic](https://youtu.be/Msi6EItbslk?t=26080) by Michael Sonnenshein [@Sonnenshein](https://twitter.com/Sonnenshein), Managing Director of [Grayscale](https://grayscale.co/).
+    + [The Need for Cross Chain Collaboration](https://youtu.be/Msi6EItbslk?t=27755) by Aidan Hyman [@Aidan_IH](https://twitter.com/Aidan_IH), Co-Founder/CEO of [ChainSafe](https://chainsafe.io/).
+    + [Developer Relations in Ethereum Classic](https://youtu.be/Msi6EItbslk?t=29190) by Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
+  + [Full Day 2 - Octover 4th, 2019](https://www.youtube.com/watch?v=TNsWR7jXllQ&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=7) - ETC Summit 2019
+    + [A New Open Source Deal for Web3](https://youtu.be/TNsWR7jXllQ?t=3240) by Boris Mann [@bmann](https://twitter.com/bmann), Co-Founder of [FISSION](https://fission.codes/).
+    + [Positive Sum Games Between Ethereum & Ethereum Classic](https://youtu.be/TNsWR7jXllQ?t=5945) by Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
+    + [A Peripheral Observer and Fan's View of Ethereum Classic]() by Sunny Aggarwal [@sunnya97](https://twitter.com/sunnya97), Researcher & Core Dev at [Tendermint](https://tendermint.com/) & [Cosmos](https://cosmos.network/).
+    + [Is Open Source Software Immortal?](https://youtu.be/TNsWR7jXllQ?t=9560) by Zachary Belford [@belfordz](https://twitter.com/belfordz), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
+    + [Merging Blockchains: A Technical Perspective](https://youtu.be/TNsWR7jXllQ?t=11350) by Wei Tang [@sorpaas](https://twitter.com/sorpaas), Core Developer at [Parity](https://www.parity.io/).
+    + [Ethereum Classic's EVM LLVM Project](https://youtu.be/TNsWR7jXllQ?t=12685) by Alan Li [@etc_core](https://twitter.com/etc_core), Lead Compiler Engineer at [ETC Core](https://etccore.io/).
+    + [ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work](https://youtu.be/TNsWR7jXllQ?t=15310) by Alex Tsankov [@antsankov](https://twitter.com/antsankov), Open Source Developer at [Block Reaction](https://blockreaction.nyc/).
+    + [Building Trust as a Miner or Miner-Maker](https://youtu.be/TNsWR7jXllQ?t=17315) by Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR & Community Relations at [Bitmain](https://www.bitmain.com/).
+    + [Ethereum Classic Ethash ASICs](https://youtu.be/TNsWR7jXllQ?t=18440) by Werner Almesberger [@LinzhiCorp](https://twitter.com/LinzhiCorp), System Architect at [Linzhi](https://linzhi.io/).
+    + [ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary Belford, Zachary Mitton](https://youtu.be/TNsWR7jXllQ?t=23810) Moderated by Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
+    + [ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury](https://youtu.be/TNsWR7jXllQ?t=25530) Moderated by Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+    + ["Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems](https://youtu.be/TNsWR7jXllQ?t=27480) by Chelsea Palmer [@chiselinc](https://twitter.com/chiselinc), Organizer of [DogeCon](http://www.dogecon.lol/).
+    + [ETC Summit 2019: Closing Keynote](https://youtu.be/TNsWR7jXllQ?t=29745) by Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) & Co-Founder of the Ethereum Project.
+    
 ## Crypto Podcasts
 - [CryptoBasic](https://www.cryptobasicpodcast.com/episodes)
 - [Epicenter](https://www.youtube.com/user/epicenterbtc/playlists)
