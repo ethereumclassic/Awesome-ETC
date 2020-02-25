@@ -1,6 +1,6 @@
 | Ethereum Classic |
 | --- |
-| <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
+| <img width="100px" src="./images/ethereum_classic_logo_green_full.png"> |
 | website: *https://ethereumclassic.org* |
 | code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
@@ -459,6 +459,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
+- [Facebook](https://www.facebook.com/EthereumClassicETC/)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
@@ -477,6 +478,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Repository
 - [Github](https://github.com/ethereumclassic)
+- [ETC Awesome List](https://github.com/ethereumclassic/Awesome-ETC)
 
 ### Twitter
 - Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Turkey](https://twitter.com/EtcTurkiye), [Viet Nam](https://twitter.com/ETCVietNam)
