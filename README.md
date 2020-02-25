@@ -229,6 +229,7 @@ Note: If your project is not listed, please reach out to the community via the E
 ### Instant Exchanges
 *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
 - [ABRA](https://www.abra.com/)
+- [ALFACashier](https://www.alfacashier.com/)
 - [AtomicWallet](https://atomicwallet.io)
 - [ChangeAngel](https://www.changeangel.io/)
 - [Changelly](https://changelly.com/)
@@ -238,11 +239,15 @@ Note: If your project is not listed, please reach out to the community via the E
 - [Edge](https://edge.app/)
 - [Exodus](https://www.exodus.io/)
 - [Exolix](https://exolix.com/)
+- [FixedFloat](https://fixedfloat.com/)
 - [GoDex](https://godex.io/)
 - [Infinito Wallet](https://www.infinitowallet.io/)
 - [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
+- [StealthEx](https://stealthex.io/)
+- [Swapzone](https://swapzone.io/?to=btc&from=etc)
 - [Switchain](https://www.switchain.com)
+- [Voyager](https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/)
 - [XChange](https://www.xchange.me/)
 
 ### Trust Minimizing Exchanges
@@ -677,7 +682,7 @@ Descriptions and implementations of Ethereum-related protocols.
     + [ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury](https://youtu.be/TNsWR7jXllQ?t=25530) Moderated by Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
     + ["Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems](https://youtu.be/TNsWR7jXllQ?t=27480) by Chelsea Palmer [@chiselinc](https://twitter.com/chiselinc), Organizer of [DogeCon](http://www.dogecon.lol/).
     + [ETC Summit 2019: Closing Keynote](https://youtu.be/TNsWR7jXllQ?t=29745) by Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) & Co-Founder of the Ethereum Project.
-    
+
 ## Crypto Podcasts
 - [CryptoBasic](https://www.cryptobasicpodcast.com/episodes)
 - [Epicenter](https://www.youtube.com/user/epicenterbtc/playlists)
