@@ -575,6 +575,7 @@ Learn about the theory behind the Ethereum project.
 ### The Ethereum Classic chain: The continuation of the original Ethereum project
 The ideas behind the continuation of the original Ethereum project post-DAO bailout fork.
 *Note:* There are no centralized leaders in the Ethereum Classic EVM project.
+- [Understanding the DAO](https://www.coindesk.com/understanding-dao-hack-journalists)
 - [The Ethereum Classic Declaration of Independence](https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/)
 - [A Crypto-Decentralist Manifesto](https://ethereumclassic.org/blog/2016-07-11-manifesto/)
 - [Phyro's Recap of ETC History](https://phyro.github.io/etc-history/)
