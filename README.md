@@ -192,7 +192,7 @@ a global public utility for self-sovereign identity
 
 ### Open Finance Dapps and Protocols
 - [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
-- [ePOC](https://etc.poc35.co/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
+- [ePOC](https://etc.poc35.co/) - ePoC is based on a ETC smart contract run on the ethereum blockchain. It’s modeled after Powh3D.
 - [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
 - [ONEX Network](https://onex.network/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
 
