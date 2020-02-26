@@ -176,6 +176,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 ## DApp Environment
 ### Games
 - [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
+- [Aqua Bank](https://aqua.xenobank.com/) - In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
+- [Commonwealth Country](https://commonwealth.gg/country.html) - Generate an immutable new Country based on your ETC Address.
 - [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
 - [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
 
