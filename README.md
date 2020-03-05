@@ -97,9 +97,9 @@ This list is curated by the public. If a link is broken, malicious, or you want 
   * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
   * [Books](#books)
   * [Conferences](#conferences)
-    + [ETC Summit 2017](#-etc-summit-2017)
-    + [ETC Summit 2018](#-etc-summit-2018)
-    + [ETC Summit 2019](#-etc-summit-2019)
+    + [ETC Summit 2017](#etc-summit-2017)
+    + [ETC Summit 2018](#etc-summit-2018)
+    + [ETC Summit 2019](#etc-summit-2019)
   * [Crypto Podcasts](#crypto-podcasts)
   * [Videos](#videos)
 - [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
@@ -656,14 +656,14 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liaison.
 
 ## Conferences
-### [ETC Summit 2017](https://etcsummit.com/2017-summit/) - Hong Kong
-  + [Full Livestream - November, 2017](https://www.youtube.com/watch?v=vYvbzjETbxI&list=PL20HSZ6AK2yOrde28Pi_XCoaDWbahIhi0) - ETC Summit 2017
+### ETC Summit 2017
+  + [ETC Summit 2017 Hong Kong](https://etcsummit.com/2017-summit/): [Full Livestream - November, 2017](https://www.youtube.com/watch?v=vYvbzjETbxI&list=PL20HSZ6AK2yOrde28Pi_XCoaDWbahIhi0)
 
-### [ETC Summit 2018](https://etcsummit.com/2018-etc-summit/) - Seoul
-  + [Full Livestream - September 12, 2018](https://youtu.be/81EjJ5-sTRg) - ETC Summit 2018
+### ETC Summit 2018
+  + [ETC Summit 2018 Seoul](https://etcsummit.com/2018-etc-summit/): [Full Livestream - September 12, 2018](https://youtu.be/81EjJ5-sTRg)
 
-### [ETC Summit 2019](https://etcsummit.com/) - Vancouver
-  + [Full Day 1 - October 3rd, 2019](https://www.youtube.com/watch?v=Msi6EItbslk&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=6) - ETC Summit 2019
+### ETC Summit 2019
+  + [ETC Summit 2019 Vancouver](https://etcsummit.com/): [Full Day 1 - October 3rd, 2019](https://www.youtube.com/watch?v=Msi6EItbslk&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=6)
     + [Opening Address](https://youtu.be/Msi6EItbslk?t=1655) by Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
     + [The State of Ethereum Classic](https://youtu.be/Msi6EItbslk?t=3205) by Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Former Executive Director of [ETC Cooperative](https://etccooperative.org/).
     + [Ethereum Classic Principles, Vision & Opportunity](https://youtu.be/Msi6EItbslk?t=3790) by Donald McIntyre [@MyEtherPlan](https://twitter.com/MyEtherplan), Researcher, Writer, & Podcaster [Etherplan](https://etherplan.com/).
@@ -681,7 +681,7 @@ Descriptions and implementations of Ethereum-related protocols.
     + [Fireside Chat: Improving Investor Access to Ethereum Classic](https://youtu.be/Msi6EItbslk?t=26080) by Michael Sonnenshein [@Sonnenshein](https://twitter.com/Sonnenshein), Managing Director of [Grayscale](https://grayscale.co/).
     + [The Need for Cross Chain Collaboration](https://youtu.be/Msi6EItbslk?t=27755) by Aidan Hyman [@Aidan_IH](https://twitter.com/Aidan_IH), Co-Founder/CEO of [ChainSafe](https://chainsafe.io/).
     + [Developer Relations in Ethereum Classic](https://youtu.be/Msi6EItbslk?t=29190) by Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
-  + [Full Day 2 - October 4th, 2019](https://www.youtube.com/watch?v=TNsWR7jXllQ&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=7) - ETC Summit 2019
+  + [ETC Summit 2019 Vancouver](https://etcsummit.com/): [Full Day 2 - October 4th, 2019](https://www.youtube.com/watch?v=TNsWR7jXllQ&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=7)
     + [A New Open Source Deal for Web3](https://youtu.be/TNsWR7jXllQ?t=3240) by Boris Mann [@bmann](https://twitter.com/bmann), Co-Founder of [FISSION](https://fission.codes/).
     + [Positive Sum Games Between Ethereum & Ethereum Classic](https://youtu.be/TNsWR7jXllQ?t=5945) by Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
     + [A Peripheral Observer and Fan's View of Ethereum Classic]() by Sunny Aggarwal [@sunnya97](https://twitter.com/sunnya97), Researcher & Core Dev at [Tendermint](https://tendermint.com/) & [Cosmos](https://cosmos.network/).
