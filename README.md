@@ -146,8 +146,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | --- | ---| --- | --- |
 | [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
-| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *ETC Development Support Uncertain* |
-| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Licensing Uncertain* |
+| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |  |
+| [Open-Ethereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | *Development Licensing Uncertain* |
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
