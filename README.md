@@ -453,6 +453,7 @@ Mining Algorithm: *Ethash*
 | [Bminer](https://www.bminer.me/releases/) | | [Bminer](https://www.bminer.me/releases/) | |
 | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
 | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
+| [Minergate xFast](https://minergate.com/downloads) | | [Minergate xFast](https://minergate.com/downloads) | |
 | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
 | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
 
