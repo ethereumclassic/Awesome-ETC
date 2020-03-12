@@ -142,12 +142,12 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ## Ethereum Classic Network Clients
 
-| Client Name | Status | Repository | Chat |
+| Client Name | Status | Repository | Support |
 | --- | ---| --- | --- |
-| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | [gitter](https://gitter.im/core-geth/community) |
+| [Core-Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | [gitter](https://gitter.im/core-geth/community) |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | [rocket chat](https://chat.hyperledger.org/) |
 | [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | [gitter](https://gitter.im/multi-geth/community) |
-| [Open-Ethereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | [discord](http://discord.io/openethereum) |
+| [OpenEthereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | [discord](http://discord.io/openethereum) |
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
@@ -469,11 +469,18 @@ There is **NO OFFICIAL ANYTHING**.
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - [Facebook](https://www.facebook.com/EthereumClassicETC/)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
-- Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
 - Tencent QQ: ETC Asia-769408114
 - WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
+
+### Development
+- Discord: [Commonwealth.gg](https://discord.gg/crjsdJr), [Core Paper](https://discord.io/ethereumclassic), [ETC Core](https://discord.gg/5KwEAdZ), [OpenEthereum](http://discord.io/openethereum), [PAO Network](https://discord.gg/mPJ9zkq)
+- Gitter: [Core Geth](https://gitter.im/core-geth/community), [Multi-Geth](https://gitter.im/multi-geth/community), [Open-RPC](https://gitter.im/open-rpc/community), [POA Network](https://gitter.im/poanetwork/)
+- Matrix: [ECIPs](https://riot.im/app/#/room/#ecips:matrix.org), [Parity Tech](https://riot.im/app/#/room/#watercooler:matrix.parity.io)
+- Rocket Chat: [Hyperledger Besu](https://chat.hyperledger.org/)
+- Telegram: [ETCDEV](https://t.me/GetEmerald), [ETC Labs](https://t.me/etclabs), [Parity Tech](https://t.me/parity_technologies), [POA Network](https://t.me/poa_network)
+- Weibo: [Gödel Labs](https://weibo.com/godellabs)
 
 ### Forum
 - BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0)
