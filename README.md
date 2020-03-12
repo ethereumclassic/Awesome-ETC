@@ -142,12 +142,12 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ## Ethereum Classic Network Clients
 
-| Client Name | Status | Repository | |
+| Client Name | Status | Repository | Chat |
 | --- | ---| --- | --- |
-| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
-| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |  |
-| [Open-Ethereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | *Development Licensing Uncertain* |
+| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | [gitter](https://gitter.im/core-geth/community) |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | [rocket chat](https://chat.hyperledger.org/) |
+| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | [gitter](https://gitter.im/multi-geth/community) |
+| [Open-Ethereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | [discord](http://discord.io/openethereum) |
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
@@ -419,6 +419,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2016 | [ETCDEV](https://etcdevteam.com/) | [@getemerald](https://twitter.com/getemerald) | Active | [source code](https://github.com/ETCDEVTeam/) |
 | 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | [@InputOutputHK](https://twitter.com/InputOutputHK) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
 | 2016 | [Parity Technologies](https://parity.io/) | [@ParityTech](https://twitter.com/ParityTech) | Active | [source code](https://github.com/paritytech/) |
+| 2017 | [Core Paper](https://corepaper.org/) | [@corepaper](https://twitter.com/corepaper) | Active | [source code](https://github.com/corepaper/corepaper) |
 | 2017 | [ETC Cooperative](https://etccooperative.org/) | [@ETCCooperative](https://twitter.com/ETCCooperative) | Active | [source code](https://github.com/ETCCooperative) |
 | 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
 | 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
