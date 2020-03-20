@@ -484,6 +484,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Forum
 - BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0)
+- EthereumClassic.org [Forum](https://forum.ethereumclassic.org/)
 - Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
 ### Podcasts
