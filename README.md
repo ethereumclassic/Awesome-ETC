@@ -258,8 +258,7 @@ Note: If your project is not listed, please reach out to the community via the E
 
 ### Trust Minimizing Exchanges
 - [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [EXNCE](https://exnce.com/)
-- [Saturn Network](https://www.saturn.network/)
+- [Saturn Network](https://www.saturn.network/exchange/ethereum-classic)
 
 Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -451,12 +450,11 @@ Mining Algorithm: *Ethash*
 
 | Windows AMD | Windows NVIDIA | Linux AMD | Linux NVIDIA |
 | :---: | :---: | :---: | :---: |
-| [Bminer](https://www.bminer.me/releases/) | | [Bminer](https://www.bminer.me/releases/) | |
+| [Bminer](https://www.bminer.me/releases/) | [Bminer](https://www.bminer.me/releases/) | [Bminer](https://www.bminer.me/releases/) | [Bminer](https://www.bminer.me/releases/) |
 | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
 | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
-| [Minergate xFast](https://minergate.com/downloads) | | [Minergate xFast](https://minergate.com/downloads) | |
+| [Minergate xFast](https://minergate.com/downloads) | [Minergate xFast](https://minergate.com/downloads) | [Minergate xFast](https://minergate.com/downloads) | [Minergate xFast](https://minergate.com/downloads) |
 | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
-| [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
 
 Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 
