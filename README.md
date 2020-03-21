@@ -426,6 +426,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2018 | [Fission](https://fission.codes/) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | Active | [source code](https://ecips.ethereumclassic.org/ECIPs/ecip-1050) |
 | 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
 | 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
+| 2019 | [Code Shelter](https://www.codeshelter.co/) | [@code_shelter](https://twitter.com/code_shelter) | Active | [source code](https://github.com/multi-geth/multi-geth) |
 | 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
 | 2019 | [PegaSys](https://pegasys.tech/) | [@PegaSysEng](https://twitter.com/PegaSysEng) | Active | [source code](https://github.com/hyperledger/besu) |
 | 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
