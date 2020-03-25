@@ -449,15 +449,19 @@ source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 ### Miner Software
 Mining Algorithm: *Ethash*
 
-| Windows AMD | Windows NVIDIA | Linux AMD | Linux NVIDIA |
-| :---: | :---: | :---: | :---: |
-| [Bminer](https://www.bminer.me/releases/) | [Bminer](https://www.bminer.me/releases/) | [Bminer](https://www.bminer.me/releases/) | [Bminer](https://www.bminer.me/releases/) |
-| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
-| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
-| [Minergate xFast](https://minergate.com/downloads) | [Minergate xFast](https://minergate.com/downloads) | [Minergate xFast](https://minergate.com/downloads) | [Minergate xFast](https://minergate.com/downloads) |
-| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
-
-Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
+| Miner Name | Tutorial | Windows x64 || Linux | |
+| --- | --- | :---: | :---: | :---: | :---: |
+| | | AMD | NVIDIA | AMD | NVIDIA |
+| [Antminer E3](https://service.bitmain.com/support/download?product=Antminer%20E3) | [guide](https://antpool.kf5.com/hc/kb/article/1281448/) | | | | |
+| [Bminer](https://www.bminer.me/releases/) | [guide](https://www.bminer.me/examples/#mining-ethereum-ethereum-classic) | ✓ | | ✓ | |
+| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-claymore/) | ✓ | ✓ | ✓ | ✓ |
+| [Easy Miner](http://www.qskg.top/) | [guide](http://www.qskg.top/eth.html) | ✓ | ✓ | | |
+| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [guide](https://www.cruxpool.com/help/how-to-mine-with-ethminer/) | ✓ | ✓ | ✓ | ✓ |
+| [Minergate xFast](https://minergate.com/downloads) | | ✓ | ✓ | ✓ | ✓ |
+| [MinerOS: Miner Babe](https://minerbabe.com/) | [guide](http://support.minerbabe.com/archives/category/tutorial) | | | ✓ | ✓ |
+| [MinerOS: Miner Butler](https://mineros.cn/) | [guide](https://mineros.cn/index.php/zh/course) | | | ✓ | ✓ |
+| [Nanominer](https://github.com/nanopool/nanominer/releases) | [guide](https://help.nanopool.org/article/48-help) | ✓ | ✓ | ✓ | ✓ |
+| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/) | ✓ | ✓ | ✓ | ✓ |
 
 ## Social Channels
 ### Public Service Announcement
