@@ -455,12 +455,15 @@ Mining Algorithm: *Ethash*
 | [Antminer E3](https://service.bitmain.com/support/download?product=Antminer%20E3) | [guide](https://antpool.kf5.com/hc/kb/article/1281448/) | | | | |
 | [Bminer](https://www.bminer.me/releases/) | [guide](https://www.bminer.me/examples/#mining-ethereum-ethereum-classic) | ✓ | | ✓ | |
 | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-claymore/) | ✓ | ✓ | ✓ | ✓ |
+| [Cruxminer](https://cruxpool.com/cruxminer) | [guide](https://cruxpool.com/cruxminer) | ✓ | ✓ | | |
 | [Easy Miner](http://www.qskg.top/) | [guide](http://www.qskg.top/eth.html) | ✓ | ✓ | | |
 | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [guide](https://www.cruxpool.com/help/how-to-mine-with-ethminer/) | ✓ | ✓ | ✓ | ✓ |
+| [HiveOS](https://hiveos.farm/) | [guide](https://www.cruxpool.com/help/how-to-setup-hive-os/) | | | ✓ | ✓ |
 | [Minergate xFast](https://minergate.com/downloads) | | ✓ | ✓ | ✓ | ✓ |
 | [MinerOS: Miner Babe](https://minerbabe.com/) | [guide](http://support.minerbabe.com/archives/category/tutorial) | | | ✓ | ✓ |
 | [MinerOS: Miner Butler](https://mineros.cn/) | [guide](https://mineros.cn/index.php/zh/course) | | | ✓ | ✓ |
 | [Nanominer](https://github.com/nanopool/nanominer/releases) | [guide](https://help.nanopool.org/article/48-help) | ✓ | ✓ | ✓ | ✓ |
+| [NiceHash](https://www.nicehash.com/) | [guide](https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/) | | | | |
 | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/) | ✓ | ✓ | ✓ | ✓ |
 
 ## Social Channels
