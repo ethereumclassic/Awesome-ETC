@@ -142,12 +142,12 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ## Ethereum Classic Network Clients
 
-| Client Name | Status | Repository | |
+| Client Name | Status | Repository | Support |
 | --- | ---| --- | --- |
-| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
-| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *ETC Development Support Uncertain* |
-| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Licensing Uncertain* |
+| [Core-Geth](https://core-geth.org/) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | [gitter](https://gitter.im/core-geth/community) |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | [rocket chat](https://chat.hyperledger.org/) |
+| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | [gitter](https://gitter.im/multi-geth/community) |
+| [OpenEthereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | [discord](http://discord.io/openethereum) |
 
 ## Node Deployment Tools
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
@@ -159,10 +159,10 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 | Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
-| [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | X | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
+| [Ethereum Classic](https://ethereumclassic.org) | [AnyBlock](https://explorer.anyblock.tools/ethereum/classic/), [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | X | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [BlockScout](https://blockscout.com/etc/astor/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [BlockScout](https://blockscout.com/etc/astor/) [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](https://faucet.astor.host), [2](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://blockscout.com/etc/kotti/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [BlockScout](https://blockscout.com/etc/kotti/), [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
+| [Kotti](https://github.com/goerli/testnet) | [AnyBlock](https://explorer.anyblock.tools/ethereum/classic/kotti/), [BlockScout](https://blockscout.com/etc/kotti/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [BlockScout](https://blockscout.com/etc/kotti/), [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
+| [Mordor](https://github.com/eth-classic/mordor) | [AnyBlock](https://explorer.anyblock.tools/ethereum/classic/mordor/), [BlockScout](https://blockscout.com/etc/mordor/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
 
 ### Gas Fee Estimators
 - [ETCGas](http://etcgas.net)
@@ -258,8 +258,7 @@ Note: If your project is not listed, please reach out to the community via the E
 
 ### Trust Minimizing Exchanges
 - [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [EXNCE](https://exnce.com/)
-- [Saturn Network](https://www.saturn.network/)
+- [Saturn Network](https://www.saturn.network/exchange/ethereum-classic)
 
 Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -419,6 +418,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2016 | [ETCDEV](https://etcdevteam.com/) | [@getemerald](https://twitter.com/getemerald) | Active | [source code](https://github.com/ETCDEVTeam/) |
 | 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | [@InputOutputHK](https://twitter.com/InputOutputHK) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
 | 2016 | [Parity Technologies](https://parity.io/) | [@ParityTech](https://twitter.com/ParityTech) | Active | [source code](https://github.com/paritytech/) |
+| 2017 | [Core Paper](https://corepaper.org/) | [@corepaper](https://twitter.com/corepaper) | Active | [source code](https://github.com/corepaper/corepaper) |
 | 2017 | [ETC Cooperative](https://etccooperative.org/) | [@ETCCooperative](https://twitter.com/ETCCooperative) | Active | [source code](https://github.com/ETCCooperative) |
 | 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
 | 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
@@ -426,6 +426,7 @@ Note: If your product is not listed, please reach out to the community via the E
 | 2018 | [Fission](https://fission.codes/) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | Active | [source code](https://ecips.ethereumclassic.org/ECIPs/ecip-1050) |
 | 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
 | 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
+| 2019 | [Code Shelter](https://www.codeshelter.co/) | [@code_shelter](https://twitter.com/code_shelter) | Active | [source code](https://github.com/multi-geth/multi-geth) |
 | 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
 | 2019 | [PegaSys](https://pegasys.tech/) | [@PegaSysEng](https://twitter.com/PegaSysEng) | Active | [source code](https://github.com/hyperledger/besu) |
 | 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
@@ -448,15 +449,19 @@ source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 ### Miner Software
 Mining Algorithm: *Ethash*
 
-| Windows AMD | Windows NVIDIA | Linux AMD | Linux NVIDIA |
-| :---: | :---: | :---: | :---: |
-| [Bminer](https://www.bminer.me/releases/) | | [Bminer](https://www.bminer.me/releases/) | |
-| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
-| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
-| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
-| [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
-
-Optimization Tool: [minerOS Miner Butler](http://www.mineros.cn/#/home)
+| Miner Name | Tutorial | Windows x64 || Linux | |
+| --- | --- | :---: | :---: | :---: | :---: |
+| | | AMD | NVIDIA | AMD | NVIDIA |
+| [Antminer E3](https://service.bitmain.com/support/download?product=Antminer%20E3) | [guide](https://antpool.kf5.com/hc/kb/article/1281448/) | | | | |
+| [Bminer](https://www.bminer.me/releases/) | [guide](https://www.bminer.me/examples/#mining-ethereum-ethereum-classic) | ✓ | | ✓ | |
+| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-claymore/) | ✓ | ✓ | ✓ | ✓ |
+| [Easy Miner](http://www.qskg.top/) | [guide](http://www.qskg.top/eth.html) | ✓ | ✓ | | |
+| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [guide](https://www.cruxpool.com/help/how-to-mine-with-ethminer/) | ✓ | ✓ | ✓ | ✓ |
+| [Minergate xFast](https://minergate.com/downloads) | | ✓ | ✓ | ✓ | ✓ |
+| [MinerOS: Miner Babe](https://minerbabe.com/) | [guide](http://support.minerbabe.com/archives/category/tutorial) | | | ✓ | ✓ |
+| [MinerOS: Miner Butler](https://mineros.cn/) | [guide](https://mineros.cn/index.php/zh/course) | | | ✓ | ✓ |
+| [Nanominer](https://github.com/nanopool/nanominer/releases) | [guide](https://help.nanopool.org/article/48-help) | ✓ | ✓ | ✓ | ✓ |
+| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/) | ✓ | ✓ | ✓ | ✓ |
 
 ## Social Channels
 ### Public Service Announcement
@@ -467,14 +472,22 @@ There is **NO OFFICIAL ANYTHING**.
 - [Discord](https://discordapp.com/invite/HW4GckH)
 - [Facebook](https://www.facebook.com/EthereumClassicETC/)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
-- Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
 - Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
 - Tencent QQ: ETC Asia-769408114
 - WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
 
+### Development
+- Discord: [Commonwealth.gg](https://discord.gg/crjsdJr), [Core Paper](https://discord.io/ethereumclassic), [ETC Core](https://discord.gg/5KwEAdZ), [OpenEthereum](http://discord.io/openethereum), [PAO Network](https://discord.gg/mPJ9zkq)
+- Gitter: [Core Geth](https://gitter.im/core-geth/community), [Multi-Geth](https://gitter.im/multi-geth/community), [Open-RPC](https://gitter.im/open-rpc/community), [POA Network](https://gitter.im/poanetwork/)
+- Matrix: [ECIPs](https://riot.im/app/#/room/#ecips:matrix.org), [Parity Tech](https://riot.im/app/#/room/#watercooler:matrix.parity.io)
+- Rocket Chat: [Hyperledger Besu](https://chat.hyperledger.org/)
+- Telegram: [ETCDEV](https://t.me/GetEmerald), [ETC Labs](https://t.me/etclabs), [Parity Tech](https://t.me/parity_technologies), [POA Network](https://t.me/poa_network)
+- Weibo: [Gödel Labs](https://weibo.com/godellabs)
+
 ### Forum
 - BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0)
+- EthereumClassic.org [Forum](https://forum.ethereumclassic.org/)
 - Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
 ### Podcasts
