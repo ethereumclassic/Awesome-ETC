@@ -136,9 +136,9 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [source code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
-| Testnet Astor |  | ETC |  | testnet |  | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
-| Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Clique |
-| Testnet Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
+| Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Clique |
+| Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
+| Astor |  | ETC |  | experimental |  | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
 
 ## Ethereum Classic Network Clients
 
