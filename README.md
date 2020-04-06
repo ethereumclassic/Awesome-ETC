@@ -475,7 +475,7 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Chat
 - [Discord](https://discordapp.com/invite/HW4GckH)
-- [Facebook](https://www.facebook.com/EthereumClassicETC/)
+- Facebook: [Eth Classic](https://www.facebook.com/pg/ethclassic/community/), [Ethereum.HongKong](https://www.facebook.com/groups/ethereum.hongkong/), [Ethereum Classic](https://www.facebook.com/Ethereum-Classic-101030037952514/), [Ethereum Classic 2](https://www.facebook.com/Ethereum-Classic-101129654609258/), [Eth Classic News](https://www.facebook.com/ethclassicnews/), [Ethereum Classic Slovakia](https://www.facebook.com/Ethereum-Classic-Slovakia-363029824118870/)
 - Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
 - Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
