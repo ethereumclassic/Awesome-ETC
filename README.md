@@ -237,6 +237,7 @@ Note: If your project is not listed, please reach out to the community via the E
 - [ABRA](https://www.abra.com/)
 - [ALFACashier](https://www.alfacashier.com/)
 - [AtomicWallet](https://atomicwallet.io)
+- [BitTorro](https://bittorro.io/)
 - [ChangeAngel](https://www.changeangel.io/)
 - [Changelly](https://changelly.com/)
 - [ChangeNOW](https://changenow.io/)
@@ -659,6 +660,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 # Ethereum Classic Media and Other Content
 ## Blogs, Mailing Lists, Newsletters
+- [ETC is Money](https://etcis.money/) - An opinionated reminder about the qualities of "hard money" and how they relate to Ethereum Classic.
 - [Etherplan](https://etherplan.com/) - Donald McIntyre's research, articles, & podcast about Ethereum Classic, Bitcoin, and decentralized applications.
 - [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
 - [Messari's Ethereum Classic News and Research](https://messari.io/asset/ethereum-classic/news) - Messari brings transparency to the cryptoeconomy. We want to help investors, regulators, and the public make sense of this revolutionary new asset class, and are building data tools that will drive informed decision making and investment.
