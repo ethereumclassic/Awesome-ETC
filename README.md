@@ -634,6 +634,7 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Etherplan](https://etherplan.com/) - Donald McIntyre's research, articles, & podcast about Ethereum Classic, Bitcoin, and decentralized applications.
 - [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
 - [Messari's Ethereum Classic News and Research](https://messari.io/asset/ethereum-classic/news) - Messari brings transparency to the cryptoeconomy. We want to help investors, regulators, and the public make sense of this revolutionary new asset class, and are building data tools that will drive informed decision making and investment.
+- [Ethereum Classic Today](https://etc.today/) - A weekly summary of everything happening in ETCLand.
 - [Week in Ethereum News](https://weekinethereumnews.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [ETC Gifs](https://github.com/stevanlohja/ETC_Gifs) - Ethereum Classic social media meme repository
