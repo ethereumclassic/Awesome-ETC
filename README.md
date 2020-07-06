@@ -1,114 +1,99 @@
-| Ethereum Classic |
-| --- |
-| <img width="100px" src="./images/ethereum_classic_logo_green_full.png"> |
-| website: *https://ethereumclassic.org* |
-| code repository: *https://github.com/ethereumclassic* |
-| ticker symbol: *ETC* |
-| genesis block: 2015-07-30 |
-| updated: *2020-02* |
-| [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
+# Awesome Ethereum Classic ![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/9d1890e8baab141df4f6c271b414dc941d37ebae/media/badge-flat2.svg)
 
-<div align="center">
-  <img src="./images/ethereum_classic_logo_green_wires.png">
-  </div>
-<br />
-<div align="center">
-A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethereum Classic</a> network.
-<br />
-<a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
-</div>
+Ethereum Classic is an open-source, blockchain and smart contract computing platform. This is a non-exhaustive list related to the [Ethereum Classic](https://ethereumclassic.org/) network.
 
-# Ethereum Classic Awesome List
-## Disclaimer
-### Links
-Use links at your own risk. We try to vet links as best we can, but there is no guarantee that links haven't been tampered with after our initial inspection.
-### Public List
-This list is curated by the public. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
+__Disclaimer__: Use links at your own risk. This list is curated by the public. Therefore, there is no guarantee that links have not been tampered with. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
 
-## Contents
+## Table of Contents
+- [Awesome Ethereum Classic !Awesome](#awesome-ethereum-classic-img-srchttpsrawgithubusercontentcomsindresorhusawesome9d1890e8baab141df4f6c271b414dc941d37ebaemediabadge-flat2svg-altawesome)
+  - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-- [Ethereum Classic Network](#ethereum-classic-network)
-  * [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
-  * [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
-  * [Node Deployment Tools](#node-deployment-tools)
-  * [Network Public Utilities](#network-public-utilities)
-    + [Gas Fee Estimators](#gas-fee-estimators)
+  - [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
+  - [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
+  - [Node Deployment Tools](#node-deployment-tools)
+  - [Network Public Utilities](#network-public-utilities)
+    - [Gas Fee Estimators](#gas-fee-estimators)
 - [Ethereum Classic Ecosystem](#ethereum-classic-ecosystem)
-  * [DApp Environment](#dapp-environment)
-    + [Games](#games)
-    + [Decentralized Identity DApps](#decentralized-identity-dapps)
-    + [EVM Interoperability Projects](#evm-interoperability-projects)
-    + [Open Finance Dapps and Protocols](#open-finance-dapps-and-protocols)
-    + [Other Projects](#other-projects)
-  * [Notable Exchanges](#notable-exchanges)
-    + [Centralized Exchanges](#centralized-exchanges)
-    + [Instant Exchanges](#instant-exchanges)
-    + [Trust Minimizing Exchanges](#trust-minimizing-exchanges)
-  * [Payment Processors](#payment-processors)
-  * [Portfolio Trackers](#portfolio-trackers)
-    + [Mobile Apps](#mobile-apps)
-    + [Websites](#websites)
-  * [Stock Screeners](#stock-screeners)
-  * [Aggregators](#aggregators)
-    + [Crypto News Aggregators](#crypto-news-aggregators)
-    + [Dapp Lists](#dapp-lists)
-    + [DeFi Open Finance Analytics](#defi-open-finance-analytics)
-  * [Taxation Tools](#taxation-tools)
-  * [Ethereum Classic Wallets](#ethereum-classic-wallets)
-    + [Browser Wallets](#browser-wallets)
-    + [Hardware Wallet](#hardware-wallet)
-    + [Software Wallets](#software-wallets)
-    + [Other Wallet Products](#other-wallet-products)
+  - [DApp Environment](#dapp-environment)
+    - [Games](#games)
+    - [Decentralized Identity DApps](#decentralized-identity-dapps)
+    - [EVM Interoperability Projects](#evm-interoperability-projects)
+    - [Open Finance Dapps and Protocols](#open-finance-dapps-and-protocols)
+    - [Other Projects](#other-projects)
+  - [Notable Exchanges](#notable-exchanges)
+    - [Centralized Exchanges](#centralized-exchanges)
+    - [Instant Exchanges](#instant-exchanges)
+    - [Trust Minimizing Exchanges](#trust-minimizing-exchanges)
+  - [Payment Processors](#payment-processors)
+  - [Portfolio Trackers](#portfolio-trackers)
+    - [Mobile Apps](#mobile-apps)
+    - [Websites](#websites)
+  - [Stock Screeners](#stock-screeners)
+  - [Aggregators](#aggregators)
+    - [Crypto News Aggregators](#crypto-news-aggregators)
+    - [Dapp Lists](#dapp-lists)
+    - [DeFi Open Finance Analytics](#defi-open-finance-analytics)
+  - [Taxation Tools](#taxation-tools)
+  - [Ethereum Classic Wallets](#ethereum-classic-wallets)
+    - [Browser Wallets](#browser-wallets)
+    - [Hardware Wallet](#hardware-wallet)
+    - [Software Wallets](#software-wallets)
+    - [Other Wallet Products](#other-wallet-products)
 - [Ethereum Classic Participants](#ethereum-classic-participants)
-  * [Development Teams](#development-teams)
-  * [Mining](#mining)
-    + [Top 5 Mining Pools](#top-5-mining-pools)
-    + [Miner Software](#miner-software)
-  * [Social Channels](#social-channels)
-    + [Public Service Announcement](#public-service-announcement)
-    + [Chat](#chat)
-    + [Forum](#forum)
-    + [Podcasts](#podcasts)
-    + [Repository](#repository)
-    + [Twitter](#twitter)
-    + [Websites](#websites-1)
+  - [Development Teams](#development-teams)
+  - [Mining](#mining)
+    - [Top 5 Mining Pools](#top-5-mining-pools)
+    - [Miner Software](#miner-software)
+  - [Social Channels](#social-channels)
+    - [Public Service Announcement](#public-service-announcement)
+    - [Chat](#chat)
+    - [Development](#development)
+    - [Forum](#forum)
+    - [Podcasts](#podcasts)
+    - [Repository](#repository)
+    - [Twitter](#twitter)
+    - [Websites](#websites-1)
 - [Development Resources](#development-resources)
-  * [Tooling](#tooling)
-  * [Tutorials](#tutorials)
+  - [Tooling](#tooling)
+  - [Tutorials](#tutorials)
 - [Educational Material](#educational-material)
-  * [Ethereum Project Technical Papers](#ethereum-project-technical-papers)
-  * [Ethereum Project Wiki](#ethereum-project-wiki)
-  * [Code Documentation](#code-documentation)
-  * [Ethereum Project Theory](#ethereum-project-theory)
-  * [Ethereum Project Philosophy](#ethereum-project-philosophy)
-    + [The Ethereum project and greater EVM ecosystem](#the-ethereum-project-and-greater-evm-ecosystem)
-    + [The Ethereum Classic chain: The continuation of the original Ethereum project](#the-ethereum-classic-chain--the-continuation-of-the-original-ethereum-project)
-  * [Ethereum Classic Consensus Mechanisms](#ethereum-classic-consensus-mechanisms)
-    + [Clique](#clique)
-    + [Dagger Hashimoto](#dagger-hashimoto)
-    + [Ethash](#ethash)
-    + [Keccak256](#keccak256)
-  * [Ethereum Project Protocols](#ethereum-project-protocols)
-    + [Swarm](#swarm)
-    + [Whisper](#whisper)
-    + [zk-SNARKS](#zk-snarks)
-  * [Token Bonding Curves (TBC)](#token-bonding-curves--tbc-)
+  - [Ethereum Project Technical Papers](#ethereum-project-technical-papers)
+  - [Ethereum Project Wiki](#ethereum-project-wiki)
+  - [Code Documentation](#code-documentation)
+  - [Ethereum Project Theory](#ethereum-project-theory)
+  - [Ethereum Project Philosophy](#ethereum-project-philosophy)
+    - [The Ethereum project and greater EVM ecosystem](#the-ethereum-project-and-greater-evm-ecosystem)
+    - [The Ethereum Classic chain: The continuation of the original Ethereum project](#the-ethereum-classic-chain-the-continuation-of-the-original-ethereum-project)
+  - [Ethereum Classic Consensus Mechanisms](#ethereum-classic-consensus-mechanisms)
+    - [Clique](#clique)
+    - [Dagger Hashimoto](#dagger-hashimoto)
+    - [Ethash](#ethash)
+    - [Keccak256](#keccak256)
+  - [Ethereum Project Protocols](#ethereum-project-protocols)
+    - [Swarm](#swarm)
+    - [Whisper](#whisper)
+    - [zk-SNARKS](#zk-snarks)
+  - [Token Bonding Curves (TBC)](#token-bonding-curves-tbc)
 - [Ethereum Classic Media and Other Content](#ethereum-classic-media-and-other-content)
-  * [Blogs, Mailing Lists, Newsletters](#blogs--mailing-lists--newsletters)
-  * [Books](#books)
-  * [Conferences](#conferences)
-    + [ETC Summit 2017](#etc-summit-2017)
-    + [ETC Summit 2018](#etc-summit-2018)
-    + [ETC Summit 2019](#etc-summit-2019)
-  * [Crypto Podcasts](#crypto-podcasts)
-  * [Videos](#videos)
+  - [Blogs, Mailing Lists, Newsletters](#blogs-mailing-lists-newsletters)
+  - [Books](#books)
+  - [Conferences](#conferences)
+    - [ETC Summit 2017](#etc-summit-2017)
+    - [ETC Summit 2018](#etc-summit-2018)
+    - [ETC Summit 2019](#etc-summit-2019)
+  - [Crypto Podcasts](#crypto-podcasts)
+  - [Videos](#videos)
 - [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
-  * [How to Contribute to the Ethereum Classic Awesome List](#how-to-contribute-to-the-ethereum-classic-awesome-list)
-  * [License](#license)
+  - [How to Contribute to the Ethereum Classic Awesome List](#how-to-contribute-to-the-ethereum-classic-awesome-list)
+  - [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Overview
+
+Logo:
+<img width="100px" src="./images/ethereum_classic_logo_green_full.png"> Website: *https://ethereumclassic.org* | Code Repository: *https://github.com/ethereumclassic* | Ticker Symbol: *[ETC](https://messari.io/asset/ethereum-classic/)* | Gensis Block: [2015-07-30](https://expedition.dev/block/0x88e96d4537bea4d9c05d12549907b32561d3bf31f45aae734cdc119f13406cb6?network=mainnet) | [Asset Profile](https://messari.io/asset/ethereum-classic/profile)
+
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
 
 **Ethereum project splits in a contentious hard fork**
@@ -121,14 +106,6 @@ This list is curated by the public. If a link is broken, malicious, or you want 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 
 >Initially, Ethereum Classic was only traded publicly on Bitsquare (now called [Bisq](https://bisq.network/markets/?currency=etc_btc)) and within a forum post on [bitcointalk.org](https://bitcointalk.org). On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
-
-# Ethereum Classic Network
-
-<div align="left">
-  <img width="200px" alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full.png"><br/>
-  <b>Ticker Symbol:</b>  <a href="https://messari.io/asset/ethereum-classic/" alt="Ethereum Classic Ticker">ETC</a></br/>
-  <b>Asset Details:</b>  <a href="https://messari.io/asset/ethereum-classic/profile" alt="Ethereum Classic">Ethereum Classic Profile</a>
-</div>
 
 ## Ethereum Classic Virtual Machine Chains
 source: [EthereumVM.net](http://ethereumvm.net/)
