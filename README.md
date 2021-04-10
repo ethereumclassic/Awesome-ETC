@@ -228,6 +228,7 @@ Note: If your project is not listed, please reach out to the community via the E
 - [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [StealthEx](https://stealthex.io/)
+- [SwapSwop](https://swapswop.io/)
 - [Swapzone](https://swapzone.io/?to=btc&from=etc)
 - [Switchain](https://www.switchain.com)
 - [Voyager](https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/)
