@@ -83,7 +83,6 @@ __Disclaimer__: Use links at your own risk. This list is curated by the public. 
     - [ETC Summit 2019](#etc-summit-2019)
   - [Crypto Podcasts](#crypto-podcasts)
   - [Videos](#videos)
-- [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -720,7 +719,6 @@ Descriptions and implementations of Ethereum-related protocols.
   <img alt="Awesome List Logo" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true">
 </div>
 
-# Ethereum Classic Awesome List Resources
 # Contribute
 
 To contribute to this document, simply submit an [issue](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request) or [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `feature` branch and the maintainers will review. See the [Contributing](Contributing.md) guide for additional information.
