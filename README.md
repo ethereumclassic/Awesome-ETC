@@ -710,15 +710,6 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
 - [Unstoppable Code: The Difference Between Can't and Won't](https://youtu.be/Q6euy5W1js4) -  In this talk, Andreas discusses what is interesting about both Bitcoin and Ethereum: unstoppable code. He looks at cryptography and decentralized systems as defensive mechanisms to assert and enforce our human rights, and the effect of the Silk Road on the public's perception of cryptocurrencies. He also warns that the Ethereum community will soon need to reconcile diverse ethical codes and legal jurisdictions, and make a decision about whether they will build "won't" or "can't" governance systems. What is the unstoppable code worth running?
-
-<div align="center">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_full_spin.gif">
-</div>
-
-<div align="center">
-  <img alt="Awesome List Logo" src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true">
-</div>
-
 # Contribute
 
 To contribute to this document, simply submit an [issue](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request) or [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `feature` branch and the maintainers will review. See the [Contributing](Contributing.md) guide for additional information.
