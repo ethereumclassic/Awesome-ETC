@@ -5,7 +5,7 @@ Ethereum Classic is an open-source, blockchain and smart contract computing plat
 __Disclaimer__: Use links at your own risk. This list is curated by the public. Therefore, there is no guarantee that links have not been tampered with. If a link is broken, malicious, or you want to add a link; then please make a pull request and review `contributing.md`.
 
 ## Table of Contents
-- [Awesome Ethereum Classic !Awesome](#awesome-ethereum-classic-img-srchttpsrawgithubusercontentcomsindresorhusawesome9d1890e8baab141df4f6c271b414dc941d37ebaemediabadge-flat2svg-altawesome)
+- [Awesome Ethereum Classic !Awesome](#awesome-ethereum-classic-)
   - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
@@ -84,8 +84,8 @@ __Disclaimer__: Use links at your own risk. This list is curated by the public. 
   - [Crypto Podcasts](#crypto-podcasts)
   - [Videos](#videos)
 - [Ethereum Classic Awesome List Resources](#ethereum-classic-awesome-list-resources)
-  - [How to Contribute to the Ethereum Classic Awesome List](#how-to-contribute-to-the-ethereum-classic-awesome-list)
-  - [License](#license)
+- [Contribute](#contribute)
+- [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -723,7 +723,7 @@ Descriptions and implementations of Ethereum-related protocols.
 # Ethereum Classic Awesome List Resources
 # Contribute
 
-To contribute to this document, simply submit an issue or pull request to the `feature` branch and the maintainers will review. See the [Contributing](Contributing.md) guide for additional information.
+To contribute to this document, simply submit an [issue](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request) or [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `feature` branch and the maintainers will review. See the [Contributing](Contributing.md) guide for additional information.
 
 # License
 
