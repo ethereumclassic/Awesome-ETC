@@ -2,86 +2,62 @@
 
 An awesome list of resources for the Ethereum Classic (ETC) project. This is an open-source project contributed by the ETC community. See [contribute](#contribute) to get started supporting this project.
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+# Overview & History
 
-# Overview
+- [ETC Asset Profile](https://messari.io/asset/ethereum-classic/profile) - Asset profile provided by Messari.
+- [ETC Declaration of Independance](https://ethereumclassic.org/ETC_Declaration_of_Independence.pdf)
+- [ETC Timeline](http://ethereumclassic.org/knowledge/roadmap)
 
-Logo:
-<img width="100px" src="./images/ethereum_classic_logo_green_full.png"> Website: *https://ethereumclassic.org* | Code Repository: *https://github.com/ethereumclassic* | Ticker Symbol: *[ETC](https://messari.io/asset/ethereum-classic/)* | Gensis Block: [2015-07-30](https://expedition.dev/block/0x88e96d4537bea4d9c05d12549907b32561d3bf31f45aae734cdc119f13406cb6?network=mainnet) | [Asset Profile](https://messari.io/asset/ethereum-classic/profile)
+## ETC EVM Networks
 
->Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
+| Name | Network | Chain ID  | Concensus | Clients |
+| --- | :---: | :---: | :---: | :---: |
+| Ethereum Classic | MainNet | 61 | PoW | Core-geth, Besu |
+| Astor | TestNet | 212 | PoW | Core-geth, Besu |
+| Kotti | TestNet | 6 | PoA | Core-geth, Besu |
+| Mordor | TestNet | 63 | PoW | Core-geth, Besu, Mantis |
+| Sagano | TestNet | 42 | PoW | Core-geth, Besu, Mantis
+ |
 
-**Ethereum project splits in a contentious hard fork**
->On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
+## Core Organizations
 
-<div align="center">
-  <img width="600px" src="./images/ethereum_contentious_hard_fork.png">
-  </div>
+- [ETC Cooperative](https://etccooperative.org/)
+- [ETC Core](https://etccore.io/)
+- [Mantis](https://mantisclient.io/)
 
-**Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
-
->Initially, Ethereum Classic was only traded publicly on Bitsquare (now called [Bisq](https://bisq.network/markets/?currency=etc_btc)) and within a forum post on [bitcointalk.org](https://bitcointalk.org). On July 23, 2016, [Poloniex](https://poloniex.com) recognized Ethereum Classic by listing it on their exchange and opening the first [ETC/BTC](https://poloniex.com/exchange#btc_etc) market. Proponents of the unaltered, original state Ethereum chain adopted the new brand identity of "Ethereum Classic", the color green, and the "ETC" ticker symbol. A formal [Declaration of Independence](https://github.com/ethereumclassic/DeclarationOfIndependence) was issued to the world and the unaltered, original state Ethereum chain rose from the ashes of its most notable social engineering attack. ( *[Source](https://coinjournal.net/night-poloniex-listed-ethereum-classic/)* )
-
-## Ethereum Classic Virtual Machine Chains
-source: [EthereumVM.net](http://ethereumvm.net/)
-
-| Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [source code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
-| Testnet Astor |  | ETC |  | testnet |  | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
-| Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Clique |
-| Testnet Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
-
-## Ethereum Classic Network Clients
-
-| Client Name | Status | Repository | Support |
-| --- | ---| --- | --- |
-| [Core-Geth](https://core-geth.org/) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | [gitter](https://gitter.im/core-geth/community) |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | [rocket chat](https://chat.hyperledger.org/) |
-| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | [gitter](https://gitter.im/multi-geth/community) |
-| [OpenEthereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | [discord](http://discord.io/openethereum) |
-
-## Node Deployment Tools
-- [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
-- [DappNode](https://dappnode.io/) - DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
-- [Ethercluster](https://www.ethercluster.com/) - Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
-- [QuikNode](https://quiknode.io/) - QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
+## Public Utilities
 
 ## Network Public Utilities
 
-| Network | Block Explorers| Monitors | Faucets | Public Endpoints |
-| :---: | --- | --- | :---: | :---: |
-| [Ethereum Classic](https://ethereumclassic.org) | [AnyBlock](https://explorer.anyblock.tools/ethereum/classic/), [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | X | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [BlockScout](https://blockscout.com/etc/astor/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [BlockScout](https://blockscout.com/etc/astor/) [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](https://faucet.astor.host), [2](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
-| [Kotti](https://github.com/goerli/testnet) | [AnyBlock](https://explorer.anyblock.tools/ethereum/classic/kotti/), [BlockScout](https://blockscout.com/etc/kotti/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [BlockScout](https://blockscout.com/etc/kotti/), [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [AnyBlock](https://explorer.anyblock.tools/ethereum/classic/mordor/), [BlockScout](https://blockscout.com/etc/mordor/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [BlockScout](https://blockscout.com/etc/mordor/), [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
+- Mainnet
+  - Block Explorer
+    - [BlockScout](https://blockscout.com/etc/mainnet/)
+    - [Emerald Receipt](https://receipt.emeraldpay.io/)
+    - [ETCBlockExplorer](https://etcblockexplorer.com/)
+    - [Expedition](https://expedition.dev/?network=mainnet)
+- Astor
+  - Faucet
+    - [Astor Faucet](http://astor.tmio.io:8080/)
+- Kotti
+  - Block Explorer
+    - [Blockscout](https://blockscout.com/etc/kotti/)
+  - Faucet
+    - [Kotti Authenticated Faucet](https://kottifaucet.me/)
+- Mordor
+  - Block Explorer
+    - [Blockscout](https://blockscout.com/etc/mordor/)
+  - Faucet
+    - [Mordor Authenticated Faucet](https://mordor.canhaz.net/)
+# Developers
+## Clients
 
-### Gas Fee Estimators
-- [ETCGas](http://etcgas.net)
-- [EtherGas](http://etc.ethergas.net)
-- [ETHGasStation](https://ethgasstation.info/)
-- [Expedition](https://expedition.dev/?network=mainnet)
-- [GasGauge](http://etc.gasgauge.org)
-
-# Ethereum Classic Ecosystem
-
-<div align="left">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_button_full.png">
-</div>
-
-## DApp Environment
-### Games
-- [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
-- [Aqua Bank](https://aqua.xenobank.com/) - In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
-- [Commonwealth Country](https://commonwealth.gg/country.html) - Generate an immutable new Country based on your ETC Address.
-- [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
-- [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
-
-### Decentralized Identity DApps
-- [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
-a global public utility for self-sovereign identity
-- [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
-
+- [Core-geth](http://core-geth.org/) - An ETC protocol providing clients written in Go.
+- [Hyperledger Besu](https://besu.hyperledger.org/en/stable/) - An ETC protocol providing client written in Java.
+- [Mantis](https://mantisclient.io/) - An ETC protocol providing client written in Scala.
+## Infrastructure Providers
+- [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks.
+- [Ethercluster](https://www.ethercluster.com/) (free) - Ethercluster is an open-source Infura-like alernative based on GKE. 
+- [Rivet](https://rivet.cloud/) - Cloud-based Ethereum APIs that truly just work.
 ### EVM Interoperability Projects
 - [BTC-to-wBTC](https://wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
 - [ETC-to-wETC](https://wetc.app/) - The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
@@ -94,15 +70,15 @@ a global public utility for self-sovereign identity
 - [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
 - [ONEX Network](https://onex.network/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
 
-### Other Projects
-- [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
-- [Portal.Network](https://www.portal.network/) - Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
-- [XAR Network](https://xar.network/) - Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
+# User Showcase
 
-Note: If your project is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+- [Commonwealth](https://commonwealth.gg/) - A peer-to-peer savings fund that allows its users to own micro-equity and share fees from its use.
+- [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - ETCG is solely and passively invested in Ethereum Classic, enabling investors to gain exposure to ETC in the form of a security while avoiding the challenges of buying, storing, and safekeeping ETC directly.
 
-## Notable Exchanges
-### Centralized Exchanges
+# Investors
+
+## Exchanges
+
 - [Binance](https://www.binance.com/en/trade/ETC_USDT)
 - [Binance US](https://www.binance.us/en/trade/ETC_USD)
 - [Bitfinex](https://www.bitfinex.com/t/ETC:USD)
@@ -124,8 +100,8 @@ Note: If your project is not listed, please reach out to the community via the E
 - [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETC)
 - [Yobit](https://yobit.net/en/trade/ETC/BTC)
 
-### Instant Exchanges
-*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
+## Instant Exchanges
+
 - [ABRA](https://www.abra.com/)
 - [ALFACashier](https://www.alfacashier.com/)
 - [AtomicWallet](https://atomicwallet.io)
@@ -148,13 +124,8 @@ Note: If your project is not listed, please reach out to the community via the E
 - [Voyager](https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/)
 - [XChange](https://www.xchange.me/)
 
-### Trust Minimizing Exchanges
-- [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [Saturn Network](https://www.saturn.network/exchange/ethereum-classic)
-
-Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
-
 ## Payment Processors
+
 - [AnyCoinDirect](https://anycoindirect.eu/en/buy-ethereum-classic)
 - [Bit4Sale](https://bit4.sale/)
 - [Bitladon](https://www.bitladon.com/ethereum-classic)
@@ -172,18 +143,16 @@ Note: If your exchange is not listed, please reach out to the community via the 
 - [Utrust](https://utrust.com/)
 
 ## Portfolio Trackers
-### Mobile Apps
+
 - [AltPocket](https://altpocket.io/)
 - [Blockfolio](https://blockfolio.com/)
 - [Delta](https://delta.app/)
 - [GEM](https://gem.co/)
-### Websites
 - [Coinfolio](https://coin-folio.com/)
 - [CoinFYI](https://coin.fyi/coins/ethereum-classic)
 - [CoinStats](https://coinstats.app/)
 - [CoinTracking](https://cointracking.info/)
-
-## Stock Screeners
+## Screeners
 - [CNBC](https://www.cnbc.com/quotes/?symbol=ETCG&qsearchterm=ethereum)
 - [CoinCodex](https://coincodex.com/crypto/ethereum-classic/)
 - [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
@@ -202,8 +171,8 @@ Note: If your exchange is not listed, please reach out to the community via the 
 - [WorldCoinIndex](https://www.worldcoinindex.com/coin/ethereumclassic)
 - [Yahoo Finance](https://finance.yahoo.com/quote/ETC-USD?p=ETC-USD)
 
-## Aggregators
-### Crypto News Aggregators
+## News Aggregators
+
 - [Blockfolio Signal](https://blockfolio.com/signal)
 - [Bloomberg Crypto](https://www.bloomberg.com/topics/ethereum-classic)
 - [Coinstats News](https://coinstats.app/en/news)
@@ -235,8 +204,7 @@ Note: If your exchange is not listed, please reach out to the community via the 
 - [Accointing](https://www.accointing.com/)
 - [CoinTracker](https://www.cointracker.io/)
 - [CoinTracking](https://cointracking.info/)
-
-Note: If your business is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+- [Koinly](https://koinly.io/)
 
 ## Ethereum Classic Wallets
 ### Browser Wallets
