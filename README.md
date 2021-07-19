@@ -721,9 +721,9 @@ Descriptions and implementations of Ethereum-related protocols.
 </div>
 
 # Ethereum Classic Awesome List Resources
-## How to Contribute to the Ethereum Classic Awesome List
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+# Contribute
+
+To contribute to this document, simply submit an issue or pull request to the `feature` branch and the maintainers will review. See the [Contributing](Contributing.md) guide for additional information.
 
 # License
 
