@@ -58,17 +58,53 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks.
 - [Ethercluster](https://www.ethercluster.com/) (free) - Ethercluster is an open-source Infura-like alernative based on GKE. 
 - [Rivet](https://rivet.cloud/) - Cloud-based Ethereum APIs that truly just work.
-### EVM Interoperability Projects
+
+## Tooling
+
+- [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+- [Dappkit](https://dappkit.io/) - A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
+- [Embark Framework](https://framework.embarklabs.io/) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
+- [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
+- [Ethereum JSON-RPC API](https://github.com/etclabscore/ethereum-json-rpc-specification) - A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
+- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
+- [EVM-LLVM](https://github.com/etclabscore/evm_llvm) - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+- [Ganache](https://www.trufflesuite.com/ganache) - Personal Ethereum blockchain to run tests.
+- [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+- [Mythx](https://mythx.io/) - MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
+- [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
+- [Quorum](https://www.goquorum.com/) - Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
+- [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
+- [Signatory](https://signatory.dev/) - An offline transaction and message signer for the Ethereum Stack.
+- [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+- [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+- [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+
+## EVM Interoperability Projects
 - [BTC-to-wBTC](https://wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
 - [ETC-to-wETC](https://wetc.app/) - The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
 - [EVM-to-BNC Bridge](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
 - [Token Bridge](https://docs.tokenbridge.net/) - The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
 
-### Open Finance Dapps and Protocols
-- [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
-- [ePOC](https://etc.poc35.co/) - ePoC is based on a ETC smart contract run on the ethereum blockchain. It’s modeled after Powh3D.
+## Tutorials
+
+Step by step guides on using the Ethereum tech stack.
+
+- [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game.
+- [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
+- [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
+- [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) - Informal guide to starting developing DApps.
+- [Full Stack DApp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
+- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
+- [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Building smart contracts with Metamask and Remix IDE.
+- [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
+- [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
+
+## Crowdfunding and freelance
+
 - [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
-- [ONEX Network](https://onex.network/) - Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
 
 # User Showcase
 
@@ -190,45 +226,29 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 - [DappStatus](https://dappstatus.com/)
 - [State of the Dapps](https://www.stateofthedapps.com/)
 
-### DeFi Open Finance Analytics
-- [0xTracker](https://0xtracker.com/)
-- [CoinInterestRates](https://coininterestrates.com/)
-- [DeFi Prime](https://defiprime.com/)
-- [DeFi Pulse](https://defipulse.com/)
-- [DeFiScan](https://defiscan.io/)
-- [LoanScan](https://loanscan.io/)
-- [UniswapROI](https://www.uniswaproi.com/)
-- [Whois0x](https://whois0x.io/)
-
 ## Taxation Tools
 - [Accointing](https://www.accointing.com/)
 - [CoinTracker](https://www.cointracker.io/)
 - [CoinTracking](https://cointracking.info/)
 - [Koinly](https://koinly.io/)
 
-## Ethereum Classic Wallets
-### Browser Wallets
-- Interactive Browser Wallets can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. *Not Recommended:* Keystores & Paper Wallets can be generated from these interfaces.
-- Stand-alone Browser Wallets are dedicated browser wallet with no downloads designed for desktop or mobile use.
-- Web3 Wallets are browser extensions for interacting with DApps built on Ethereum based networks (EVMs).
+# Wallets
 
-| Interactive | Stand-Alone | Web3 |
-| :---: | :---: | :---: |
-| [MyCrypto](https://www.mycrypto.com) | [Portis](https://www.portis.io/) | [MetaMask](https://metamask.io/) |
-| [MyEtherWallet](https://www.myetherwallet.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
-|  |  | [Opera](https://www.opera.com/crypto) |
-|  |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
+- MyCrypto
+- MetaMask
+- MyEtherWallet
+- Nifty Wallet
 
-### Hardware Wallet
-*Hardware wallets are secure wallets designed for long term storage.*
+## Hardware Wallet
+Hardware wallets are secure wallets designed for long term storage.
 - [Bitski](https://www.bitski.com/)
 - [Ellipal](https://www.ellipal.com/)
 - [Ledger](https://shop.ledger.com/)
 - [SafePal](https://www.safepal.io/)
 - [Trezor](https://trezor.io/)
 
-### Software Wallets
-*Software wallets are Desktop or Mobile devices designed for short-term storage.*
+## Software Wallets
+Software wallets are Desktop or Mobile devices designed for short-term storage.
 - [Alpha Wallet](https://alphawallet.com/)
 - [AToken](https://www.atoken.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
@@ -251,103 +271,48 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 - [Trust Wallet](https://trustwallet.com/)
 - [Zelcore Wallet](https://zel.network/project/zelcore/)
 
-### Other Wallet Products
-- [BillFodl](https://billfodl.com/) - Billfodl is the most secure way to store your crypto wallet backup, safe from hackers and acts of god. Don't be caught in the rain without one.
-- [Blockplate](https://www.blockplate.com/) - Blockplate is a tool to permanently store and preserve your cryptocurrency's wallet recovery seed. In the event your wallet becomes compromised, Blockplates contain the 12-24 words phrase used to restore the funds on your wallet. Each Blockplate stores up to 12 words (6 words on the front, 6 words on the back).
-- [ColdTi](https://coldti.com/) - ColdTi is the world’s best cryptocurrency seed storage solution. It won’t rust, melt or mutilate for millennia. ColdTi accommodates any seed, is language agnostic and was designed to be inconspicuously sealed with numbered, holographic stickers to indicate tampering. Simply put ColdTi is the easiest and safest place to store your cryptocurrency seed.
-- [Crypto Key Stack](https://cryptokeystack.com/) - Build your stack to your specs. Store one 24 word mnemonic seed per plate. Add up to 10 plates per stack.
-- [CryptoSteel](https://cryptosteel.com/) - The Cryptosteel Capsule is the premier backup tool for autonomous offline storage of valuable data without any third-party involvement. The solid metal device, designed to survive extreme conditions, works under nearly all circumstances.
-- [CRYPTOTAG](https://cryptotag.io/) - We have devoted our time and resources to create the best backup in the world. No compromises made here. Our high-end products enable people around the world to be their own bank. Secure your financial freedom with your own CRYPTOTAG today.
-- [Hodlinox](https://hodlinox.com/) - Hodlinox are metal plates on which you can engrave the seed phrase to your bitcoin wallet. The plates are made from extra thick stainless steel and can be locked together with a tamper-evident all-metal security seal. Protect your crypto from fire, water and disasters, by using Hodlinox plates.
-- [Steely](https://thesteely.com/) - Don't become a victim of Murphy's law. Store your hardware wallet recovery sentence, private keys, or mnemonic phrases in a Steely, the most durable and badass way to backup your crypto assets.
+## Metal Wallets
 
-Note: If your product is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+- [BillFodl](https://billfodl.com/)
+- [Blockplate](https://www.blockplate.com/)
+- [ColdTi](https://coldti.com/)
+- [Crypto Key Stack](https://cryptokeystack.com/)
+- [CRYPTOTAG](https://cryptotag.io/)
+- [Hodlinox](https://hodlinox.com/)
+- [Steely](https://thesteely.com/)
+  
+# Mining
+## Mining Pools
 
-# Ethereum Classic Participants
+- [Ethermine](https://etc.ethermine.org/)
+- [Nanopool](https://etc.nanopool.org/)
+- [Hiveon Pool](https://hiveon.net/)
+- [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
+- [2Miners](https://2miners.com/etc-mining-pool)
 
-<div align="left">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_black_fractal.png">
-</div>
+See more mining pools: https://tinyurl.com/2xpd86p3
+### Mining Software
 
-## Development Teams
+- [NanoMiner](https://github.com/nanopool/nanominer/releases/tag/v1.12.0)
+- [LolMiner](https://github.com/Lolliedieb/lolMiner-releases/releases/tag/1.12)
+- [GMiner](https://github.com/develsoftware/GMinerRelease/releases/tag/2.30)
+- [T-Rex](https://github.com/trexminer/T-Rex/releases/tag/0.18.8)
+- [NBMiner](https://github.com/NebuTech/NBMiner/releases/tag/v33.4)
+- [SRBMiner-Multi](https://github.com/doktor83/SRBMiner-Multi/releases/tag/0.5.6)
+- [TeamRedMiner](https://github.com/todxx/teamredminer/releases/tag/0.7.18)
+- [PhoenixMiner](https://github.com/ethash-community/ethash/releases/tag/5.3b)
 
-| Year | Team Name | Twitter | Status | Repository |
-| --- |--- | --- | :---: | --- |
-| 2015 | [Ethereum Foundation](https://ethereum.org/) | [@ethereum](https://twitter.com/ethereum) | Active | [source code](https://github.com/ethereum/) |
-| 2016 | [ETC Consortium](https://etcconsortium.org/) | [@ETCConsortium](https://twitter.com/ETCConsortium) | Active | |
-| 2016 | [ETCDEV](https://etcdevteam.com/) | [@getemerald](https://twitter.com/getemerald) | Active | [source code](https://github.com/ETCDEVTeam/) |
-| 2016 | [IOHK (Grothendieck)](https://iohk.io/projects/ethereum-classic/) | [@InputOutputHK](https://twitter.com/InputOutputHK) | Inactive | [source code](https://github.com/input-output-hk/mantis) |
-| 2016 | [Parity Technologies](https://parity.io/) | [@ParityTech](https://twitter.com/ParityTech) | Active | [source code](https://github.com/paritytech/) |
-| 2017 | [Core Paper](https://corepaper.org/) | [@corepaper](https://twitter.com/corepaper) | Active | [source code](https://github.com/corepaper/corepaper) |
-| 2017 | [ETC Cooperative](https://etccooperative.org/) | [@ETCCooperative](https://twitter.com/ETCCooperative) | Active | [source code](https://github.com/ETCCooperative) |
-| 2017 | [Ethereum Commonwealth](https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/) | [@Dexaran](https://twitter.com/Dexaran) | Inactive | [source code](https://github.com/EthereumCommonwealth/) |
-| 2018 | [Commonwealth.gg](https://commonwealth.gg) | [@commonwealthgg](https://twitter.com/commonwealthgg) | Active | [source code](https://github.com/p3c-bot) |
-| 2018 | [ETC Labs](https://etclabs.org/) | [@etclabs](https://twitter.com/etclabs) | Active | [source code](https://github.com/etclabscore) |
-| 2018 | [Fission](https://fission.codes/) | [@FISSIONcodes](https://twitter.com/FISSIONcodes) | Active | [source code](https://ecips.ethereumclassic.org/ECIPs/ecip-1050) |
-| 2018 | [POA Network](https://www.poa.network/) | [@poanetwork](https://twitter.com/poanetwork) | Active | [source code](https://github.com/poanetwork) |
-| 2019 | [ChainSafe](https://chainsafe.io/) | [@ChainSafeth](https://twitter.com/ChainSafeth) | Active | [source code](https://github.com/ChainSafe) |
-| 2019 | [Code Shelter](https://www.codeshelter.co/) | [@code_shelter](https://twitter.com/code_shelter) | Active | [source code](https://github.com/multi-geth/multi-geth) |
-| 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
-| 2019 | [PegaSys](https://pegasys.tech/) | [@PegaSysEng](https://twitter.com/PegaSysEng) | Active | [source code](https://github.com/hyperledger/besu) |
-| 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
-| 2020 | [Gödel Labs 哥德尔实验室](https://www.godel.ai/) | [@Goedellabs](https://twitter.com/Goedellabs) | Active | [source code](https://github.com/multi-geth/multi-geth) |
+### Mining Pool Software
+- [Open ETC Pool](https://github.com/etclabscore/open-etc-pool)
+- [Stand-alone `etchash` library (go)](https://github.com/etclabscore/go-etchash)
 
-Note: If attribution is missing for your team, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
-
-
-## Mining
-### Top 5 Mining Pools
-Top 5 Mining Pools by Hashrate at the time of writing:
-1. [Ethermine](https://etc.ethermine.org/)
-2. [Nanopool](https://etc.nanopool.org/)
-3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
-4. [2Miners](https://2miners.com/etc-mining-pool)
-5. [Beepool](https://beepool.org/coindetail/etc)
-
-source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
-
-### Miner Software
-Mining Algorithm: *Ethash*
-
-| Miner Name | Tutorial | Windows x64 || Linux | |
-| --- | --- | :---: | :---: | :---: | :---: |
-| | | AMD | NVIDIA | AMD | NVIDIA |
-| [Antminer E3](https://service.bitmain.com/support/download?product=Antminer%20E3) | [guide](https://antpool.kf5.com/hc/kb/article/1281448/) | | | | |
-| [Bminer](https://www.bminer.me/releases/) | [guide](https://www.bminer.me/examples/#mining-ethereum-ethereum-classic) | ✓ | | ✓ | |
-| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-claymore/) | ✓ | ✓ | ✓ | ✓ |
-| [Easy Miner](http://www.qskg.top/) | [guide](http://www.qskg.top/eth.html) | ✓ | ✓ | | |
-| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [guide](https://www.cruxpool.com/help/how-to-mine-with-ethminer/) | ✓ | ✓ | ✓ | ✓ |
-| [Minergate xFast](https://minergate.com/downloads) | | ✓ | ✓ | ✓ | ✓ |
-| [MinerOS: Miner Babe](https://minerbabe.com/) | [guide](http://support.minerbabe.com/archives/category/tutorial) | | | ✓ | ✓ |
-| [MinerOS: Miner Butler](https://mineros.cn/) | [guide](https://mineros.cn/index.php/zh/course) | | | ✓ | ✓ |
-| [Nanominer](https://github.com/nanopool/nanominer/releases) | [guide](https://help.nanopool.org/article/48-help) | ✓ | ✓ | ✓ | ✓ |
-| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [guide](https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/) | ✓ | ✓ | ✓ | ✓ |
-
-## Social Channels
-### Public Service Announcement
-There is **NO OFFICIAL ANYTHING**.
->Ethereum Classic is an open source, decentralized project with a global *permissionless* ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's `assets` or `commons` (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project.
+# Community
 
 ### Chat
-- [Discord](https://discordapp.com/invite/HW4GckH)
-- [Facebook](https://www.facebook.com/EthereumClassicETC/)
-- Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
-- Slack: [Ethereum Classic](https://ethereumclassic.herokuapp.com/)
+- Discord: [ETC - Ethereum Classic](https://discord.gg/hQs894U)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
-- Tencent QQ: ETC Asia-769408114
-- WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
-
-### Development
-- Discord: [Commonwealth.gg](https://discord.gg/crjsdJr), [Core Paper](https://discord.io/ethereumclassic), [ETC Core](https://discord.gg/5KwEAdZ), [OpenEthereum](http://discord.io/openethereum), [PAO Network](https://discord.gg/mPJ9zkq)
-- Gitter: [Core Geth](https://gitter.im/core-geth/community), [Multi-Geth](https://gitter.im/multi-geth/community), [Open-RPC](https://gitter.im/open-rpc/community), [POA Network](https://gitter.im/poanetwork/)
-- Matrix: [ECIPs](https://riot.im/app/#/room/#ecips:matrix.org), [Parity Tech](https://riot.im/app/#/room/#watercooler:matrix.parity.io)
-- Rocket Chat: [Hyperledger Besu](https://chat.hyperledger.org/)
-- Telegram: [ETCDEV](https://t.me/GetEmerald), [ETC Labs](https://t.me/etclabs), [Parity Tech](https://t.me/parity_technologies), [POA Network](https://t.me/poa_network)
-- Weibo: [Gödel Labs](https://weibo.com/godellabs)
 
 ### Forum
-- BitcoinTalk: [ETC Current](https://bitcointalk.org/index.php?topic=5134923), [ETC Archived](https://bitcointalk.org/index.php?topic=1559630.0)
-- EthereumClassic.org [Forum](https://forum.ethereumclassic.org/)
 - Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
 
 ### Podcasts
@@ -357,79 +322,29 @@ There is **NO OFFICIAL ANYTHING**.
 
 ### Repository
 - [Github](https://github.com/ethereumclassic)
-- [ETC Awesome List](https://github.com/ethereumclassic/Awesome-ETC)
 
 ### Twitter
-- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [France](https://twitter.com/ETC_France), [Germany](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Philippines](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Turkey](https://twitter.com/EtcTurkiye), [Viet Nam](https://twitter.com/ETCVietNam)
-
+- Twitter: [@eth_classic](https://twitter.com/eth_classic)
 ### Websites
 - [EthereumClassic.org](https://ethereumclassic.org)
-- Region Specific Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
+- Region Specific Sites: , [China](http://ethereumclassic.cn/)
 
-Note: If your social channel is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+# Education
 
-# Development Resources
-
-<div align="left">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_phoenix_green_partial.png">
-</div>
-
-## Tooling
-- [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
-- [Dappkit](https://dappkit.io/) - A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
-- [Embark Framework](https://framework.embarklabs.io/) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
-- [Emerald Platform](https://github.com/ETCDEVTeam/emerald-platform) - Platform for building Dapps for ETC blockchain.
-- [ESerialize](https://eserialize.com/?input=string&output=hex) - The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
-- [Ethereum JSON-RPC API](https://github.com/etclabscore/ethereum-json-rpc-specification) - A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
-- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
-- [EVM-LLVM](https://github.com/etclabscore/evm_llvm) - Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
-- [Ganache](https://www.trufflesuite.com/ganache) - Personal Ethereum blockchain to run tests.
-- [Jade Suite](https://jade.builders/) - The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
-- [Mythx](https://mythx.io/) - MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
-- [Open-RPC](https://open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
-- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
-- [Quorum](https://www.goquorum.com/) - Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
-- [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
-- [Signatory](https://signatory.dev/) - An offline transaction and message signer for the Ethereum Stack.
-- [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
-- [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
-- [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
-
-## Tutorials
-Step by step guides on using the Ethereum tech stack.
-- [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game.
-- [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
-- [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
-- [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) - Informal guide to starting developing DApps.
-- [Full Stack DApp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
-- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
-- [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Building smart contracts with Metamask and Remix IDE.
-- [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
-- [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
-
-# Educational Material
-
-<div align="left">
-  <img alt="Ethereum Classic Logo" src="./images/ethereum_classic_logo_green_ec.png">
-</div>
-
-## Ethereum Project Technical Papers
+## Papers
 - [Ethereum Project White Paper](https://github.com/ethereumclassic/wiki/ethereum_white_paper.pdf) - Non-technical introductory description of the Ethereum project.
 - [Ethereum Project Yellow Paper](https://github.com/ethereumclassic/wiki/ethereum_yellow_paper.pdf) - Technical description of the Ethereum project. Technically outdated, but interesting.
 
-## Ethereum Project Wiki
+## Wiki
 - [Ethereum Classic chain's Wiki (ETC)](https://github.com/ethereumclassic/wiki/wiki) - Ethereum Classic wiki covering all things related to Ethereum Classic. The go-to place for all things Ethereum Classic (ETC) chain.
 - [Ethereum chain's Wiki (ETH)](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things Ethereum (ETH) chain.
 - [Ethereum chain's Community Wiki (ETH)](https://eth.wiki/) - Ethereum's ETH community wiki. An alternative wiki for the Ethereum chain (ETH).
 
-## Code Documentation
+## Smart Contract Documentation
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
-- [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
-- [POA Network](https://www.poa.network/) - POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem.
 
-## Ethereum Project Theory
+## Theory and Concepts
 Learn about the theory behind the Ethereum project.
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
 - [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
@@ -442,9 +357,6 @@ Learn about the theory behind the Ethereum project.
 - [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) - Introduction to Bitcoin and blockchain technology MOOC.
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Security related best practices for smart contracts.
 - [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)
-
-## Ethereum Project Philosophy
-### The Ethereum project and greater EVM ecosystem
 - [The idea of Smart Contracts](https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html) - Nick Szabo's idea of smart contracts post from 1997.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper) - Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
 - [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - Smart contract security attacks.
@@ -452,10 +364,6 @@ Learn about the theory behind the Ethereum project.
 - [Ethereum Classic (ETC) Improvement Proposals](https://ecips.ethereumclassic.org/) - Standards for the Ethereum's ETC platform, including core protocol specifications, client APIs, and contract standards (ECIPs).
 - [Ethereum (ETH) Wiki Philosophy](https://github.com/ethereum/wiki/Philosophy) - Some of the core philosophies of Ethereum's ETH chain.
 - [Ethereum(ETH) )Improvement Proposals](https://eips.ethereum.org/) - Standards for Ethereum's ETH platform, including core protocol specifications, client APIs, and contract standards (EIPS).
-
-### The Ethereum Classic chain: The continuation of the original Ethereum project
-The ideas behind the continuation of the original Ethereum project post-DAO bailout fork.
-*Note:* There are no centralized leaders in the Ethereum Classic EVM project.
 - [Understanding the DAO](https://www.coindesk.com/understanding-dao-hack-journalists)
 - [The Ethereum Classic Declaration of Independence](https://github.com/ethereumclassic/wiki/wiki/The-Ethereum-Classic-Declaration-Of-Independence)
 - [A Crypto-Decentralist Manifesto](https://ethereumclassic.org/blog/2016-07-11-manifesto/)
@@ -470,9 +378,7 @@ The ideas behind the continuation of the original Ethereum project post-DAO bail
 - [Into the Ether with Ethereum Classic](https://grayscale.co/insights/into-the-ether-with-ethereum-classic/) - The Store of Value Commodity to Power the Internet of Things
 - [What is Ethereum Classic (ETC)?](https://www.publish0x.com/the-crypto-enthusiast-blog-intro/what-is-ethereum-classic-etc-the-coin-that-got-away-beginner-xkzrzo) - A Beginner's Guide to the `The Coin that Got Away`
 
-## Ethereum Classic Consensus Mechanisms
-Ethereum Classic is committed to Proof of Work as a consensus mechanism.
-The current Proof-of-Work (PoW) algorithm is `Ethash`.
+## Consensus Mechanisms
 
 ### Clique
 This Proof-of-Authority algorithm (PoA) is active on the Kotti testnet.
