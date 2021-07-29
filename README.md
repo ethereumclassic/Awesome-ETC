@@ -13,10 +13,10 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 | Name | Network | Chain ID  | Concensus | Clients |
 | --- | :---: | :---: | :---: | :---: |
 | Ethereum Classic | MainNet | 61 | PoW | Core-geth, Besu |
-| Astor | TestNet | 212 | PoW | Core-geth, Besu |
+| Astor | TestNet | 212 | PoW | Besu |
 | Kotti | TestNet | 6 | PoA | Core-geth, Besu |
 | Mordor | TestNet | 63 | PoW | Core-geth, Besu, Mantis |
-| Sagano | TestNet | 42 | PoW | Core-geth, Besu, Mantis
+| Sagano | TestNet | 42 | PoW | Mantis
 
 ## Core Organizations
 
