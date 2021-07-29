@@ -17,7 +17,6 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 | Kotti | TestNet | 6 | PoA | Core-geth, Besu |
 | Mordor | TestNet | 63 | PoW | Core-geth, Besu, Mantis |
 | Sagano | TestNet | 42 | PoW | Core-geth, Besu, Mantis
- |
 
 ## Core Organizations
 
