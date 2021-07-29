@@ -25,7 +25,7 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 - [ETC Core](https://etccore.io/)
 - [Mantis](https://mantisclient.io/)
 
-## Public Utilities
+# Public Utilities
 
 ## Network Public Utilities
 
@@ -48,6 +48,11 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
     - [Blockscout](https://blockscout.com/etc/mordor/)
   - Faucet
     - [Mordor Authenticated Faucet](https://mordor.canhaz.net/)
+- Sagano
+  - Block Explorer
+    - [Sagano Explorer](https://mantis-testnet-explorer.mantis.ws/)
+  - Faucet
+    - [Sagano Faucet](https://mantis-testnet-faucet-web.mantis.ws/)
 # Developers
 ## Clients
 
@@ -189,6 +194,7 @@ Step by step guides on using the Ethereum tech stack.
 - [CoinStats](https://coinstats.app/)
 - [CoinTracking](https://cointracking.info/)
 ## Screeners
+
 - [CNBC](https://www.cnbc.com/quotes/?symbol=ETCG&qsearchterm=ethereum)
 - [CoinCodex](https://coincodex.com/crypto/ethereum-classic/)
 - [CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic)
@@ -217,6 +223,7 @@ Step by step guides on using the Ethereum tech stack.
 - [TokenInsight](https://tokeninsight.com/tokenDetail?cid=2659)
 
 ### Dapp Lists
+
 - [CoinCodex](https://coincodex.com/dapp-list/)
 - [CryptoGround](https://www.cryptoground.com/dapp)
 - [Dapp.com](https://www.dapp.com/ja/search)
@@ -227,6 +234,7 @@ Step by step guides on using the Ethereum tech stack.
 - [State of the Dapps](https://www.stateofthedapps.com/)
 
 ## Taxation Tools
+
 - [Accointing](https://www.accointing.com/)
 - [CoinTracker](https://www.cointracker.io/)
 - [CoinTracking](https://cointracking.info/)
@@ -240,7 +248,9 @@ Step by step guides on using the Ethereum tech stack.
 - Nifty Wallet
 
 ## Hardware Wallet
+
 Hardware wallets are secure wallets designed for long term storage.
+
 - [Bitski](https://www.bitski.com/)
 - [Ellipal](https://www.ellipal.com/)
 - [Ledger](https://shop.ledger.com/)
@@ -248,7 +258,9 @@ Hardware wallets are secure wallets designed for long term storage.
 - [Trezor](https://trezor.io/)
 
 ## Software Wallets
+
 Software wallets are Desktop or Mobile devices designed for short-term storage.
+
 - [Alpha Wallet](https://alphawallet.com/)
 - [AToken](https://www.atoken.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
@@ -308,7 +320,7 @@ See more mining pools: https://tinyurl.com/2xpd86p3
 
 # Community
 
-### Chat
+## Chat
 - Discord: [ETC - Ethereum Classic](https://discord.gg/hQs894U)
 - Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
 
@@ -378,24 +390,13 @@ Learn about the theory behind the Ethereum project.
 - [Into the Ether with Ethereum Classic](https://grayscale.co/insights/into-the-ether-with-ethereum-classic/) - The Store of Value Commodity to Power the Internet of Things
 - [What is Ethereum Classic (ETC)?](https://www.publish0x.com/the-crypto-enthusiast-blog-intro/what-is-ethereum-classic-etc-the-coin-that-got-away-beginner-xkzrzo) - A Beginner's Guide to the `The Coin that Got Away`
 
-## Consensus Mechanisms
+## Consensus Algorithms
 
-### Clique
-This Proof-of-Authority algorithm (PoA) is active on the Kotti testnet.
-- [Clique: cross-client Proof-of-authority algorithm for Ethereum](https://medium.com/@Destiner/clique-cross-client-proof-of-authority-algorithm-for-ethereum-8b2a135201d)
-
-### Dagger Hashimoto
-This Proof-of-Work algorithm (PoW) was deactivated from the Ethereum Classic network.
-- [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto) - Ethereum Classic's previous Proof of Work Algorithm.
-
-### Ethash
-This Proof-of-Work algorithm (PoW) is active on the Mordor testnet and Ethereum Classic mainnet.
-- [Ethash](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum Classic's current Proof of Work Algorithm.
-- [Ethash Design Rationale](https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale) - an overview of Ethash's design.
-
-### Keccak256
-This Proof-of-Work algorithm (PoW) is active on the Astor testnet.
-- [Astor Testnet](https://astor.host) - a testnet design for analysis of an algorithm change for the long-term future of Ethereum Classic due to Ethash's failure at ASIC resistance.
+- [Dagger Hashimoto](https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto)
+- [Clique](https://medium.com/@Destiner/clique-cross-client-proof-of-authority-algorithm-for-ethereum-8b2a135201d)
+- [EtcHash](https://github.com/eth-classic/etchash) - 
+- [EthHash](https://github.com/ethereum/wiki/wiki/Ethash) - 
+- [Sha-3](https://csrc.nist.gov/projects/hash-functions/sha-3-project)
 
 ## Ethereum Project Protocols
 Descriptions and implementations of Ethereum-related protocols.
