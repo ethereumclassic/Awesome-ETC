@@ -159,6 +159,7 @@ Step by step guides on using the Ethereum tech stack.
 - [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [StealthEx](https://stealthex.io/)
+- [SwapSwop](https://swapswop.io/)
 - [Swapzone](https://swapzone.io/?to=btc&from=etc)
 - [Switchain](https://www.switchain.com)
 - [Voyager](https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/)
