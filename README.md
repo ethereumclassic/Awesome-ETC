@@ -34,6 +34,8 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
     - [Emerald Receipt](https://receipt.emeraldpay.io/)
     - [ETCBlockExplorer](https://etcblockexplorer.com/)
     - [Expedition](https://expedition.dev/?network=mainnet)
+  - Metrics/ Dashboards
+    - [Besu Grafana Dashboard](https://grafana.mariomichel.com/d/5S-6O8VZk/hyperledger-besu-node-at-ethereum-classic)
 - Astor
   - Faucet
     - [Astor Faucet](http://astor.tmio.io:8080/)
