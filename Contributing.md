@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contributing Guidelines
 
 We'd love for you to contribute to this project. This contributing guide provides some basic information for existing and new contributors.
 

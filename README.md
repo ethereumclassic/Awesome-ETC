@@ -13,16 +13,14 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
 | Name | Network | Chain ID  | Concensus | Clients |
 | --- | :---: | :---: | :---: | :---: |
 | Ethereum Classic | MainNet | 61 | PoW | Core-geth, Besu |
-| Astor | TestNet | 212 | PoW | Core-geth, Besu |
+| Astor | TestNet | 212 | PoW | Besu |
 | Kotti | TestNet | 6 | PoA | Core-geth, Besu |
-| Mordor | TestNet | 63 | PoW | Core-geth, Besu, Mantis |
-| Sagano | TestNet | 42 | PoW | Core-geth, Besu, Mantis
+| Mordor | TestNet | 63 | PoW | Core-geth, Besu |
 
 ## Core Organizations
 
 - [ETC Cooperative](https://etccooperative.org/)
 - [ETC Core](https://etccore.io/)
-- [Mantis](https://mantisclient.io/)
 
 # Public Utilities
 
@@ -34,6 +32,8 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
     - [Emerald Receipt](https://receipt.emeraldpay.io/)
     - [ETCBlockExplorer](https://etcblockexplorer.com/)
     - [Expedition](https://expedition.dev/?network=mainnet)
+  - Metrics/ Dashboards
+    - [Besu Grafana Dashboard](https://grafana.mariomichel.com/d/5S-6O8VZk/hyperledger-besu-node-at-ethereum-classic)
 - Astor
   - Faucet
     - [Astor Faucet](http://astor.tmio.io:8080/)
@@ -47,17 +47,14 @@ An awesome list of resources for the Ethereum Classic (ETC) project. This is an 
     - [Blockscout](https://blockscout.com/etc/mordor/)
   - Faucet
     - [Mordor Authenticated Faucet](https://mordor.canhaz.net/)
-- Sagano
-  - Block Explorer
-    - [Sagano Explorer](https://mantis-testnet-explorer.mantis.ws/)
-  - Faucet
-    - [Sagano Faucet](https://mantis-testnet-faucet-web.mantis.ws/)
+
 # Developers
+
 ## Clients
 
 - [Core-geth](http://core-geth.org/) - An ETC protocol providing clients written in Go.
 - [Hyperledger Besu](https://besu.hyperledger.org/en/stable/) - An ETC protocol providing client written in Java.
-- [Mantis](https://mantisclient.io/) - An ETC protocol providing client written in Scala.
+
 ## Infrastructure Providers
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks.
 - [Ethercluster](https://www.ethercluster.com/) (free) - Ethercluster is an open-source Infura-like alernative based on GKE. 
@@ -159,6 +156,7 @@ Step by step guides on using the Ethereum tech stack.
 - [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/coins/ethereum-classic)
 - [StealthEx](https://stealthex.io/)
+- [SwapSwop](https://swapswop.io/)
 - [Swapzone](https://swapzone.io/?to=btc&from=etc)
 - [Switchain](https://www.switchain.com)
 - [Voyager](https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/)
