@@ -111,6 +111,7 @@ Step by step guides on using the Ethereum tech stack.
 
 - [Commonwealth](https://commonwealth.gg/) - A peer-to-peer savings fund that allows its users to own micro-equity and share fees from its use.
 - [Grayscale® Ethereum Classic Trust](https://grayscale.co/ethereum-classic-trust/) - ETCG is solely and passively invested in Ethereum Classic, enabling investors to gain exposure to ETC in the form of a security while avoiding the challenges of buying, storing, and safekeeping ETC directly.
+- [ETCBayc](https://etcbayc.com/) - ETCBayc is an NFT project developed on Ethereum Classic. There are 10,000 unique ETCBayc mintable for just 2 ETC. ETCBayc however has no affiliation with the Yuga Labs LLC, the developers of the BAYC on the Ethereum Blockchain.
 
 # Investors
 
