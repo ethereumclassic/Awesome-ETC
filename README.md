@@ -265,6 +265,7 @@ Software wallets are Desktop or Mobile devices designed for short-term storage.
 - [Button Wallet](https://buttonwallet.com/)
 - [Citowise](https://citowise.com/)
 - [Cobo](https://cobo.com/)
+- [Coin Wallet](https://coin.space/)
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
 - [Cryptonator](https://www.cryptonator.com/)
