@@ -149,6 +149,7 @@ Step by step guides on using the Ethereum tech stack.
 - [Coinveer](https://coinveer.com/)
 - [Edge](https://edge.app/)
 - [Exodus](https://www.exodus.io/)
+- [SecureShift](https://secureshift.io/)
 - [Exolix](https://exolix.com/)
 - [FixedFloat](https://fixedfloat.com/)
 - [GoDex](https://godex.io/)
