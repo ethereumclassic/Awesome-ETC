@@ -161,6 +161,7 @@ Step by step guides on using the Ethereum tech stack.
 - [Switchain](https://www.switchain.com)
 - [Voyager](https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/)
 - [XChange](https://www.xchange.me/)
+- [SecureShift](https://www.secureshift.io/)
 
 ## Payment Processors
 
