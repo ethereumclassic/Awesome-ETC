@@ -145,7 +145,7 @@ Step by step guides on using the Ethereum tech stack.
 - [ChangeAngel](https://www.changeangel.io/)
 - [Changelly](https://changelly.com/)
 - [ChangeNOW](https://changenow.io/)
-- [CoinSwitch](https://coinswitch.co/)
+- [SecureShift](https://secureshift.io/) --> High liquied 
 - [Coinveer](https://coinveer.com/)
 - [Edge](https://edge.app/)
 - [Exodus](https://www.exodus.io/)
