@@ -281,6 +281,7 @@ Software wallets are Desktop or Mobile devices designed for short-term storage.
 - [Ownbit](https://ownbit.io/)
 - [Trust Wallet](https://trustwallet.com/)
 - [Zelcore Wallet](https://zel.network/project/zelcore/)
+- [Hebe Wallet](https://hebe.cc)
 
 ## Metal Wallets
 
